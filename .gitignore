@@ -1,4 +1,17 @@
-*.csv
+# ── macOS system files ──
 .DS_Store
-CSE3104-Final-Project/
-CSE3104_Project_Pipeline/
+**/.DS_Store
+
+# ── Jupyter artifacts ──
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Python cache ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── Exclude from repo ──
+unified_pipeline/
+calories data/
+outputs/
