@@ -1,0 +1,2790 @@
+zip_code,City,State,Restaurant,Lat,Long_
+99503,Anchorage,AK,Carl's Jr.,61.1952,-149.895
+99507,Anchorage,AK,Carl's Jr.,61.1373,-149.841
+99515,Anchorage,AK,Carl's Jr.,61.1087,-149.861
+99611,Kenai,AK,Carl's Jr.,60.5589,-151.238
+99654,Wasilla,AK,Carl's Jr.,61.5788,-149.406
+86429,Bullhead City,AZ,Carl's Jr.,35.1674,-114.566
+86442,Bullhead City,AZ,Carl's Jr.,34.9844,-114.351
+85222,Casa Grande,AZ,Carl's Jr.,32.8795,-111.714
+85224,Chandler,AZ,Carl's Jr.,33.3337,-111.859
+85231,Eloy,AZ,Carl's Jr.,32.7811,-111.62
+86001,Flagstaff,AZ,Carl's Jr.,35.187,-111.661
+85234,Gilbert,AZ,Carl's Jr.,33.3631,-111.79
+85296,Gilbert,AZ,Carl's Jr.,33.3065,-111.79
+85301,Glendale,AZ,Carl's Jr.,33.553,-112.184
+85306,Glendale,AZ,Carl's Jr.,33.6106,-112.169
+85308,Glendale,AZ,Carl's Jr.,33.6384,-112.215
+85338,Goodyear,AZ,Carl's Jr.,33.4642,-112.356
+85283,Guadalupe,AZ,Carl's Jr.,33.3781,-111.964
+86401,Kingman,AZ,Carl's Jr.,35.1908,-114.065
+86403,Lake Havasu City,AZ,Carl's Jr.,34.4819,-114.348
+85653,Marana,AZ,Carl's Jr.,32.4397,-111.241
+85239,Maricopa,AZ,Carl's Jr.,33.07,-112.046
+85202,Mesa,AZ,Carl's Jr.,33.3933,-111.863
+85204,Mesa,AZ,Carl's Jr.,33.3908,-111.788
+85205,Mesa,AZ,Carl's Jr.,33.4361,-111.719
+85210,Mesa,AZ,Carl's Jr.,33.3813,-111.84
+85215,Mesa,AZ,Carl's Jr.,33.4517,-111.734
+85621,Nogales,AZ,Carl's Jr.,31.3647,-110.947
+85737,Oro Valley,AZ,Carl's Jr.,32.3971,-110.959
+85345,Peoria,AZ,Carl's Jr.,33.5951,-112.22
+85345,Peoria,AZ,Carl's Jr.,33.5512,-112.281
+85016,Phoenix,AZ,Carl's Jr.,33.4804,-112.031
+85017,Phoenix,AZ,Carl's Jr.,33.4805,-112.118
+85020,Phoenix,AZ,Carl's Jr.,33.5689,-112.065
+85022,Phoenix,AZ,Carl's Jr.,33.6403,-112.032
+85031,Phoenix,AZ,Carl's Jr.,33.5094,-112.154
+85032,Phoenix,AZ,Carl's Jr.,33.6,-111.987
+85033,Phoenix,AZ,Carl's Jr.,33.4803,-112.223
+85034,Phoenix,AZ,Carl's Jr.,33.4485,-112.03
+85043,Phoenix,AZ,Carl's Jr.,33.4606,-112.169
+85048,Phoenix,AZ,Carl's Jr.,33.3055,-111.978
+85053,Phoenix,AZ,Carl's Jr.,33.6398,-112.134
+85085,Phoenix,AZ,Carl's Jr.,33.7128,-112.109
+86301,Prescott,AZ,Carl's Jr.,34.5509,-112.479
+85346,Quartzsite,AZ,Carl's Jr.,33.6625,-114.236
+85251,Scottsdale,AZ,Carl's Jr.,33.4872,-111.909
+85260,Scottsdale,AZ,Carl's Jr.,33.6232,-111.896
+85635,Sierra Vista,AZ,Carl's Jr.,31.5545,-110.277
+85705,Tucson,AZ,Carl's Jr.,32.2737,-110.978
+85705,Tucson,AZ,Carl's Jr.,32.2867,-110.962
+85706,Tucson,AZ,Carl's Jr.,32.1343,-110.922
+85710,Tucson,AZ,Carl's Jr.,32.2212,-110.826
+85711,Tucson,AZ,Carl's Jr.,32.2068,-110.905
+85713,Tucson,AZ,Carl's Jr.,32.1777,-110.955
+85715,Tucson,AZ,Carl's Jr.,32.2508,-110.858
+85719,Tucson,AZ,Carl's Jr.,32.2213,-110.944
+85745,Tucson,AZ,Carl's Jr.,32.2206,-110.981
+85746,Tucson,AZ,Carl's Jr.,32.1336,-111.001
+85364,Yuma,AZ,Carl's Jr.,32.6695,-114.624
+85365,Yuma,AZ,Carl's Jr.,32.6987,-114.61
+91301,Agoura Hills,CA,Carl's Jr.,34.1543,-118.757
+94501,Alameda,CA,Carl's Jr.,37.7827,-122.273
+91803,Alhambra,CA,Carl's Jr.,34.088,-118.152
+92656,Aliso Viejo,CA,Carl's Jr.,33.5939,-117.729
+91901,Alpine,CA,Carl's Jr.,32.8384,-116.778
+91701,Alta Loma,CA,Carl's Jr.,34.1216,-117.615
+91737,Alta Loma,CA,Carl's Jr.,34.1328,-117.593
+92801,Anaheim,CA,Carl's Jr.,33.8418,-117.959
+92801,Anaheim,CA,Carl's Jr.,33.8324,-117.95
+92801,Anaheim,CA,Carl's Jr.,33.8509,-117.924
+92802,Anaheim,CA,Carl's Jr.,33.7954,-117.915
+92805,Anaheim,CA,Carl's Jr.,33.8322,-117.919
+92806,Anaheim,CA,Carl's Jr.,33.8511,-117.857
+92806,Anaheim,CA,Carl's Jr.,33.8368,-117.871
+92806,Anaheim,CA,Carl's Jr.,33.8186,-117.889
+92806,Anaheim,CA,Carl's Jr.,33.8035,-117.889
+92806,Anaheim,CA,Carl's Jr.,33.8063,-117.876
+92806,Anaheim,CA,Carl's Jr.,33.7995,-117.889
+92807,Anaheim,CA,Carl's Jr.,33.8598,-117.79
+92807,Anaheim,CA,Carl's Jr.,33.8552,-117.838
+92808,Anaheim,CA,Carl's Jr.,33.8674,-117.745
+94531,Antioch,CA,Carl's Jr.,37.9681,-121.786
+92307,Apple Valley,CA,Carl's Jr.,34.5002,-117.191
+91006,Arcadia,CA,Carl's Jr.,34.1304,-118.026
+95521,Arcata,CA,Carl's Jr.,40.9002,-124.083
+93420,Arroyo Grande,CA,Carl's Jr.,35.1307,-120.606
+93422,Atascadero,CA,Carl's Jr.,35.4844,-120.662
+95603,Auburn,CA,Carl's Jr.,38.9353,-121.093
+95603,Auburn,CA,Carl's Jr.,38.9218,-121.057
+91702,Azusa,CA,Carl's Jr.,34.1335,-117.925
+93301,Bakersfield,CA,Carl's Jr.,35.386,-119.023
+93304,Bakersfield,CA,Carl's Jr.,35.3396,-119.03
+93304,Bakersfield,CA,Carl's Jr.,35.3179,-119.029
+93306,Bakersfield,CA,Carl's Jr.,35.3976,-118.95
+93308,Bakersfield,CA,Carl's Jr.,35.4006,-119.092
+93308,Bakersfield,CA,Carl's Jr.,35.3834,-119.047
+93309,Bakersfield,CA,Carl's Jr.,35.3654,-119.044
+93309,Bakersfield,CA,Carl's Jr.,35.3181,-119.055
+93309,Bakersfield,CA,Carl's Jr.,35.3544,-119.063
+93311,Bakersfield,CA,Carl's Jr.,35.3399,-119.102
+91706,Baldwin Park,CA,Carl's Jr.,34.0646,-117.969
+92220,Banning,CA,Carl's Jr.,33.9253,-116.897
+92220,Banning,CA,Carl's Jr.,33.9228,-116.947
+92311,Barstow,CA,Carl's Jr.,34.8931,-117.003
+92311,Barstow,CA,Carl's Jr.,34.8497,-117.083
+90201,Bell,CA,Carl's Jr.,33.9691,-118.179
+90706,Bellflower,CA,Carl's Jr.,33.9019,-118.118
+94510,Benicia,CA,Carl's Jr.,38.0864,-122.114
+92203,Bermuda Dunes,CA,Carl's Jr.,33.7573,-116.303
+92315,Big Bear Lake,CA,Carl's Jr.,34.242,-116.897
+93514,Bishop,CA,Carl's Jr.,37.369,-118.395
+92316,Bloomington,CA,Carl's Jr.,34.0687,-117.37
+92225,Blythe,CA,Carl's Jr.,33.6092,-114.605
+92227,Brawley,CA,Carl's Jr.,32.9787,-115.541
+92821,Brea,CA,Carl's Jr.,33.9116,-117.888
+92821,Brea,CA,Carl's Jr.,33.9129,-117.886
+93427,Buellton,CA,Carl's Jr.,34.6113,-120.189
+90620,Buena Park,CA,Carl's Jr.,33.8322,-118.011
+90620,Buena Park,CA,Carl's Jr.,33.8469,-117.988
+90621,Buena Park,CA,Carl's Jr.,33.8733,-117.998
+91504,Burbank,CA,Carl's Jr.,34.1896,-118.32
+91505,Burbank,CA,Carl's Jr.,34.1601,-118.343
+93206,Buttonwillow,CA,Carl's Jr.,35.4022,-119.399
+92231,Calexico,CA,Carl's Jr.,32.6792,-115.547
+93010,Camarillo,CA,Carl's Jr.,34.2216,-119.07
+95682,Cameron Park,CA,Carl's Jr.,38.6574,-120.969
+91303,Canoga Park,CA,Carl's Jr.,34.1885,-118.606
+91303,Canoga Park,CA,Carl's Jr.,34.2012,-118.594
+91304,Canoga Park,CA,Carl's Jr.,34.2198,-118.589
+91306,Canoga Park,CA,Carl's Jr.,34.2085,-118.571
+91351,Canyon Country,CA,Carl's Jr.,34.4156,-118.466
+95010,Capitola,CA,Carl's Jr.,36.9756,-121.965
+92008,Carlsbad,CA,Carl's Jr.,33.1362,-117.287
+92008,Carlsbad,CA,Carl's Jr.,33.1624,-117.344
+92008,Carlsbad,CA,Carl's Jr.,33.1769,-117.326
+92011,Carlsbad,CA,Carl's Jr.,33.1218,-117.318
+95608,Carmichael,CA,Carl's Jr.,38.6608,-121.327
+90745,Carson,CA,Carl's Jr.,33.8314,-118.264
+90746,Carson,CA,Carl's Jr.,33.8725,-118.266
+91384,Castaic,CA,Carl's Jr.,34.4899,-118.618
+92234,Cathedral City,CA,Carl's Jr.,33.7782,-116.458
+92234,Cathedral City,CA,Carl's Jr.,33.8145,-116.458
+95307,Ceres,CA,Carl's Jr.,37.596,-120.939
+90703,Cerritos,CA,Carl's Jr.,33.8583,-118.09
+91311,Chatsworth,CA,Carl's Jr.,34.259,-118.595
+95926,Chico,CA,Carl's Jr.,39.7565,-121.861
+95928,Chico,CA,Carl's Jr.,39.7274,-121.805
+91710,Chino,CA,Carl's Jr.,34.0353,-117.689
+91710,Chino,CA,Carl's Jr.,34.0001,-117.721
+91709,Chino Hills,CA,Carl's Jr.,33.9828,-117.713
+93610,Chowchilla,CA,Carl's Jr.,37.1252,-120.256
+91910,Chula Vista,CA,Carl's Jr.,32.6308,-117.089
+91910,Chula Vista,CA,Carl's Jr.,32.6445,-117.0
+91911,Chula Vista,CA,Carl's Jr.,32.6173,-117.071
+91911,Chula Vista,CA,Carl's Jr.,32.6101,-117.081
+91915,Chula Vista,CA,Carl's Jr.,32.6309,-116.969
+95610,Citrus Heights,CA,Carl's Jr.,38.7032,-121.272
+95610,Citrus Heights,CA,Carl's Jr.,38.6782,-121.292
+95621,Citrus Heights,CA,Carl's Jr.,38.7073,-121.315
+90040,Commerce,CA,Carl's Jr.,34.0075,-118.156
+91745,City Of Industry,CA,Carl's Jr.,34.0207,-117.958
+91746,City Of Industry,CA,Carl's Jr.,34.0279,-118.015
+91789,City Of Industry,CA,Carl's Jr.,33.9973,-117.871
+94517,Clayton,CA,Carl's Jr.,37.9567,-121.951
+93612,Clovis,CA,Carl's Jr.,36.8376,-119.697
+93612,Clovis,CA,Carl's Jr.,36.8093,-119.701
+93612,Clovis,CA,Carl's Jr.,36.8084,-119.695
+93612,Clovis,CA,Carl's Jr.,36.8083,-119.728
+92236,Coachella,CA,Carl's Jr.,33.6847,-116.182
+92236,Coachella,CA,Carl's Jr.,33.7184,-116.169
+93210,Coalinga,CA,Carl's Jr.,36.254,-120.262
+92324,Colton,CA,Carl's Jr.,34.0492,-117.309
+90220,Compton,CA,Carl's Jr.,33.874,-118.248
+92879,Corona,CA,Carl's Jr.,33.8645,-117.545
+92879,Corona,CA,Carl's Jr.,33.8838,-117.518
+92880,Corona,CA,Carl's Jr.,33.8786,-117.66
+92882,Corona,CA,Carl's Jr.,33.8795,-117.602
+92882,Corona,CA,Carl's Jr.,33.8445,-117.573
+92883,Corona,CA,Carl's Jr.,33.7747,-117.488
+92626,Costa Mesa,CA,Carl's Jr.,33.6734,-117.921
+92627,Costa Mesa,CA,Carl's Jr.,33.6309,-117.926
+91722,Covina,CA,Carl's Jr.,34.0909,-117.908
+90230,Culver City,CA,Carl's Jr.,34.0126,-118.417
+95014,Cupertino,CA,Carl's Jr.,37.3374,-122.036
+90630,Cypress,CA,Carl's Jr.,33.8031,-118.012
+90630,Cypress,CA,Carl's Jr.,33.8097,-118.029
+94015,Daly City,CA,Carl's Jr.,37.6923,-122.471
+92629,Dana Point,CA,Carl's Jr.,33.4648,-117.686
+95616,Davis,CA,Carl's Jr.,38.562,-121.732
+95616,Davis,CA,Carl's Jr.,38.5538,-121.742
+92240,Desert Hot Springs,CA,Carl's Jr.,33.9539,-116.501
+91765,Diamond Bar,CA,Carl's Jr.,34.0223,-117.811
+95620,Dixon,CA,Carl's Jr.,38.4463,-121.855
+90241,Downey,CA,Carl's Jr.,33.9475,-118.154
+90241,Downey,CA,Carl's Jr.,33.9353,-118.124
+90242,Downey,CA,Carl's Jr.,33.9169,-118.134
+91010,Duarte,CA,Carl's Jr.,34.1396,-117.977
+94568,Dublin,CA,Carl's Jr.,37.7059,-121.923
+92019,El Cajon,CA,Carl's Jr.,32.7401,-116.94
+92020,El Cajon,CA,Carl's Jr.,32.8079,-116.969
+92021,El Cajon,CA,Carl's Jr.,32.8007,-116.936
+92243,El Centro,CA,Carl's Jr.,32.7757,-115.552
+92243,El Centro,CA,Carl's Jr.,32.7967,-115.57
+91732,El Monte,CA,Carl's Jr.,34.0748,-118.022
+90245,El Segundo,CA,Carl's Jr.,33.9247,-118.397
+92630,El Toro,CA,Carl's Jr.,33.6229,-117.697
+95624,Elk Grove,CA,Carl's Jr.,38.4524,-121.372
+95624,Elk Grove,CA,Carl's Jr.,38.4089,-121.38
+95757,Elk Grove,CA,Carl's Jr.,38.4066,-121.418
+95758,Elk Grove,CA,Carl's Jr.,38.4379,-121.404
+92024,Encinitas,CA,Carl's Jr.,33.0376,-117.281
+91316,Encino,CA,Carl's Jr.,34.1649,-118.525
+92025,Escondido,CA,Carl's Jr.,33.1085,-117.078
+92025,Escondido,CA,Carl's Jr.,33.1279,-117.093
+92027,Escondido,CA,Carl's Jr.,33.1313,-117.066
+92029,Escondido,CA,Carl's Jr.,33.1128,-117.101
+95501,Eureka,CA,Carl's Jr.,40.7804,-124.186
+95628,Fair Oaks,CA,Carl's Jr.,38.6643,-121.262
+94533,Fairfield,CA,Carl's Jr.,38.2716,-122.034
+94534,Fairfield,CA,Carl's Jr.,38.2225,-122.126
+92028,Fallbrook,CA,Carl's Jr.,33.3719,-117.253
+93015,Fillmore,CA,Carl's Jr.,34.3959,-118.919
+95630,Folsom,CA,Carl's Jr.,38.6465,-121.118
+95630,Folsom,CA,Carl's Jr.,38.6779,-121.198
+95630,Folsom,CA,Carl's Jr.,38.6702,-121.156
+92335,Fontana,CA,Carl's Jr.,34.0703,-117.49
+92335,Fontana,CA,Carl's Jr.,34.0916,-117.436
+94404,Foster City,CA,Carl's Jr.,37.5637,-122.27
+92708,Fountain Valley,CA,Carl's Jr.,33.7165,-117.956
+92708,Fountain Valley,CA,Carl's Jr.,33.6873,-117.954
+92708,Fountain Valley,CA,Carl's Jr.,33.702,-117.932
+95019,Freedom,CA,Carl's Jr.,36.935,-121.774
+94536,Fremont,CA,Carl's Jr.,37.5606,-122.012
+94539,Fremont,CA,Carl's Jr.,37.4913,-121.928
+93701,Fresno,CA,Carl's Jr.,36.7454,-119.79
+93703,Fresno,CA,Carl's Jr.,36.7647,-119.772
+93703,Fresno,CA,Carl's Jr.,36.7653,-119.791
+93706,Fresno,CA,Carl's Jr.,36.7063,-119.776
+93710,Fresno,CA,Carl's Jr.,36.8367,-119.772
+93710,Fresno,CA,Carl's Jr.,36.8088,-119.771
+93711,Fresno,CA,Carl's Jr.,36.8085,-119.847
+93720,Fresno,CA,Carl's Jr.,36.846,-119.79
+93720,Fresno,CA,Carl's Jr.,36.8647,-119.739
+93722,Fresno,CA,Carl's Jr.,36.808,-119.885
+93722,Fresno,CA,Carl's Jr.,36.8226,-119.871
+93726,Fresno,CA,Carl's Jr.,36.7901,-119.791
+93726,Fresno,CA,Carl's Jr.,36.7875,-119.754
+93727,Fresno,CA,Carl's Jr.,36.7654,-119.727
+93727,Fresno,CA,Carl's Jr.,36.7361,-119.698
+92831,Fullerton,CA,Carl's Jr.,33.8742,-117.904
+92831,Fullerton,CA,Carl's Jr.,33.8885,-117.869
+92831,Fullerton,CA,Carl's Jr.,33.8779,-117.889
+92832,Fullerton,CA,Carl's Jr.,33.8719,-117.942
+92835,Fullerton,CA,Carl's Jr.,33.9002,-117.929
+92835,Fullerton,CA,Carl's Jr.,33.8993,-117.91
+95632,Galt,CA,Carl's Jr.,38.2532,-121.298
+92840,Garden Grove,CA,Carl's Jr.,33.8002,-117.942
+92841,Garden Grove,CA,Carl's Jr.,33.7888,-117.96
+92843,Garden Grove,CA,Carl's Jr.,33.7594,-117.955
+92843,Garden Grove,CA,Carl's Jr.,33.7741,-117.921
+92845,Garden Grove,CA,Carl's Jr.,33.7883,-118.028
+90248,Gardena,CA,Carl's Jr.,33.8731,-118.299
+95020,Gilroy,CA,Carl's Jr.,36.9835,-121.558
+91202,Glendale,CA,Carl's Jr.,34.1642,-118.28
+91204,Glendale,CA,Carl's Jr.,34.1278,-118.26
+91210,Glendale,CA,Carl's Jr.,34.1441,-118.259
+91740,Glendora,CA,Carl's Jr.,34.1248,-117.872
+93117,Goleta,CA,Carl's Jr.,34.4415,-119.826
+93243,Gorman,CA,Carl's Jr.,34.7957,-118.85
+91344,Granada Hills,CA,Carl's Jr.,34.2576,-118.498
+91344,Granada Hills,CA,Carl's Jr.,34.2646,-118.526
+95746,Granite Bay,CA,Carl's Jr.,38.7442,-121.226
+95949,Grass Valley,CA,Carl's Jr.,39.2025,-121.062
+93230,Hanford,CA,Carl's Jr.,36.3282,-119.657
+90710,Harbor City,CA,Carl's Jr.,33.8095,-118.289
+90250,Hawthorne,CA,Carl's Jr.,33.9028,-118.352
+90250,Hawthorne,CA,Carl's Jr.,33.902,-118.373
+94541,Hayward,CA,Carl's Jr.,37.6857,-122.1
+94545,Hayward,CA,Carl's Jr.,37.6295,-122.096
+95448,Healdsburg,CA,Carl's Jr.,38.6088,-122.871
+92543,Hemet,CA,Carl's Jr.,33.7295,-116.971
+92543,Hemet,CA,Carl's Jr.,33.7552,-116.959
+92544,Hemet,CA,Carl's Jr.,33.7479,-116.904
+92545,Hemet,CA,Carl's Jr.,33.7473,-117.008
+92345,Hesperia,CA,Carl's Jr.,34.4243,-117.321
+92346,Highland,CA,Carl's Jr.,34.1233,-117.195
+92646,Huntington Beach,CA,Carl's Jr.,33.6499,-117.953
+92646,Huntington Beach,CA,Carl's Jr.,33.6721,-117.971
+92647,Huntington Beach,CA,Carl's Jr.,33.7154,-118.009
+92648,Huntington Beach,CA,Carl's Jr.,33.6791,-117.988
+92648,Huntington Beach,CA,Carl's Jr.,33.6829,-118.006
+92649,Huntington Beach,CA,Carl's Jr.,33.7292,-118.042
+90255,Huntington Park,CA,Carl's Jr.,33.9748,-118.23
+91932,Imperial Beach,CA,Carl's Jr.,32.5837,-117.106
+92201,Indio,CA,Carl's Jr.,33.7121,-116.238
+90301,Inglewood,CA,Carl's Jr.,33.9615,-118.361
+90303,Inglewood,CA,Carl's Jr.,33.9453,-118.329
+92604,Irvine,CA,Carl's Jr.,33.6761,-117.794
+92612,Irvine,CA,Carl's Jr.,33.6651,-117.827
+92614,Irvine,CA,Carl's Jr.,33.6862,-117.855
+92618,Irvine,CA,Carl's Jr.,33.6567,-117.74
+92618,Irvine,CA,Carl's Jr.,33.67,-117.765
+92620,Irvine,CA,Carl's Jr.,33.7138,-117.761
+93239,Kettleman City,CA,Carl's Jr.,35.9893,-119.961
+93930,King City,CA,Carl's Jr.,36.2041,-121.13
+93631,Kingsburg,CA,Carl's Jr.,36.518,-119.558
+90631,La Habra,CA,Carl's Jr.,33.9245,-117.968
+91942,La Mesa,CA,Carl's Jr.,32.7758,-117.023
+90638,La Mirada,CA,Carl's Jr.,33.8985,-118.007
+90623,La Palma,CA,Carl's Jr.,33.8461,-118.046
+92253,La Quinta,CA,Carl's Jr.,33.7136,-116.293
+91750,La Verne,CA,Carl's Jr.,34.117,-117.777
+92653,Laguna Hills,CA,Carl's Jr.,33.6285,-117.724
+92653,Laguna Hills,CA,Carl's Jr.,33.6006,-117.692
+92653,Laguna Hills,CA,Carl's Jr.,33.6105,-117.724
+92677,Laguna Niguel,CA,Carl's Jr.,33.5561,-117.71
+92677,Laguna Niguel,CA,Carl's Jr.,33.5101,-117.709
+92530,Lake Elsinore,CA,Carl's Jr.,33.6609,-117.3
+92630,Lake Forest,CA,Carl's Jr.,33.6637,-117.666
+90712,Lakewood,CA,Carl's Jr.,33.8469,-118.16
+90712,Lakewood,CA,Carl's Jr.,33.8528,-118.134
+90713,Lakewood,CA,Carl's Jr.,33.8584,-118.117
+93534,Lancaster,CA,Carl's Jr.,34.6887,-118.135
+93534,Lancaster,CA,Carl's Jr.,34.675,-118.156
+93536,Lancaster,CA,Carl's Jr.,34.6895,-118.172
+95330,Lathrop,CA,Carl's Jr.,37.8117,-121.292
+91945,Lemon Grove,CA,Carl's Jr.,32.7427,-117.044
+94550,Livermore,CA,Carl's Jr.,37.6781,-121.786
+94551,Livermore,CA,Carl's Jr.,37.7183,-121.724
+95334,Livingston,CA,Carl's Jr.,37.3883,-120.736
+95240,Lodi,CA,Carl's Jr.,38.1153,-121.283
+95242,Lodi,CA,Carl's Jr.,38.1148,-121.392
+92354,Loma Linda,CA,Carl's Jr.,34.0486,-117.247
+90717,Lomita,CA,Carl's Jr.,33.7894,-118.309
+93436,Lompoc,CA,Carl's Jr.,34.6475,-120.458
+93545,Lone Pine,CA,Carl's Jr.,36.6079,-118.065
+90804,Long Beach,CA,Carl's Jr.,33.7881,-118.14
+90805,Long Beach,CA,Carl's Jr.,33.8746,-118.186
+90806,Long Beach,CA,Carl's Jr.,33.8046,-118.19
+90807,Long Beach,CA,Carl's Jr.,33.8243,-118.185
+90807,Long Beach,CA,Carl's Jr.,33.8323,-118.166
+90808,Long Beach,CA,Carl's Jr.,33.8313,-118.09
+90810,Long Beach,CA,Carl's Jr.,33.7898,-118.215
+90813,Long Beach,CA,Carl's Jr.,33.7754,-118.189
+90815,Long Beach,CA,Carl's Jr.,33.7818,-118.122
+90815,Long Beach,CA,Carl's Jr.,33.8093,-118.125
+94022,Los Altos,CA,Carl's Jr.,37.397,-122.105
+90006,Los Angeles,CA,Carl's Jr.,34.0433,-118.309
+90007,Los Angeles,CA,Carl's Jr.,34.0256,-118.277
+90010,Los Angeles,CA,Carl's Jr.,34.0617,-118.301
+90012,Los Angeles,CA,Carl's Jr.,34.0525,-118.242
+90012,Los Angeles,CA,Carl's Jr.,34.0723,-118.246
+90014,Los Angeles,CA,Carl's Jr.,34.0449,-118.253
+90015,Los Angeles,CA,Carl's Jr.,34.0403,-118.257
+90016,Los Angeles,CA,Carl's Jr.,34.0216,-118.372
+90017,Los Angeles,CA,Carl's Jr.,34.048,-118.258
+90017,Los Angeles,CA,Carl's Jr.,34.0485,-118.256
+90019,Los Angeles,CA,Carl's Jr.,34.058,-118.364
+90020,Los Angeles,CA,Carl's Jr.,34.0651,-118.309
+90020,Los Angeles,CA,Carl's Jr.,34.0638,-118.287
+90022,Los Angeles,CA,Carl's Jr.,34.0188,-118.149
+90023,Los Angeles,CA,Carl's Jr.,34.0181,-118.22
+90027,Los Angeles,CA,Carl's Jr.,34.0972,-118.309
+90028,Los Angeles,CA,Carl's Jr.,34.0979,-118.338
+90031,Los Angeles,CA,Carl's Jr.,34.0739,-118.208
+90032,Los Angeles,CA,Carl's Jr.,34.0624,-118.172
+90034,Los Angeles,CA,Carl's Jr.,34.038,-118.377
+90037,Los Angeles,CA,Carl's Jr.,34.011,-118.292
+90045,Los Angeles,CA,Carl's Jr.,33.9457,-118.38
+90047,Los Angeles,CA,Carl's Jr.,33.9326,-118.309
+90071,Los Angeles,CA,Carl's Jr.,34.0522,-118.255
+90089,Los Angeles,CA,Carl's Jr.,34.0214,-118.29
+93635,Los Banos,CA,Carl's Jr.,37.0568,-120.831
+95032,Los Gatos,CA,Carl's Jr.,37.244,-121.959
+93249,Lost Hills,CA,Carl's Jr.,35.616,-119.66
+90262,Lynwood,CA,Carl's Jr.,33.9312,-118.204
+93637,Madera,CA,Carl's Jr.,36.9524,-120.056
+93638,Madera,CA,Carl's Jr.,36.9775,-120.074
+93546,Mammoth Lakes,CA,Carl's Jr.,37.6396,-118.967
+95336,Manteca,CA,Carl's Jr.,37.8097,-121.217
+95336,Manteca,CA,Carl's Jr.,37.7976,-121.19
+95337,Manteca,CA,Carl's Jr.,37.7975,-121.24
+94553,Martinez,CA,Carl's Jr.,37.9931,-122.1
+95901,Marysville,CA,Carl's Jr.,39.1449,-121.591
+95340,Merced,CA,Carl's Jr.,37.3036,-120.5
+95348,Merced,CA,Carl's Jr.,37.319,-120.474
+95035,Milpitas,CA,Carl's Jr.,37.4059,-121.899
+95035,Milpitas,CA,Carl's Jr.,37.4291,-121.91
+92691,Mission Viejo,CA,Carl's Jr.,33.5809,-117.667
+92692,Mission Viejo,CA,Carl's Jr.,33.5964,-117.657
+95350,Modesto,CA,Carl's Jr.,37.6802,-120.994
+95351,Modesto,CA,Carl's Jr.,37.6094,-120.968
+95355,Modesto,CA,Carl's Jr.,37.6672,-120.957
+95356,Modesto,CA,Carl's Jr.,37.6884,-121.05
+95356,Modesto,CA,Carl's Jr.,37.6983,-121.069
+93501,Mojave,CA,Carl's Jr.,35.0526,-118.173
+91763,Montclair,CA,Carl's Jr.,34.091,-117.69
+91763,Montclair,CA,Carl's Jr.,34.0632,-117.69
+90640,Montebello,CA,Carl's Jr.,34.021,-118.123
+90640,Montebello,CA,Carl's Jr.,34.0337,-118.092
+90640,Montebello,CA,Carl's Jr.,34.0367,-118.087
+93940,Monterey,CA,Carl's Jr.,36.617,-121.904
+91754,Monterey Park,CA,Carl's Jr.,34.039,-118.148
+91020,Montrose,CA,Carl's Jr.,34.2054,-118.225
+93021,Moorpark,CA,Carl's Jr.,34.279,-118.886
+92553,Moreno Valley,CA,Carl's Jr.,33.9103,-117.269
+92553,Moreno Valley,CA,Carl's Jr.,33.9397,-117.264
+92557,Moreno Valley,CA,Carl's Jr.,33.9408,-117.225
+95037,Morgan Hill,CA,Carl's Jr.,37.1326,-121.631
+94043,Mountain View,CA,Carl's Jr.,37.3975,-122.061
+92562,Murrieta,CA,Carl's Jr.,33.5675,-117.206
+92562,Murrieta,CA,Carl's Jr.,33.5714,-117.234
+92563,Murrieta,CA,Carl's Jr.,33.5566,-117.177
+92563,Murrieta,CA,Carl's Jr.,33.6415,-117.167
+94559,Napa,CA,Carl's Jr.,38.2817,-122.292
+91950,National City,CA,Carl's Jr.,32.6769,-117.093
+91950,National City,CA,Carl's Jr.,32.661,-117.084
+92363,Needles,CA,Carl's Jr.,34.8806,-114.644
+94560,Newark,CA,Carl's Jr.,37.5217,-121.992
+94560,Newark,CA,Carl's Jr.,37.541,-122.027
+91320,Newbury Park,CA,Carl's Jr.,34.1713,-118.955
+91321,Newhall,CA,Carl's Jr.,34.3795,-118.541
+91321,Newhall,CA,Carl's Jr.,34.3656,-118.505
+92660,Newport Beach,CA,Carl's Jr.,33.6607,-117.874
+92660,Newport Beach,CA,Carl's Jr.,33.6697,-117.86
+92660,Newport Beach,CA,Carl's Jr.,33.6376,-117.861
+92663,Newport Beach,CA,Carl's Jr.,33.6154,-117.931
+93444,Nipomo,CA,Carl's Jr.,35.0374,-120.484
+92860,Norco,CA,Carl's Jr.,33.924,-117.559
+92860,Norco,CA,Carl's Jr.,33.8992,-117.563
+95660,North Highlands,CA,Carl's Jr.,38.652,-121.383
+95660,North Highlands,CA,Carl's Jr.,38.703,-121.383
+91601,North Hollywood,CA,Carl's Jr.,34.1642,-118.37
+91604,North Hollywood,CA,Carl's Jr.,34.1365,-118.363
+91605,North Hollywood,CA,Carl's Jr.,34.2013,-118.408
+91606,North Hollywood,CA,Carl's Jr.,34.1833,-118.396
+91324,Northridge,CA,Carl's Jr.,34.2366,-118.536
+94945,Novato,CA,Carl's Jr.,38.0943,-122.557
+95361,Oakdale,CA,Carl's Jr.,37.772,-120.832
+93644,Oakhurst,CA,Carl's Jr.,37.3333,-119.65
+94609,Oakland,CA,Carl's Jr.,37.8261,-122.265
+94561,Oakley,CA,Carl's Jr.,38.005,-121.752
+92054,Oceanside,CA,Carl's Jr.,33.2457,-117.323
+92056,Oceanside,CA,Carl's Jr.,33.2073,-117.286
+92057,Oceanside,CA,Carl's Jr.,33.2401,-117.29
+91761,Ontario,CA,Carl's Jr.,34.0295,-117.611
+91761,Ontario,CA,Carl's Jr.,34.0483,-117.554
+91761,Ontario,CA,Carl's Jr.,34.038,-117.601
+91761,Ontario,CA,Carl's Jr.,34.038,-117.601
+91762,Ontario,CA,Carl's Jr.,34.0845,-117.67
+91762,Ontario,CA,Carl's Jr.,34.0273,-117.651
+91764,Ontario,CA,Carl's Jr.,34.0777,-117.619
+91764,Ontario,CA,Carl's Jr.,34.0765,-117.555
+92865,Orange,CA,Carl's Jr.,33.8287,-117.838
+92867,Orange,CA,Carl's Jr.,33.809,-117.838
+92868,Orange,CA,Carl's Jr.,33.7821,-117.889
+92868,Orange,CA,Carl's Jr.,33.7822,-117.867
+92869,Orange,CA,Carl's Jr.,33.7877,-117.816
+93033,Oxnard,CA,Carl's Jr.,34.1701,-119.178
+93036,Oxnard,CA,Carl's Jr.,34.2266,-119.178
+92260,Palm Desert,CA,Carl's Jr.,33.7211,-116.389
+92260,Palm Desert,CA,Carl's Jr.,33.7217,-116.394
+92262,Palm Springs,CA,Carl's Jr.,33.8525,-116.552
+92262,Palm Springs,CA,Carl's Jr.,33.8174,-116.528
+93550,Palmdale,CA,Carl's Jr.,34.58,-118.094
+93550,Palmdale,CA,Carl's Jr.,34.5582,-118.085
+93551,Palmdale,CA,Carl's Jr.,34.6019,-118.148
+90275,Palos Verdes Estates,CA,Carl's Jr.,33.7598,-118.313
+91402,Panorama City,CA,Carl's Jr.,34.2215,-118.446
+91402,Panorama City,CA,Carl's Jr.,34.2223,-118.433
+90723,Paramount,CA,Carl's Jr.,33.9012,-118.143
+90723,Paramount,CA,Carl's Jr.,33.8861,-118.16
+91104,Pasadena,CA,Carl's Jr.,34.1594,-118.132
+91106,Pasadena,CA,Carl's Jr.,34.1461,-118.12
+91107,Pasadena,CA,Carl's Jr.,34.1544,-118.078
+93446,Paso Robles,CA,Carl's Jr.,35.5842,-120.697
+93446,Paso Robles,CA,Carl's Jr.,35.6427,-120.686
+92571,Perris,CA,Carl's Jr.,33.801,-117.227
+90660,Pico Rivera,CA,Carl's Jr.,33.9683,-118.097
+94564,Pinole,CA,Carl's Jr.,37.9916,-122.303
+94565,Pittsburg,CA,Carl's Jr.,38.0063,-121.837
+92870,Placentia,CA,Carl's Jr.,33.9038,-117.841
+92870,Placentia,CA,Carl's Jr.,33.8778,-117.843
+95667,Placerville,CA,Carl's Jr.,38.7228,-120.83
+94588,Pleasanton,CA,Carl's Jr.,37.6873,-121.898
+91767,Pomona,CA,Carl's Jr.,34.0766,-117.719
+91767,Pomona,CA,Carl's Jr.,34.1073,-117.748
+91768,Pomona,CA,Carl's Jr.,34.048,-117.81
+91768,Pomona,CA,Carl's Jr.,34.0504,-117.817
+93041,Port Hueneme,CA,Carl's Jr.,34.1762,-119.219
+92064,Poway,CA,Carl's Jr.,32.9365,-117.029
+92064,Poway,CA,Carl's Jr.,32.9344,-117.064
+92064,Poway,CA,Carl's Jr.,32.983,-117.062
+95670,Rancho Cordova,CA,Carl's Jr.,38.6182,-121.269
+95670,Rancho Cordova,CA,Carl's Jr.,38.5871,-121.307
+95742,Rancho Cordova,CA,Carl's Jr.,38.5898,-121.266
+91730,Rancho Cucamonga,CA,Carl's Jr.,34.1066,-117.547
+91730,Rancho Cucamonga,CA,Carl's Jr.,34.1201,-117.558
+92688,Rancho Santa Margarita,CA,Carl's Jr.,33.649,-117.582
+96001,Redding,CA,Carl's Jr.,40.5222,-122.383
+96001,Redding,CA,Carl's Jr.,40.5866,-122.397
+96002,Redding,CA,Carl's Jr.,40.5709,-122.357
+96003,Redding,CA,Carl's Jr.,40.6103,-122.38
+96003,Redding,CA,Carl's Jr.,40.5865,-122.351
+92374,Redlands,CA,Carl's Jr.,34.0628,-117.2
+90277,Redondo Beach,CA,Carl's Jr.,33.8524,-118.39
+90278,Redondo Beach,CA,Carl's Jr.,33.8727,-118.375
+94063,Redwood City,CA,Carl's Jr.,37.4902,-122.226
+93654,Reedley,CA,Carl's Jr.,36.6034,-119.458
+91335,Reseda,CA,Carl's Jr.,34.201,-118.542
+91335,Reseda,CA,Carl's Jr.,34.1867,-118.554
+92376,Rialto,CA,Carl's Jr.,34.1069,-117.382
+92377,Rialto,CA,Carl's Jr.,34.1382,-117.371
+93555,Ridgecrest,CA,Carl's Jr.,35.6202,-117.67
+95366,Ripon,CA,Carl's Jr.,37.754,-121.139
+92501,Riverside,CA,Carl's Jr.,33.9779,-117.379
+92503,Riverside,CA,Carl's Jr.,33.9148,-117.456
+92503,Riverside,CA,Carl's Jr.,33.9433,-117.454
+92504,Riverside,CA,Carl's Jr.,33.937,-117.406
+92506,Riverside,CA,Carl's Jr.,33.9598,-117.393
+92507,Riverside,CA,Carl's Jr.,33.9755,-117.339
+92507,Riverside,CA,Carl's Jr.,33.9579,-117.331
+92508,Riverside,CA,Carl's Jr.,33.8884,-117.325
+92509,Riverside,CA,Carl's Jr.,34.0182,-117.504
+92509,Riverside,CA,Carl's Jr.,33.9757,-117.478
+95677,Rocklin,CA,Carl's Jr.,38.7901,-121.224
+95677,Rocklin,CA,Carl's Jr.,38.7814,-121.266
+95677,Rocklin,CA,Carl's Jr.,38.806,-121.205
+94928,Rohnert Park,CA,Carl's Jr.,38.3473,-122.717
+91770,Rosemead,CA,Carl's Jr.,34.081,-118.073
+95661,Roseville,CA,Carl's Jr.,38.7442,-121.265
+95746,Roseville,CA,Carl's Jr.,38.7437,-121.171
+95747,Roseville,CA,Carl's Jr.,38.752,-121.31
+95747,Roseville,CA,Carl's Jr.,38.7946,-121.329
+91748,Rowland Heights,CA,Carl's Jr.,33.9886,-117.907
+91733,South El Monte,CA,Carl's Jr.,34.0475,-118.042
+95814,Sacramento,CA,Carl's Jr.,38.5814,-121.5
+95815,Sacramento,CA,Carl's Jr.,38.6112,-121.446
+95815,Sacramento,CA,Carl's Jr.,38.5998,-121.427
+95818,Sacramento,CA,Carl's Jr.,38.5581,-121.479
+95821,Sacramento,CA,Carl's Jr.,38.6177,-121.366
+95821,Sacramento,CA,Carl's Jr.,38.6157,-121.402
+95821,Sacramento,CA,Carl's Jr.,38.6183,-121.416
+95822,Sacramento,CA,Carl's Jr.,38.5252,-121.497
+95823,Sacramento,CA,Carl's Jr.,38.4968,-121.46
+95823,Sacramento,CA,Carl's Jr.,38.4744,-121.43
+95825,Sacramento,CA,Carl's Jr.,38.596,-121.411
+95826,Sacramento,CA,Carl's Jr.,38.5475,-121.393
+95827,Sacramento,CA,Carl's Jr.,38.5638,-121.339
+95833,Sacramento,CA,Carl's Jr.,38.6143,-121.517
+95834,Sacramento,CA,Carl's Jr.,38.6362,-121.476
+95835,Sacramento,CA,Carl's Jr.,38.5993,-121.472
+95842,Sacramento,CA,Carl's Jr.,38.6878,-121.344
+93901,Salinas,CA,Carl's Jr.,36.6574,-121.636
+93901,Salinas,CA,Carl's Jr.,36.6779,-121.642
+93906,Salinas,CA,Carl's Jr.,36.7166,-121.656
+93907,Salinas,CA,Carl's Jr.,36.6973,-121.669
+92404,San Bernardino,CA,Carl's Jr.,34.1357,-117.255
+92407,San Bernardino,CA,Carl's Jr.,34.1681,-117.333
+92408,San Bernardino,CA,Carl's Jr.,34.0894,-117.297
+92408,San Bernardino,CA,Carl's Jr.,34.0632,-117.282
+94066,San Bruno,CA,Carl's Jr.,37.6278,-122.426
+94070,San Carlos,CA,Carl's Jr.,37.4937,-122.245
+92672,San Clemente,CA,Carl's Jr.,33.3979,-117.594
+92673,San Clemente,CA,Carl's Jr.,33.4539,-117.605
+92673,San Clemente,CA,Carl's Jr.,33.4587,-117.651
+92104,San Diego,CA,Carl's Jr.,32.7555,-117.13
+92108,San Diego,CA,Carl's Jr.,32.7721,-117.155
+92109,San Diego,CA,Carl's Jr.,32.7987,-117.245
+92110,San Diego,CA,Carl's Jr.,32.7936,-117.194
+92110,San Diego,CA,Carl's Jr.,32.7492,-117.206
+92110,San Diego,CA,Carl's Jr.,32.7652,-117.198
+92111,San Diego,CA,Carl's Jr.,32.8139,-117.153
+92111,San Diego,CA,Carl's Jr.,32.8328,-117.159
+92115,San Diego,CA,Carl's Jr.,32.7505,-117.07
+92119,San Diego,CA,Carl's Jr.,32.803,-117.007
+92120,San Diego,CA,Carl's Jr.,32.7926,-117.098
+92121,San Diego,CA,Carl's Jr.,32.8781,-117.169
+92122,San Diego,CA,Carl's Jr.,32.8541,-117.2
+92123,San Diego,CA,Carl's Jr.,32.8312,-117.128
+92126,San Diego,CA,Carl's Jr.,32.8923,-117.119
+92126,San Diego,CA,Carl's Jr.,32.9141,-117.144
+92128,San Diego,CA,Carl's Jr.,33.0171,-117.076
+92128,San Diego,CA,Carl's Jr.,32.9773,-117.083
+92129,San Diego,CA,Carl's Jr.,32.9597,-117.116
+92131,San Diego,CA,Carl's Jr.,32.9033,-117.115
+92131,San Diego,CA,Carl's Jr.,32.9376,-117.101
+92154,San Diego,CA,Carl's Jr.,32.5553,-116.937
+92154,San Diego,CA,Carl's Jr.,32.5829,-117.033
+91773,San Dimas,CA,Carl's Jr.,34.1058,-117.819
+91340,San Fernando,CA,Carl's Jr.,34.279,-118.454
+94102,San Francisco,CA,Carl's Jr.,37.7797,-122.415
+94102,San Francisco,CA,Carl's Jr.,37.7838,-122.409
+94111,San Francisco,CA,Carl's Jr.,37.7952,-122.396
+91776,San Gabriel,CA,Carl's Jr.,34.0747,-118.091
+91776,San Gabriel,CA,Carl's Jr.,34.1026,-118.106
+95112,San Jose,CA,Carl's Jr.,37.3645,-121.892
+95116,San Jose,CA,Carl's Jr.,37.3587,-121.843
+95118,San Jose,CA,Carl's Jr.,37.2629,-121.878
+95119,San Jose,CA,Carl's Jr.,37.2278,-121.776
+95122,San Jose,CA,Carl's Jr.,37.3221,-121.826
+95123,San Jose,CA,Carl's Jr.,37.2458,-121.804
+95123,San Jose,CA,Carl's Jr.,37.2506,-121.862
+95124,San Jose,CA,Carl's Jr.,37.2619,-121.931
+95129,San Jose,CA,Carl's Jr.,37.3101,-122.032
+95129,San Jose,CA,Carl's Jr.,37.3,-121.982
+95131,San Jose,CA,Carl's Jr.,37.3843,-121.927
+95132,San Jose,CA,Carl's Jr.,37.3974,-121.873
+95148,San Jose,CA,Carl's Jr.,37.3247,-121.797
+92675,San Juan Capistrano,CA,Carl's Jr.,33.4994,-117.66
+92675,San Juan Capistrano,CA,Carl's Jr.,33.5465,-117.674
+93401,San Luis Obispo,CA,Carl's Jr.,35.2491,-120.643
+93405,San Luis Obispo,CA,Carl's Jr.,35.2956,-120.67
+92069,San Marcos,CA,Carl's Jr.,33.1389,-117.175
+92078,San Marcos,CA,Carl's Jr.,33.1318,-117.208
+94583,San Ramon,CA,Carl's Jr.,37.778,-121.971
+92173,San Ysidro,CA,Carl's Jr.,32.5584,-117.06
+92704,Santa Ana,CA,Carl's Jr.,33.7137,-117.885
+92704,Santa Ana,CA,Carl's Jr.,33.7034,-117.919
+92705,Santa Ana,CA,Carl's Jr.,33.7269,-117.841
+92705,Santa Ana,CA,Carl's Jr.,33.7083,-117.85
+92705,Santa Ana,CA,Carl's Jr.,33.76,-117.84
+92705,Santa Ana,CA,Carl's Jr.,33.7458,-117.838
+92706,Santa Ana,CA,Carl's Jr.,33.7615,-117.885
+93103,Santa Barbara,CA,Carl's Jr.,34.4217,-119.679
+93105,Santa Barbara,CA,Carl's Jr.,34.4403,-119.752
+95050,Santa Clara,CA,Carl's Jr.,37.3296,-121.965
+95050,Santa Clara,CA,Carl's Jr.,37.3661,-121.95
+95051,Santa Clara,CA,Carl's Jr.,37.3742,-121.978
+95054,Santa Clara,CA,Carl's Jr.,37.408,-121.963
+91355,Santa Clarita,CA,Carl's Jr.,34.4369,-118.564
+91387,Santa Clarita,CA,Carl's Jr.,34.405,-118.464
+90670,Santa Fe Springs,CA,Carl's Jr.,33.942,-118.052
+90670,Santa Fe Springs,CA,Carl's Jr.,33.892,-118.044
+90670,Santa Fe Springs,CA,Carl's Jr.,33.8856,-118.029
+93454,Santa Maria,CA,Carl's Jr.,34.9528,-120.434
+93454,Santa Maria,CA,Carl's Jr.,34.9211,-120.436
+93454,Santa Maria,CA,Carl's Jr.,34.9361,-120.419
+90401,Santa Monica,CA,Carl's Jr.,34.0237,-118.492
+90404,Santa Monica,CA,Carl's Jr.,34.0344,-118.473
+90405,Santa Monica,CA,Carl's Jr.,34.0189,-118.47
+95322,Santa Nella,CA,Carl's Jr.,37.1114,-121.016
+93060,Santa Paula,CA,Carl's Jr.,34.347,-119.069
+95401,Santa Rosa,CA,Carl's Jr.,38.4328,-122.742
+95403,Santa Rosa,CA,Carl's Jr.,38.4766,-122.734
+95403,Santa Rosa,CA,Carl's Jr.,38.5137,-122.784
+95405,Santa Rosa,CA,Carl's Jr.,38.4412,-122.687
+95407,Santa Rosa,CA,Carl's Jr.,38.4172,-122.714
+92071,Santee,CA,Carl's Jr.,32.8385,-116.979
+90740,Seal Beach,CA,Carl's Jr.,33.7621,-118.078
+93955,Seaside,CA,Carl's Jr.,36.6012,-121.849
+93662,Selma,CA,Carl's Jr.,36.5764,-119.626
+91343,Sepulveda,CA,Carl's Jr.,34.243,-118.468
+91403,Sherman Oaks,CA,Carl's Jr.,34.153,-118.46
+91423,Sherman Oaks,CA,Carl's Jr.,34.1575,-118.438
+93063,Simi Valley,CA,Carl's Jr.,34.2717,-118.679
+93063,Simi Valley,CA,Carl's Jr.,34.2843,-118.718
+93065,Simi Valley,CA,Carl's Jr.,34.2791,-118.761
+93065,Simi Valley,CA,Carl's Jr.,34.2611,-118.796
+92075,Solana Beach,CA,Carl's Jr.,32.9958,-117.259
+93960,Soledad,CA,Carl's Jr.,36.419,-121.322
+95370,Sonora,CA,Carl's Jr.,37.9757,-120.364
+90280,South Gate,CA,Carl's Jr.,33.9297,-118.168
+90280,South Gate,CA,Carl's Jr.,33.9575,-118.231
+94080,South San Francisco,CA,Carl's Jr.,37.6665,-122.452
+91977,Spring Valley,CA,Carl's Jr.,32.7465,-116.985
+90680,Stanton,CA,Carl's Jr.,33.789,-117.993
+91381,Stevenson Ranch,CA,Carl's Jr.,34.3795,-118.567
+95207,Stockton,CA,Carl's Jr.,38.0169,-121.322
+95207,Stockton,CA,Carl's Jr.,37.9845,-121.34
+95209,Stockton,CA,Carl's Jr.,38.0215,-121.356
+95210,Stockton,CA,Carl's Jr.,38.0211,-121.294
+94585,Suisun City,CA,Carl's Jr.,38.2463,-122.021
+92584,Sun City,CA,Carl's Jr.,33.6851,-117.205
+91352,Sun Valley,CA,Carl's Jr.,34.2226,-118.397
+91352,Sun Valley,CA,Carl's Jr.,34.2304,-118.367
+94085,Sunnyvale,CA,Carl's Jr.,37.3868,-121.994
+94087,Sunnyvale,CA,Carl's Jr.,37.3524,-122.005
+94087,Sunnyvale,CA,Carl's Jr.,37.3739,-122.056
+91356,Tarzana,CA,Carl's Jr.,34.1726,-118.556
+92591,Temecula,CA,Carl's Jr.,33.5233,-117.162
+92591,Temecula,CA,Carl's Jr.,33.5083,-117.125
+92591,Temecula,CA,Carl's Jr.,33.5276,-117.124
+92592,Temecula,CA,Carl's Jr.,33.4791,-117.138
+92592,Temecula,CA,Carl's Jr.,33.485,-117.083
+91780,Temple City,CA,Carl's Jr.,34.1075,-118.056
+91360,Thousand Oaks,CA,Carl's Jr.,34.1956,-118.871
+92276,Thousand Palms,CA,Carl's Jr.,33.8153,-116.401
+90501,Torrance,CA,Carl's Jr.,33.8202,-118.32
+90501,Torrance,CA,Carl's Jr.,33.8582,-118.302
+90503,Torrance,CA,Carl's Jr.,33.8384,-118.362
+90504,Torrance,CA,Carl's Jr.,33.8855,-118.318
+90504,Torrance,CA,Carl's Jr.,33.873,-118.343
+90505,Torrance,CA,Carl's Jr.,33.8061,-118.351
+95376,Tracy,CA,Carl's Jr.,37.7504,-121.435
+95377,Tracy,CA,Carl's Jr.,37.754,-121.459
+93274,Tulare,CA,Carl's Jr.,36.2077,-119.346
+93274,Tulare,CA,Carl's Jr.,36.2247,-119.331
+95380,Turlock,CA,Carl's Jr.,37.4928,-120.872
+95382,Turlock,CA,Carl's Jr.,37.5197,-120.849
+92780,Tustin,CA,Carl's Jr.,33.7368,-117.824
+92782,Tustin,CA,Carl's Jr.,33.7235,-117.794
+92278,Twentynine Palms,CA,Carl's Jr.,34.3944,-116.193
+95482,Ukiah,CA,Carl's Jr.,39.1675,-123.211
+91784,Upland,CA,Carl's Jr.,34.1327,-117.643
+91786,Upland,CA,Carl's Jr.,34.1069,-117.642
+91786,Upland,CA,Carl's Jr.,34.1068,-117.681
+95687,Vacaville,CA,Carl's Jr.,38.3529,-121.976
+95687,Vacaville,CA,Carl's Jr.,38.3691,-121.956
+94589,Vallejo,CA,Carl's Jr.,38.1274,-122.256
+94589,Vallejo,CA,Carl's Jr.,38.1403,-122.231
+91401,Van Nuys,CA,Carl's Jr.,34.1716,-118.431
+91405,Van Nuys,CA,Carl's Jr.,34.2094,-118.449
+91411,Van Nuys,CA,Carl's Jr.,34.1877,-118.466
+93003,Ventura,CA,Carl's Jr.,34.2734,-119.264
+93003,Ventura,CA,Carl's Jr.,34.2582,-119.211
+93003,Ventura,CA,Carl's Jr.,34.2465,-119.194
+92394,Victorville,CA,Carl's Jr.,34.5213,-117.331
+92395,Victorville,CA,Carl's Jr.,34.5144,-117.315
+92395,Victorville,CA,Carl's Jr.,34.471,-117.343
+92395,Victorville,CA,Carl's Jr.,34.471,-117.289
+93277,Visalia,CA,Carl's Jr.,36.3009,-119.313
+93277,Visalia,CA,Carl's Jr.,36.3268,-119.336
+93277,Visalia,CA,Carl's Jr.,36.3229,-119.314
+93292,Visalia,CA,Carl's Jr.,36.3303,-119.279
+92081,Vista,CA,Carl's Jr.,33.1934,-117.256
+92083,Vista,CA,Carl's Jr.,33.1709,-117.221
+90038,West Hollywood,CA,Carl's Jr.,34.091,-118.344
+91789,Walnut,CA,Carl's Jr.,34.0433,-117.848
+94598,Walnut Creek,CA,Carl's Jr.,37.9294,-122.016
+91790,West Covina,CA,Carl's Jr.,34.0678,-117.925
+91791,West Covina,CA,Carl's Jr.,34.0752,-117.89
+91792,West Covina,CA,Carl's Jr.,34.0327,-117.914
+95691,West Sacramento,CA,Carl's Jr.,38.578,-121.549
+91361,Westlake Village,CA,Carl's Jr.,34.1547,-118.828
+95387,Westley,CA,Carl's Jr.,37.5384,-121.264
+92683,Westminster,CA,Carl's Jr.,33.7656,-117.99
+92683,Westminster,CA,Carl's Jr.,33.7592,-118.01
+90603,Whittier,CA,Carl's Jr.,33.9464,-118.0
+90605,Whittier,CA,Carl's Jr.,33.9605,-118.028
+90606,Whittier,CA,Carl's Jr.,33.9671,-118.049
+90606,Whittier,CA,Carl's Jr.,33.9926,-118.068
+95987,Williams,CA,Carl's Jr.,39.1581,-122.14
+95492,Windsor,CA,Carl's Jr.,38.5541,-122.807
+95695,Woodland,CA,Carl's Jr.,38.6777,-121.788
+91367,Woodland Hills,CA,Carl's Jr.,34.1854,-118.643
+92886,Yorba Linda,CA,Carl's Jr.,33.8911,-117.773
+92887,Yorba Linda,CA,Carl's Jr.,33.8726,-117.736
+96097,Yreka,CA,Carl's Jr.,41.7009,-122.646
+95993,Yuba City,CA,Carl's Jr.,39.1323,-121.636
+92399,Yucaipa,CA,Carl's Jr.,34.0338,-117.073
+92284,Yucca Valley,CA,Carl's Jr.,34.1208,-116.434
+80014,Aurora,CO,Carl's Jr.,39.6763,-104.866
+80014,Aurora,CO,Carl's Jr.,39.676,-104.81
+80017,Aurora,CO,Carl's Jr.,39.7046,-104.791
+80104,Castle Rock,CO,Carl's Jr.,39.4129,-104.865
+80903,Colorado Springs,CO,Carl's Jr.,38.8383,-104.822
+80906,Colorado Springs,CO,Carl's Jr.,38.7961,-104.801
+80907,Colorado Springs,CO,Carl's Jr.,38.8966,-104.828
+80910,Colorado Springs,CO,Carl's Jr.,38.805,-104.758
+80915,Colorado Springs,CO,Carl's Jr.,38.8717,-104.718
+80915,Colorado Springs,CO,Carl's Jr.,38.8487,-104.722
+80920,Colorado Springs,CO,Carl's Jr.,38.9332,-104.808
+80922,Colorado Springs,CO,Carl's Jr.,38.9106,-104.716
+80022,Commerce City,CO,Carl's Jr.,39.8053,-104.931
+80204,Denver,CO,Carl's Jr.,39.74,-105.004
+80504,Firestone,CO,Carl's Jr.,40.164,-104.937
+81226,Florence,CO,Carl's Jr.,38.3887,-105.112
+80523,Fort Collins,CO,Carl's Jr.,40.5732,-105.086
+80524,Fort Collins,CO,Carl's Jr.,40.582,-105.065
+81501,Grand Junction,CO,Carl's Jr.,39.0775,-108.526
+81505,Grand Junction,CO,Carl's Jr.,39.0861,-108.595
+80631,Greeley,CO,Carl's Jr.,40.3963,-104.697
+80631,Greeley,CO,Carl's Jr.,40.4225,-104.69
+81050,La Junta,CO,Carl's Jr.,37.9879,-103.55
+80226,Lakewood,CO,Carl's Jr.,39.7073,-105.082
+80120,Littleton,CO,Carl's Jr.,39.5737,-104.99
+80123,Littleton,CO,Carl's Jr.,39.61,-105.08
+80501,Longmont,CO,Carl's Jr.,40.1894,-105.131
+80537,Loveland,CO,Carl's Jr.,40.4065,-105.074
+80134,Parker,CO,Carl's Jr.,39.4803,-104.758
+81003,Pueblo,CO,Carl's Jr.,38.2677,-104.607
+81003,Pueblo,CO,Carl's Jr.,38.28,-104.627
+81089,Walsenburg,CO,Carl's Jr.,37.6227,-104.78
+80260,Westminster,CO,Carl's Jr.,39.8844,-105.025
+80033,Wheat Ridge,CO,Carl's Jr.,39.7854,-105.11
+96701,Aiea,HI,Carl's Jr.,21.3862,-157.942
+96816,Honolulu,HI,Carl's Jr.,21.2784,-157.787
+96819,Honolulu,HI,Carl's Jr.,21.328,-157.886
+96793,Wailuku,HI,Carl's Jr.,20.7955,-156.511
+83702,Boise,ID,Carl's Jr.,43.6093,-116.193
+83704,Boise,ID,Carl's Jr.,43.6095,-116.285
+83709,Boise,ID,Carl's Jr.,43.5894,-116.281
+83605,Caldwell,ID,Carl's Jr.,43.6689,-116.68
+83814,Coeur D'Alene,ID,Carl's Jr.,47.7006,-116.787
+83714,Garden City,ID,Carl's Jr.,43.6511,-116.28
+83336,Heyburn,ID,Carl's Jr.,42.559,-113.898
+83642,Meridian,ID,Carl's Jr.,43.6178,-116.354
+83651,Nampa,ID,Carl's Jr.,43.6069,-116.605
+87107,Albuquerque,NM,Carl's Jr.,35.1377,-106.616
+87108,Albuquerque,NM,Carl's Jr.,35.0782,-106.588
+87110,Albuquerque,NM,Carl's Jr.,35.1093,-106.586
+87112,Albuquerque,NM,Carl's Jr.,35.0936,-106.532
+87113,Albuquerque,NM,Carl's Jr.,35.1851,-106.583
+87114,Albuquerque,NM,Carl's Jr.,35.206,-106.657
+87114,Albuquerque,NM,Carl's Jr.,35.1811,-106.688
+87120,Albuquerque,NM,Carl's Jr.,35.113,-106.702
+87121,Albuquerque,NM,Carl's Jr.,35.0795,-106.711
+87123,Albuquerque,NM,Carl's Jr.,35.0684,-106.502
+87301,Gallup,NM,Carl's Jr.,35.53,-108.719
+87301,Gallup,NM,Carl's Jr.,35.5303,-108.759
+88001,Las Cruces,NM,Carl's Jr.,32.3087,-106.765
+87031,Los Lunas,NM,Carl's Jr.,34.8163,-106.767
+87505,Santa Fe,NM,Carl's Jr.,35.6598,-105.975
+88435,Santa Rosa,NM,Carl's Jr.,34.8654,-104.668
+89701,Carson City,NV,Carl's Jr.,39.1556,-119.767
+89014,Henderson,NV,Carl's Jr.,36.0612,-115.037
+89015,Henderson,NV,Carl's Jr.,36.0287,-114.97
+89102,Las Vegas,NV,Carl's Jr.,36.1262,-115.207
+89102,Las Vegas,NV,Carl's Jr.,36.1591,-115.162
+89102,Las Vegas,NV,Carl's Jr.,36.1447,-115.193
+89103,Las Vegas,NV,Carl's Jr.,36.1008,-115.208
+89104,Las Vegas,NV,Carl's Jr.,36.1482,-115.154
+89104,Las Vegas,NV,Carl's Jr.,36.159,-115.12
+89104,Las Vegas,NV,Carl's Jr.,36.1449,-115.065
+89108,Las Vegas,NV,Carl's Jr.,36.1953,-115.206
+89108,Las Vegas,NV,Carl's Jr.,36.2179,-115.242
+89109,Las Vegas,NV,Carl's Jr.,36.1299,-115.137
+89110,Las Vegas,NV,Carl's Jr.,36.1738,-115.017
+89117,Las Vegas,NV,Carl's Jr.,36.1445,-115.293
+89117,Las Vegas,NV,Carl's Jr.,36.1267,-115.279
+89119,Las Vegas,NV,Carl's Jr.,36.1066,-115.137
+89120,Las Vegas,NV,Carl's Jr.,36.0715,-115.092
+89121,Las Vegas,NV,Carl's Jr.,36.1004,-115.073
+89121,Las Vegas,NV,Carl's Jr.,36.0999,-115.105
+89130,Las Vegas,NV,Carl's Jr.,36.2386,-115.209
+89145,Las Vegas,NV,Carl's Jr.,36.173,-115.245
+89146,Las Vegas,NV,Carl's Jr.,36.1482,-115.243
+89147,Las Vegas,NV,Carl's Jr.,36.0999,-115.244
+89030,North Las Vegas,NV,Carl's Jr.,36.1959,-115.122
+89031,North Las Vegas,NV,Carl's Jr.,36.2613,-115.183
+89019,Primm,NV,Carl's Jr.,35.609,-115.389
+89502,Reno,NV,Carl's Jr.,39.4725,-119.787
+89502,Reno,NV,Carl's Jr.,39.5132,-119.789
+89503,Reno,NV,Carl's Jr.,39.5381,-119.864
+89512,Reno,NV,Carl's Jr.,39.5455,-119.783
+89521,Reno,NV,Carl's Jr.,39.4197,-119.755
+89434,Sparks,NV,Carl's Jr.,39.5421,-119.718
+74820,Ada,OK,Carl's Jr.,34.7733,-96.6697
+73005,Anadarko,OK,Carl's Jr.,35.0578,-98.2446
+73401,Ardmore,OK,Carl's Jr.,34.1921,-97.1428
+74008,Bixby,OK,Carl's Jr.,36.0026,-95.8867
+74012,Broken Arrow,OK,Carl's Jr.,36.0601,-95.8155
+74017,Claremore,OK,Carl's Jr.,36.3118,-95.617
+73533,Duncan,OK,Carl's Jr.,34.5016,-97.9362
+74701,Durant,OK,Carl's Jr.,33.9941,-96.3903
+73013,Edmond,OK,Carl's Jr.,35.6239,-97.4859
+73036,El Reno,OK,Carl's Jr.,35.5097,-97.9729
+73644,Elk City,OK,Carl's Jr.,35.4116,-99.4257
+73703,Enid,OK,Carl's Jr.,36.401,-97.8904
+73044,Guthrie,OK,Carl's Jr.,35.8738,-97.4255
+73448,Marietta,OK,Carl's Jr.,33.9403,-97.1298
+74501,McAlester,OK,Carl's Jr.,34.9139,-95.7456
+73110,Midwest City,OK,Carl's Jr.,35.464,-97.3896
+73160,Moore,OK,Carl's Jr.,35.3199,-97.4872
+73065,Newcastle,OK,Carl's Jr.,35.2908,-97.613
+73069,Norman,OK,Carl's Jr.,35.2185,-97.4536
+73069,Norman,OK,Carl's Jr.,35.2318,-97.4802
+73103,Oklahoma City,OK,Carl's Jr.,35.4931,-97.5141
+73112,Oklahoma City,OK,Carl's Jr.,35.5116,-97.5836
+73119,Oklahoma City,OK,Carl's Jr.,35.4208,-97.5657
+73127,Oklahoma City,OK,Carl's Jr.,35.4926,-97.6192
+73139,Oklahoma City,OK,Carl's Jr.,35.3772,-97.5281
+73142,Oklahoma City,OK,Carl's Jr.,35.595,-97.6205
+73159,Oklahoma City,OK,Carl's Jr.,35.392,-97.5477
+74361,Pryor,OK,Carl's Jr.,36.3042,-95.3197
+73080,Purcell,OK,Carl's Jr.,35.0139,-97.3663
+74063,Sand Springs,OK,Carl's Jr.,36.1369,-96.1005
+74066,Sapulpa,OK,Carl's Jr.,35.9886,-96.0475
+74868,Seminole,OK,Carl's Jr.,35.2322,-96.6709
+74804,Shawnee,OK,Carl's Jr.,35.3538,-96.912
+74070,Skiatook,OK,Carl's Jr.,36.3687,-96.0119
+74075,Stillwater,OK,Carl's Jr.,36.1258,-97.0516
+73086,Sulphur,OK,Carl's Jr.,34.5064,-96.9947
+74135,Tulsa,OK,Carl's Jr.,36.1042,-95.9206
+73096,Weatherford,OK,Carl's Jr.,35.5262,-98.6968
+97322,Albany,OR,Carl's Jr.,44.6319,-123.073
+97322,Albany,OR,Carl's Jr.,44.6413,-123.066
+97005,Beaverton,OR,Carl's Jr.,45.4866,-122.773
+97006,Beaverton,OR,Carl's Jr.,45.5348,-122.866
+97701,Bend,OR,Carl's Jr.,44.0679,-121.303
+97702,Bend,OR,Carl's Jr.,44.0367,-121.304
+97331,Corvallis,OR,Carl's Jr.,44.5656,-123.278
+97424,Cottage Grove,OR,Carl's Jr.,43.8041,-123.046
+97401,Eugene,OR,Carl's Jr.,44.0498,-123.082
+97401,Eugene,OR,Carl's Jr.,44.0659,-123.074
+97402,Eugene,OR,Carl's Jr.,44.0481,-123.147
+97404,Eugene,OR,Carl's Jr.,44.0957,-123.129
+97526,Grants Pass,OR,Carl's Jr.,42.4581,-123.323
+97526,Grants Pass,OR,Carl's Jr.,42.4368,-123.307
+97030,Gresham,OR,Carl's Jr.,45.503,-122.416
+97030,Gresham,OR,Carl's Jr.,45.5191,-122.454
+97123,Hillsboro,OR,Carl's Jr.,45.4987,-122.913
+97123,Hillsboro,OR,Carl's Jr.,45.5166,-122.974
+97124,Hillsboro,OR,Carl's Jr.,45.5383,-122.904
+97303,Keizer,OR,Carl's Jr.,44.9989,-123.026
+97603,Klamath Falls,OR,Carl's Jr.,42.2139,-121.756
+97355,Lebanon,OR,Carl's Jr.,44.5159,-122.906
+97501,Medford,OR,Carl's Jr.,42.3128,-122.862
+97045,Oregon City,OR,Carl's Jr.,45.3164,-122.574
+97204,Portland,OR,Carl's Jr.,45.5174,-122.679
+97220,Portland,OR,Carl's Jr.,45.533,-122.558
+97236,Portland,OR,Carl's Jr.,45.5041,-122.51
+97266,Portland,OR,Carl's Jr.,45.497,-122.578
+97266,Portland,OR,Carl's Jr.,45.4501,-122.579
+97266,Portland,OR,Carl's Jr.,45.4364,-122.579
+97470,Roseburg,OR,Carl's Jr.,43.2321,-123.373
+97301,Salem,OR,Carl's Jr.,44.9114,-122.979
+97301,Salem,OR,Carl's Jr.,44.9149,-122.98
+97306,Salem,OR,Carl's Jr.,44.8774,-123.026
+97477,Springfield,OR,Carl's Jr.,44.0765,-123.042
+97477,Springfield,OR,Carl's Jr.,44.0645,-122.996
+97477,Springfield,OR,Carl's Jr.,44.0768,-123.042
+97223,Tigard,OR,Carl's Jr.,45.4439,-122.802
+97224,Tigard,OR,Carl's Jr.,45.4078,-122.795
+97062,Tualatin,OR,Carl's Jr.,45.3813,-122.765
+97062,Tualatin,OR,Carl's Jr.,45.3725,-122.766
+75409,Anna,TX,Carl's Jr.,33.3088,-96.5896
+78521,Brownsville,TX,Carl's Jr.,25.9428,-97.4293
+75232,Dallas,TX,Carl's Jr.,32.6412,-96.8398
+79902,El Paso,TX,Carl's Jr.,31.7806,-106.505
+79906,El Paso,TX,Carl's Jr.,31.8181,-106.404
+79907,El Paso,TX,Carl's Jr.,31.6917,-106.327
+79936,El Paso,TX,Carl's Jr.,31.7373,-106.292
+79936,El Paso,TX,Carl's Jr.,31.7688,-106.319
+75141,Hutchins,TX,Carl's Jr.,32.6416,-96.7042
+78045,Laredo,TX,Carl's Jr.,27.6001,-99.4798
+78504,McAllen,TX,Carl's Jr.,26.2376,-98.2095
+75087,Rockwall,TX,Carl's Jr.,32.919,-96.4191
+75790,Van,TX,Carl's Jr.,32.5079,-95.6431
+78073,Von Ormy,TX,Carl's Jr.,29.3107,-98.6164
+76301,Wichita Falls,TX,Carl's Jr.,33.9028,-98.4953
+76306,Wichita Falls,TX,Carl's Jr.,33.9453,-98.5325
+84003,American Fork,UT,Carl's Jr.,40.3647,-111.786
+84010,Bountiful,UT,Carl's Jr.,40.8842,-111.885
+84720,Cedar City,UT,Carl's Jr.,37.7258,-113.131
+84014,Centerville,UT,Carl's Jr.,40.9211,-111.889
+84015,Clearfield,UT,Carl's Jr.,41.1222,-112.026
+84020,Draper,UT,Carl's Jr.,40.526,-111.889
+84041,Layton,UT,Carl's Jr.,41.0891,-111.983
+84341,Logan,UT,Carl's Jr.,41.7572,-111.834
+84044,Magna,UT,Carl's Jr.,40.6964,-112.083
+84047,Midvale,UT,Carl's Jr.,40.6249,-111.855
+84107,Murray,UT,Carl's Jr.,40.6562,-111.887
+84403,Ogden,UT,Carl's Jr.,41.1774,-111.949
+84404,Ogden,UT,Carl's Jr.,41.2445,-111.976
+84057,Orem,UT,Carl's Jr.,40.3215,-111.706
+84601,Provo,UT,Carl's Jr.,40.2507,-111.664
+84405,Riverdale,UT,Carl's Jr.,41.1753,-112.008
+84065,Riverton,UT,Carl's Jr.,40.5224,-111.942
+84790,St. George,UT,Carl's Jr.,37.112,-113.554
+84106,Salt Lake City,UT,Carl's Jr.,40.7255,-111.856
+84111,Salt Lake City,UT,Carl's Jr.,40.7652,-111.889
+84115,Salt Lake City,UT,Carl's Jr.,40.7253,-111.899
+84116,Salt Lake City,UT,Carl's Jr.,40.7716,-111.94
+84070,Sandy,UT,Carl's Jr.,40.5612,-111.891
+84093,Sandy,UT,Carl's Jr.,40.5941,-111.832
+84660,Spanish Fork,UT,Carl's Jr.,40.1197,-111.655
+84123,Taylorsville,UT,Carl's Jr.,40.6496,-111.939
+84074,Tooele,UT,Carl's Jr.,40.5569,-112.297
+84084,West Jordan,UT,Carl's Jr.,40.623,-111.979
+84088,West Jordan,UT,Carl's Jr.,40.5871,-111.939
+84119,West Valley City,UT,Carl's Jr.,40.6972,-111.939
+84119,West Valley City,UT,Carl's Jr.,40.6965,-111.976
+84120,West Valley City,UT,Carl's Jr.,40.6982,-112.025
+99004,Cheney,WA,Carl's Jr.,47.5058,-117.565
+99336,Kennewick,WA,Carl's Jr.,46.2199,-119.223
+99336,Kennewick,WA,Carl's Jr.,46.2096,-119.159
+99019,Liberty Lake,WA,Carl's Jr.,47.6668,-117.104
+99354,Richland,WA,Carl's Jr.,46.2971,-119.275
+99201,Spokane,WA,Carl's Jr.,47.6534,-117.422
+99208,Spokane,WA,Carl's Jr.,47.7191,-117.411
+99218,Spokane,WA,Carl's Jr.,47.7694,-117.404
+98661,Vancouver,WA,Carl's Jr.,45.6407,-122.619
+98662,Vancouver,WA,Carl's Jr.,45.6766,-122.553
+98665,Vancouver,WA,Carl's Jr.,45.688,-122.66
+98683,Vancouver,WA,Carl's Jr.,45.6107,-122.504
+36310,Abbeville,AL,Hardee's,31.5509,-85.2876
+35007,Alabaster,AL,Hardee's,33.2319,-86.8114
+35950,Albertville,AL,Hardee's,34.2619,-86.2286
+35950,Albertville,AL,Hardee's,34.2975,-86.265
+35010,Alexander City,AL,Hardee's,32.9309,-85.9486
+36420,Andalusia,AL,Hardee's,31.2754,-86.5169
+36201,Anniston,AL,Hardee's,33.6654,-85.8271
+36201,Anniston,AL,Hardee's,33.6476,-85.8654
+36206,Anniston,AL,Hardee's,33.7222,-85.8164
+35016,Arab,AL,Hardee's,34.3278,-86.4943
+36251,Ashland,AL,Hardee's,33.2751,-85.8276
+35611,Athens,AL,Hardee's,34.7899,-86.9716
+35612,Athens,AL,Hardee's,34.8048,-86.9821
+35954,Attalla,AL,Hardee's,33.9972,-86.0938
+36832,Auburn,AL,Hardee's,32.5901,-85.5091
+36507,Bay Minette,AL,Hardee's,30.8692,-87.7785
+36509,Bayou La Batre,AL,Hardee's,30.4224,-88.2444
+35212,Birmingham,AL,Hardee's,33.547,-86.7579
+35215,Birmingham,AL,Hardee's,33.6542,-86.6479
+35243,Birmingham,AL,Hardee's,33.4633,-86.7315
+35957,Boaz,AL,Hardee's,34.2145,-86.1567
+35740,Bridgeport,AL,Hardee's,34.9461,-85.7313
+36010,Brundidge,AL,Hardee's,31.7203,-85.83
+36904,Butler,AL,Hardee's,32.09,-88.2211
+35040,Calera,AL,Hardee's,33.1003,-86.753
+36726,Camden,AL,Hardee's,32.0101,-87.297
+35960,Centre,AL,Hardee's,34.157,-85.6994
+35044,Childersburg,AL,Hardee's,33.2803,-86.3606
+36522,Citronelle,AL,Hardee's,31.1031,-88.2383
+35045,Clanton,AL,Hardee's,32.803,-86.5871
+35055,Cullman,AL,Hardee's,34.1835,-86.8485
+35055,Cullman,AL,Hardee's,34.1172,-86.862
+35601,Decatur,AL,Hardee's,34.5912,-86.9679
+35601,Decatur,AL,Hardee's,34.5706,-87.0134
+35603,Decatur,AL,Hardee's,34.538,-86.9134
+35603,Decatur,AL,Hardee's,34.5581,-86.9732
+36732,Demopolis,AL,Hardee's,32.4864,-87.8591
+36301,Dothan,AL,Hardee's,31.1898,-85.4013
+36303,Dothan,AL,Hardee's,31.2445,-85.4294
+36303,Dothan,AL,Hardee's,31.2171,-85.3613
+36330,Enterprise,AL,Hardee's,31.3346,-85.8394
+35462,Eutaw,AL,Hardee's,32.9278,-87.9743
+36401,Evergreen,AL,Hardee's,31.4497,-86.8965
+36532,Fairhope,AL,Hardee's,30.522,-87.886
+36441,Flomaton,AL,Hardee's,31.0279,-87.244
+36442,Florala,AL,Hardee's,31.0027,-86.3234
+35630,Florence,AL,Hardee's,34.8322,-87.6286
+36536,Foley,AL,Hardee's,30.3878,-87.6836
+35967,Fort Payne,AL,Hardee's,34.4653,-85.7008
+35968,Fort Payne,AL,Hardee's,34.4375,-85.752
+35068,Fultondale,AL,Hardee's,33.6096,-86.797
+35903,Gadsden,AL,Hardee's,33.9722,-85.9492
+36340,Geneva,AL,Hardee's,31.0477,-85.8921
+36541,Grand Bay,AL,Hardee's,30.4949,-88.3363
+36037,Greenville,AL,Hardee's,31.8462,-86.6395
+36542,Gulf Shores,AL,Hardee's,30.2569,-87.6887
+35748,Gurley,AL,Hardee's,34.7007,-86.3859
+35565,Haleyville,AL,Hardee's,34.2339,-87.6259
+35570,Hamilton,AL,Hardee's,34.1421,-87.9858
+35077,Hanceville,AL,Hardee's,34.0484,-86.7571
+36344,Hartford,AL,Hardee's,31.0745,-85.6947
+35640,Hartselle,AL,Hardee's,34.4441,-86.939
+36345,Headland,AL,Hardee's,31.3536,-85.3271
+36264,Heflin,AL,Hardee's,33.6508,-85.5904
+35023,Hueytown,AL,Hardee's,33.4575,-86.9627
+35801,Huntsville,AL,Hardee's,34.7199,-86.5763
+35801,Huntsville,AL,Hardee's,34.7053,-86.5894
+35801,Huntsville,AL,Hardee's,34.7389,-86.5766
+35802,Huntsville,AL,Hardee's,34.6488,-86.567
+35810,Huntsville,AL,Hardee's,34.7633,-86.5886
+36545,Jackson,AL,Hardee's,31.5381,-87.8869
+36265,Jacksonville,AL,Hardee's,33.8111,-85.7611
+35501,Jasper,AL,Hardee's,33.8286,-87.2764
+35094,Leeds,AL,Hardee's,33.5617,-86.5226
+35470,Livingston,AL,Hardee's,32.5967,-88.1831
+36551,Loxley,AL,Hardee's,30.6427,-87.7607
+36049,Luverne,AL,Hardee's,31.7078,-86.2639
+35758,Madison,AL,Hardee's,34.6778,-86.7484
+35758,Madison,AL,Hardee's,34.7511,-86.75
+36756,Marion,AL,Hardee's,32.6214,-87.318
+35228,Midfield,AL,Hardee's,33.4527,-86.9231
+36054,Millbrook,AL,Hardee's,32.5167,-86.3762
+36608,Mobile,AL,Hardee's,30.6893,-88.1744
+36609,Mobile,AL,Hardee's,30.6401,-88.1889
+36618,Mobile,AL,Hardee's,30.7095,-88.1263
+36460,Monroeville,AL,Hardee's,31.5065,-87.3192
+35115,Montevallo,AL,Hardee's,33.1155,-86.8627
+36105,Montgomery,AL,Hardee's,32.3281,-86.3409
+36107,Montgomery,AL,Hardee's,32.3642,-86.2689
+36109,Montgomery,AL,Hardee's,32.3821,-86.2145
+36109,Montgomery,AL,Hardee's,32.3662,-86.244
+36110,Montgomery,AL,Hardee's,32.4066,-86.2656
+36116,Montgomery,AL,Hardee's,32.3221,-86.2364
+36116,Montgomery,AL,Hardee's,32.3437,-86.2217
+35650,Moulton,AL,Hardee's,34.4869,-87.2757
+35661,Muscle Shoals,AL,Hardee's,34.7449,-87.6667
+35760,New Hope,AL,Hardee's,34.5509,-86.4331
+35475,Northport,AL,Hardee's,33.3019,-87.6
+35476,Northport,AL,Hardee's,33.2356,-87.6101
+35121,Oneonta,AL,Hardee's,33.9485,-86.4721
+36801,Opelika,AL,Hardee's,32.6371,-85.4158
+36804,Opelika,AL,Hardee's,32.6297,-85.3718
+36467,Opp,AL,Hardee's,31.2615,-86.259
+36203,Oxford,AL,Hardee's,33.614,-85.8278
+36360,Ozark,AL,Hardee's,31.438,-85.6655
+35125,Pell City,AL,Hardee's,33.604,-86.2801
+36867,Phenix City,AL,Hardee's,32.476,-85.0301
+35126,Pinson,AL,Hardee's,33.6972,-86.68
+36066,Prattville,AL,Hardee's,32.4605,-86.3913
+36067,Prattville,AL,Hardee's,32.4599,-86.4565
+35986,Rainsville,AL,Hardee's,34.4953,-85.8463
+35652,Rogersville,AL,Hardee's,34.8237,-87.2915
+36571,Saraland,AL,Hardee's,30.8312,-88.094
+35768,Scottsboro,AL,Hardee's,34.6653,-86.0348
+35768,Scottsboro,AL,Hardee's,34.6534,-86.0249
+36703,Selma,AL,Hardee's,32.4316,-87.0196
+35148,Sumiton,AL,Hardee's,33.7529,-87.0464
+35150,Sylacauga,AL,Hardee's,33.1559,-86.2699
+36078,Tallassee,AL,Hardee's,32.552,-85.9171
+36582,Theodore,AL,Hardee's,30.5334,-88.1788
+36784,Thomasville,AL,Hardee's,31.913,-87.7411
+36081,Troy,AL,Hardee's,31.833,-85.9466
+35173,Trussville,AL,Hardee's,33.6184,-86.6077
+35401,Tuscaloosa,AL,Hardee's,33.1972,-87.5285
+35401,Tuscaloosa,AL,Hardee's,33.2044,-87.5681
+35405,Tuscaloosa,AL,Hardee's,33.1679,-87.5235
+35405,Tuscaloosa,AL,Hardee's,33.1464,-87.5444
+35674,Tuscumbia,AL,Hardee's,34.7095,-87.6674
+35216,Vestavia Hills,AL,Hardee's,33.42,-86.7998
+35180,Warrior,AL,Hardee's,33.7849,-86.8959
+36092,Wetumpka,AL,Hardee's,32.5156,-86.2122
+35594,Winfield,AL,Hardee's,33.9314,-87.8291
+72501,Batesville,AR,Hardee's,35.7711,-91.6411
+72315,Blytheville,AR,Hardee's,35.9291,-89.885
+72830,Clarksville,AR,Hardee's,35.4622,-93.5065
+72032,Conway,AR,Hardee's,35.0916,-92.4279
+72701,Fayetteville,AR,Hardee's,36.055,-94.1909
+72703,Fayetteville,AR,Hardee's,36.1062,-94.1466
+72901,Fort Smith,AR,Hardee's,35.3756,-94.4033
+72901,Fort Smith,AR,Hardee's,35.3389,-94.4161
+72903,Fort Smith,AR,Hardee's,35.353,-94.3509
+72904,Fort Smith,AR,Hardee's,35.3857,-94.3864
+72601,Harrison,AR,Hardee's,36.2604,-93.1285
+72211,Little Rock,AR,Hardee's,34.7541,-92.4025
+72653,Mountain Home,AR,Hardee's,36.3321,-92.3602
+72560,Mountain View,AR,Hardee's,35.8729,-92.1166
+72112,Newport,AR,Hardee's,35.6056,-91.2587
+72116,North Little Rock,AR,Hardee's,34.8003,-92.2553
+72450,Paragould,AR,Hardee's,36.0539,-90.505
+72454,Piggott,AR,Hardee's,36.3816,-90.1793
+71603,Pine Bluff,AR,Hardee's,34.2017,-92.0317
+71857,Prescott,AR,Hardee's,33.82,-93.3926
+72801,Russellville,AR,Hardee's,35.281,-93.1444
+72802,Russellville,AR,Hardee's,35.278,-93.0941
+72143,Searcy,AR,Hardee's,35.2506,-91.6947
+72150,Sheridan,AR,Hardee's,34.3079,-92.3993
+72761,Siloam Springs,AR,Hardee's,36.1762,-94.5565
+72764,Springdale,AR,Hardee's,36.182,-94.1385
+19901,Dover,DE,Hardee's,39.157,-75.5101
+19904,Dover,DE,Hardee's,39.1608,-75.5567
+19947,Georgetown,DE,Hardee's,38.6967,-75.4007
+19952,Harrington,DE,Hardee's,38.924,-75.5658
+19956,Laurel,DE,Hardee's,38.5562,-75.5566
+19963,Milford,DE,Hardee's,38.9203,-75.4385
+19966,Millsboro,DE,Hardee's,38.6097,-75.2054
+19973,Seaford,DE,Hardee's,38.6464,-75.622
+33823,Auburndale,FL,Hardee's,28.0588,-81.7847
+32425,Bonifay,FL,Hardee's,30.7757,-85.6824
+32008,Branford,FL,Hardee's,29.9182,-82.8931
+34601,Brooksville,FL,Hardee's,28.5524,-82.42
+32011,Callahan,FL,Hardee's,30.563,-81.8291
+32324,Chattahoochee,FL,Hardee's,30.7048,-84.85
+32626,Chiefland,FL,Hardee's,29.4886,-82.8612
+32428,Chipley,FL,Hardee's,30.7665,-85.5402
+32431,Cottondale,FL,Hardee's,30.7582,-85.3799
+32327,Crawfordville,FL,Hardee's,30.1789,-84.3752
+32536,Crestview,FL,Hardee's,30.723,-86.5693
+32628,Cross City,FL,Hardee's,29.6377,-83.135
+32720,Deland,FL,Hardee's,29.0545,-81.3248
+33838,Dundee,FL,Hardee's,28.0239,-81.6112
+32131,East Palatka,FL,Hardee's,29.6465,-81.5969
+33905,Fort Myers,FL,Hardee's,26.6797,-81.8062
+32439,Freeport,FL,Hardee's,30.5038,-86.1523
+32548,Fort Walton Beach,FL,Hardee's,30.4492,-86.6387
+32440,Graceville,FL,Hardee's,30.9627,-85.5168
+32043,Green Cove Springs,FL,Hardee's,29.9797,-81.7306
+34736,Groveland,FL,Hardee's,28.5605,-81.8575
+32643,High Springs,FL,Hardee's,29.8302,-82.595
+34447,Homosassa Springs,FL,Hardee's,28.8033,-82.5761
+32205,Jacksonville,FL,Hardee's,30.3101,-81.7517
+32208,Jacksonville,FL,Hardee's,30.3806,-81.6709
+32210,Jacksonville,FL,Hardee's,30.27,-81.757
+32211,Jacksonville,FL,Hardee's,30.3284,-81.5863
+32216,Jacksonville,FL,Hardee's,30.2836,-81.5823
+32218,Jacksonville,FL,Hardee's,30.4299,-81.6526
+32221,Jacksonville,FL,Hardee's,30.2919,-81.7823
+32223,Jacksonville,FL,Hardee's,30.1712,-81.629
+32225,Jacksonville,FL,Hardee's,30.3526,-81.5496
+32225,Jacksonville,FL,Hardee's,30.319,-81.4717
+32233,Jacksonville,FL,Hardee's,30.3356,-81.415
+32254,Jacksonville,FL,Hardee's,30.3356,-81.7578
+32256,Jacksonville,FL,Hardee's,30.2207,-81.5671
+32656,Keystone Heights,FL,Hardee's,29.7917,-82.0264
+32054,Lake Butler,FL,Hardee's,30.0237,-82.3283
+32055,Lake City,FL,Hardee's,30.1895,-82.6392
+32055,Lake City,FL,Hardee's,30.1828,-82.6575
+32055,Lake City,FL,Hardee's,30.1839,-82.6003
+33538,Lake Panasoffkee,FL,Hardee's,28.7993,-82.1363
+33815,Lakeland,FL,Hardee's,28.0545,-81.989
+34748,Leesburg,FL,Hardee's,28.8238,-81.8873
+33971,Lehigh Acres,FL,Hardee's,26.6174,-81.676
+32064,Live Oak,FL,Hardee's,30.292,-82.987
+32063,Macclenny,FL,Hardee's,30.2626,-82.123
+32446,Marianna,FL,Hardee's,30.7705,-85.2072
+32901,Melbourne,FL,Hardee's,28.05,-80.6218
+32068,Middleburg,FL,Hardee's,30.0607,-81.8774
+32570,Milton,FL,Hardee's,30.6245,-87.034
+34755,Minneola,FL,Hardee's,28.3583,-81.6781
+32669,Newberry,FL,Hardee's,29.6465,-82.6058
+32578,Niceville,FL,Hardee's,30.5013,-86.4368
+34476,Ocala,FL,Hardee's,29.0786,-82.2129
+34761,Ocoee,FL,Hardee's,28.5515,-81.5393
+32680,Old Town,FL,Hardee's,29.7745,-83.3239
+32073,Orange Park,FL,Hardee's,30.1581,-81.747
+32808,Orlando,FL,Hardee's,28.5778,-81.4518
+32825,Orlando,FL,Hardee's,28.5395,-81.244
+32571,Pace,FL,Hardee's,30.6038,-87.148
+32405,Panama City,FL,Hardee's,30.2106,-85.6499
+32501,Pensacola,FL,Hardee's,30.4452,-87.2349
+32504,Pensacola,FL,Hardee's,30.4899,-87.1956
+32507,Pensacola,FL,Hardee's,30.3868,-87.2784
+32514,Pensacola,FL,Hardee's,30.5319,-87.2211
+32526,Pensacola,FL,Hardee's,30.5198,-87.3142
+32534,Pensacola,FL,Hardee's,30.5115,-87.2705
+32347,Perry,FL,Hardee's,30.0992,-83.5838
+32127,Port Orange,FL,Hardee's,29.1422,-80.987
+32351,Quincy,FL,Hardee's,30.5883,-84.5783
+33570,Ruskin,FL,Hardee's,27.7162,-82.4338
+32771,Sanford,FL,Hardee's,28.812,-81.3626
+33584,Seffner,FL,Hardee's,28.0017,-82.3021
+33713,St. Petersburg,FL,Hardee's,27.806,-82.6793
+32091,Starke,FL,Hardee's,29.9416,-82.1114
+32301,Tallahassee,FL,Hardee's,30.42,-84.2828
+32303,Tallahassee,FL,Hardee's,30.5327,-84.3625
+33611,Tampa,FL,Hardee's,27.9078,-82.506
+33614,Tampa,FL,Hardee's,27.9959,-82.5119
+34689,Tarpon Springs,FL,Hardee's,28.1464,-82.7407
+32778,Tavares,FL,Hardee's,28.8164,-81.726
+33594,Valrico,FL,Hardee's,27.9116,-82.2412
+32694,Waldo,FL,Hardee's,29.7939,-82.1673
+34613,Weeki Wachee,FL,Hardee's,28.5223,-82.5699
+34785,Wildwood,FL,Hardee's,28.858,-82.043
+32696,Williston,FL,Hardee's,29.3869,-82.4507
+32466,Youngstown,FL,Hardee's,30.4337,-85.4279
+33541,Zephyrhills,FL,Hardee's,28.2298,-82.2147
+30102,Acworth,GA,Hardee's,34.0813,-84.6546
+30103,Adairsville,GA,Hardee's,34.3767,-84.9142
+31620,Adel,GA,Hardee's,31.1343,-83.4332
+31705,Albany,GA,Hardee's,31.5741,-84.096
+31510,Alma,GA,Hardee's,31.5313,-82.4636
+30004,Alpharetta,GA,Hardee's,34.0731,-84.2954
+31709,Americus,GA,Hardee's,32.0717,-84.2177
+30601,Athens,GA,Hardee's,33.9769,-83.3641
+30316,Atlanta,GA,Hardee's,33.6878,-84.3106
+30328,Atlanta,GA,Hardee's,33.9363,-84.3786
+39819,Bainbridge,GA,Hardee's,30.9038,-84.5634
+30204,Barnesville,GA,Hardee's,33.0526,-84.1536
+31513,Baxley,GA,Hardee's,31.769,-82.3527
+30110,Bremen,GA,Hardee's,33.7163,-85.1431
+31520,Brunswick,GA,Hardee's,31.2076,-81.5101
+30518,Buford,GA,Hardee's,34.12,-84.0219
+39828,Cairo,GA,Hardee's,30.8865,-84.2076
+30701,Calhoun,GA,Hardee's,34.5026,-84.9537
+30701,Calhoun,GA,Hardee's,34.4983,-84.9304
+30114,Canton,GA,Hardee's,34.2429,-84.4948
+30117,Carrollton,GA,Hardee's,33.5545,-85.0737
+30705,Chatsworth,GA,Hardee's,34.786,-84.7718
+30417,Claxton,GA,Hardee's,32.1579,-81.9022
+39837,Colquitt,GA,Hardee's,31.1709,-84.736
+31904,Columbus,GA,Hardee's,32.5198,-84.9574
+31906,Columbus,GA,Hardee's,32.4465,-84.9311
+30529,Commerce,GA,Hardee's,34.2064,-83.4619
+31015,Cordele,GA,Hardee's,31.9607,-83.7564
+30720,Dalton,GA,Hardee's,34.7595,-84.9704
+30721,Dalton,GA,Hardee's,34.7996,-84.9623
+30633,Danielsville,GA,Hardee's,34.1293,-83.2177
+39845,Donalsonville,GA,Hardee's,31.0405,-84.8789
+30540,East Ellijay,GA,Hardee's,34.685,-84.4763
+30809,Evans,GA,Hardee's,33.5405,-82.1332
+31029,Forsyth,GA,Hardee's,33.0417,-83.9385
+30217,Franklin,GA,Hardee's,33.2891,-85.1176
+30742,Fort Oglethorpe,GA,Hardee's,34.955,-85.2561
+30427,Glennville,GA,Hardee's,31.9518,-81.9581
+30642,Greensboro,GA,Hardee's,33.5757,-83.1809
+30223,Griffin,GA,Hardee's,33.2759,-84.2914
+31036,Hawkinsville,GA,Hardee's,32.2821,-83.4681
+31539,Hazlehurst,GA,Hardee's,31.8631,-82.6019
+30546,Hiawassee,GA,Hardee's,34.9242,-83.7296
+31313,Hinesville,GA,Hardee's,31.8427,-81.5992
+31634,Homerville,GA,Hardee's,31.0363,-82.7488
+31545,Jesup,GA,Hardee's,31.6156,-81.8756
+30728,La Fayette,GA,Hardee's,34.7191,-85.2801
+31636,Lake Park,GA,Hardee's,30.6812,-83.2207
+31635,Lakeland,GA,Hardee's,31.0351,-83.0729
+30553,Lavonia,GA,Hardee's,34.4358,-83.1071
+30045,Lawrenceville,GA,Hardee's,33.9779,-83.9854
+31763,Leesburg,GA,Hardee's,31.6832,-84.1729
+30817,Lincolnton,GA,Hardee's,33.789,-82.4796
+30067,Marietta,GA,Hardee's,33.9389,-84.5075
+30067,Marietta,GA,Hardee's,33.9226,-84.4792
+30253,McDonough,GA,Hardee's,33.4471,-84.1412
+30253,McDonough,GA,Hardee's,33.4823,-84.2136
+30439,Metter,GA,Hardee's,32.3852,-82.0615
+30655,Monroe,GA,Hardee's,33.7912,-83.7127
+31064,Monticello,GA,Hardee's,33.3031,-83.6861
+31768,Moultrie,GA,Hardee's,31.1776,-83.7653
+31639,Nashville,GA,Hardee's,31.1972,-83.2512
+30263,Newnan,GA,Hardee's,33.3866,-84.8188
+30265,Newnan,GA,Hardee's,33.4045,-84.7121
+31642,Pearson,GA,Hardee's,31.2986,-82.8526
+31779,Pelham,GA,Hardee's,31.1302,-84.1498
+31322,Pooler,GA,Hardee's,32.1132,-81.2409
+31643,Quitman,GA,Hardee's,30.7853,-83.5712
+31324,Richmond Hill,GA,Hardee's,31.949,-81.3117
+30736,Ringgold,GA,Hardee's,34.9092,-85.1281
+30274,Riverdale,GA,Hardee's,33.5492,-84.4151
+30161,Rome,GA,Hardee's,34.17,-85.2101
+30165,Rome,GA,Hardee's,34.2645,-85.1928
+30741,Rossville,GA,Hardee's,34.982,-85.2877
+31405,Savannah,GA,Hardee's,32.053,-81.145
+31406,Savannah,GA,Hardee's,32.0039,-81.113
+31410,Savannah,GA,Hardee's,32.0179,-80.9768
+31419,Savannah,GA,Hardee's,32.0004,-81.284
+30078,Snellville,GA,Hardee's,33.8576,-84.0207
+31558,St. Marys,GA,Hardee's,30.7502,-81.5722
+30458,Statesboro,GA,Hardee's,32.4387,-81.7637
+30087,Stone Mountain,GA,Hardee's,33.8238,-84.1101
+30401,Swainsboro,GA,Hardee's,32.584,-82.3207
+30179,Temple,GA,Hardee's,33.7208,-85.0289
+30286,Thomaston,GA,Hardee's,32.8992,-84.3284
+31792,Thomasville,GA,Hardee's,30.8523,-83.948
+31794,Tifton,GA,Hardee's,31.4165,-83.5025
+30577,Toccoa,GA,Hardee's,34.5708,-83.3076
+30752,Trenton,GA,Hardee's,34.8928,-85.5242
+31601,Valdosta,GA,Hardee's,30.8218,-83.2739
+31601,Valdosta,GA,Hardee's,30.8393,-83.3194
+31602,Valdosta,GA,Hardee's,30.8697,-83.288
+30180,Villa Rica,GA,Hardee's,33.7257,-84.9402
+31093,Warner Robins,GA,Hardee's,32.6279,-83.6131
+31093,Warner Robins,GA,Hardee's,32.6182,-83.6809
+52531,Albia,IA,Hardee's,41.017,-92.8089
+52205,Anamosa,IA,Hardee's,42.1046,-91.2703
+52601,Burlington,IA,Hardee's,40.8259,-91.1379
+52601,Burlington,IA,Hardee's,40.8016,-91.1114
+52402,Cedar Rapids,IA,Hardee's,42.0101,-91.6351
+52402,Cedar Rapids,IA,Hardee's,42.0348,-91.6658
+52404,Cedar Rapids,IA,Hardee's,41.9625,-91.6768
+52404,Cedar Rapids,IA,Hardee's,41.9244,-91.6587
+52405,Cedar Rapids,IA,Hardee's,41.9749,-91.7162
+52544,Centerville,IA,Hardee's,40.7324,-92.8739
+50049,Chariton,IA,Hardee's,41.0145,-93.326
+50525,Clarion,IA,Hardee's,42.7316,-93.736
+52732,Clinton,IA,Hardee's,41.845,-90.1881
+52241,Coralville,IA,Hardee's,41.6693,-91.566
+51501,Council Bluffs,IA,Hardee's,41.228,-95.8516
+50801,Creston,IA,Hardee's,41.0493,-94.3692
+52802,Davenport,IA,Hardee's,41.516,-90.6098
+52804,Davenport,IA,Hardee's,41.5371,-90.601
+52806,Davenport,IA,Hardee's,41.5738,-90.5695
+52742,De Witt,IA,Hardee's,41.8344,-90.541
+50315,Des Moines,IA,Hardee's,41.5273,-93.6259
+50325,Des Moines,IA,Hardee's,41.6005,-93.7385
+52001,Dubuque,IA,Hardee's,42.5125,-90.666
+52001,Dubuque,IA,Hardee's,42.4994,-90.695
+52002,Dubuque,IA,Hardee's,42.5151,-90.7457
+52003,Dubuque,IA,Hardee's,42.4596,-90.6732
+52040,Dyersville,IA,Hardee's,42.4874,-91.1233
+52748,Eldridge,IA,Hardee's,41.6546,-90.5718
+51334,Estherville,IA,Hardee's,43.4021,-94.8205
+50436,Forest City,IA,Hardee's,43.2638,-93.6398
+50501,Fort Dodge,IA,Hardee's,42.506,-94.1779
+52627,Fort Madison,IA,Hardee's,40.6303,-91.3233
+50438,Garner,IA,Hardee's,43.1122,-93.6108
+50112,Grinnell,IA,Hardee's,41.7444,-92.7274
+50441,Hampton,IA,Hardee's,42.7415,-93.211
+50548,Humboldt,IA,Hardee's,42.7319,-94.2261
+50138,Knoxville,IA,Hardee's,41.3206,-93.1089
+51031,Le Mars,IA,Hardee's,42.7936,-96.1737
+52057,Manchester,IA,Hardee's,42.4841,-91.4597
+52302,Marion,IA,Hardee's,42.0359,-91.5745
+50158,Marshalltown,IA,Hardee's,42.038,-92.9126
+50401,Mason City,IA,Hardee's,43.1469,-93.1995
+52310,Monticello,IA,Hardee's,42.2379,-91.184
+52314,Mount Vernon,IA,Hardee's,41.8671,-91.4835
+52641,Mount Pleasant,IA,Hardee's,40.9644,-91.5412
+52761,Muscatine,IA,Hardee's,41.4095,-91.0632
+51041,Orange City,IA,Hardee's,42.9973,-96.0566
+50461,Osage,IA,Hardee's,43.2842,-92.8002
+52577,Oskaloosa,IA,Hardee's,41.2961,-92.6465
+51201,Sheldon,IA,Hardee's,43.1862,-95.8624
+51250,Sioux Center,IA,Hardee's,43.0838,-96.1755
+51101,Sioux City,IA,Hardee's,42.4896,-96.399
+51106,Sioux City,IA,Hardee's,42.4479,-96.348
+51301,Spencer,IA,Hardee's,43.1314,-95.1438
+50588,Storm Lake,IA,Hardee's,42.6448,-95.1877
+52772,Tipton,IA,Hardee's,41.7711,-91.1286
+52342,Toledo,IA,Hardee's,42.0172,-92.5622
+52349,Vinton,IA,Hardee's,42.1694,-92.0373
+50701,Waterloo,IA,Hardee's,42.5001,-92.3861
+50703,Waterloo,IA,Hardee's,42.4991,-92.3307
+52172,Waukon,IA,Hardee's,43.2651,-91.4749
+50677,Waverly,IA,Hardee's,42.7258,-92.4785
+52175,West Union,IA,Hardee's,42.9646,-91.8146
+50273,Winterset,IA,Hardee's,41.3428,-94.0133
+61410,Abingdon,IL,Hardee's,40.8084,-90.4017
+61231,Aledo,IL,Hardee's,41.1994,-90.7314
+62906,Anna,IL,Hardee's,37.4597,-89.2448
+61607,Bartonville,IL,Hardee's,40.654,-89.6497
+62618,Beardstown,IL,Hardee's,40.0127,-90.4452
+62220,Belleville,IL,Hardee's,38.5024,-89.9841
+62226,Belleville,IL,Hardee's,38.5417,-90.0009
+62812,Benton,IL,Hardee's,37.9969,-88.9268
+61704,Bloomington,IL,Hardee's,40.4736,-88.9515
+62230,Breese,IL,Hardee's,38.6109,-89.5372
+61422,Bushnell,IL,Hardee's,40.5473,-90.5079
+62206,Cahokia,IL,Hardee's,38.5552,-90.1677
+61520,Canton,IL,Hardee's,40.5635,-90.0352
+62901,Carbondale,IL,Hardee's,37.7265,-89.232
+62626,Carlinville,IL,Hardee's,39.2847,-89.8818
+62918,Carterville,IL,Hardee's,37.7465,-89.077
+62321,Carthage,IL,Hardee's,40.4119,-91.1361
+62420,Casey,IL,Hardee's,39.3137,-87.9859
+62232,Caseyville,IL,Hardee's,38.6154,-90.0442
+62801,Centralia,IL,Hardee's,38.5296,-89.1473
+61820,Champaign,IL,Hardee's,40.0961,-88.2451
+62629,Chatham,IL,Hardee's,39.6767,-89.7047
+62233,Chester,IL,Hardee's,37.9146,-89.8219
+61523,Chillicothe,IL,Hardee's,40.9078,-89.4922
+61727,Clinton,IL,Hardee's,40.1506,-88.9643
+62234,Collinsville,IL,Hardee's,38.6911,-89.9766
+61832,Danville,IL,Hardee's,40.1388,-87.6306
+62522,Decatur,IL,Hardee's,39.8457,-88.9723
+62526,Decatur,IL,Hardee's,39.8764,-88.9549
+61021,Dixon,IL,Hardee's,41.8386,-89.4807
+62832,Du Quoin,IL,Hardee's,38.0072,-89.236
+61244,East Moline,IL,Hardee's,41.4926,-90.4559
+61611,East Peoria,IL,Hardee's,40.667,-89.5796
+62025,Edwardsville,IL,Hardee's,38.8101,-89.9529
+62401,Effingham,IL,Hardee's,39.1203,-88.5603
+61738,El Paso,IL,Hardee's,40.7369,-89.0266
+62930,Eldorado,IL,Hardee's,37.8232,-88.4434
+61530,Eureka,IL,Hardee's,40.7212,-89.2785
+62208,Fairview Heights,IL,Hardee's,38.5857,-89.9846
+61401,Galesburg,IL,Hardee's,40.9402,-90.3485
+61401,Galesburg,IL,Hardee's,40.9475,-90.3565
+61254,Geneseo,IL,Hardee's,41.4341,-90.1582
+62034,Glen Carbon,IL,Hardee's,38.7583,-89.965
+62035,Godfrey,IL,Hardee's,38.923,-90.192
+62040,Granite City,IL,Hardee's,38.7621,-90.1238
+62946,Harrisburg,IL,Hardee's,37.7385,-88.5335
+62644,Havana,IL,Hardee's,40.294,-90.0653
+62948,Herrin,IL,Hardee's,37.7977,-89.0279
+62249,Highland,IL,Hardee's,38.7498,-89.6812
+62650,Jacksonville,IL,Hardee's,39.7233,-90.2392
+62052,Jerseyville,IL,Hardee's,39.1151,-90.3243
+62951,Johnston City,IL,Hardee's,37.8168,-88.9423
+60901,Kankakee,IL,Hardee's,41.1213,-87.8861
+61443,Kewanee,IL,Hardee's,41.2296,-89.9274
+62439,Lawrenceville,IL,Hardee's,38.7294,-87.6845
+62254,Lebanon,IL,Hardee's,38.5999,-89.8078
+61542,Lewistown,IL,Hardee's,40.3928,-90.1554
+62656,Lincoln,IL,Hardee's,40.1576,-89.3737
+61455,Macomb,IL,Hardee's,40.4588,-90.6855
+60950,Manteno,IL,Hardee's,41.251,-87.8492
+62959,Marion,IL,Hardee's,37.7413,-88.9482
+61938,Mattoon,IL,Hardee's,39.472,-88.3767
+62960,Metropolis,IL,Hardee's,37.1522,-88.7311
+61264,Milan,IL,Hardee's,41.4269,-90.5721
+61265,Moline,IL,Hardee's,41.4895,-90.5138
+61265,Moline,IL,Hardee's,41.5127,-90.461
+61265,Moline,IL,Hardee's,41.4909,-90.4797
+61462,Monmouth,IL,Hardee's,40.9154,-90.648
+61856,Monticello,IL,Hardee's,40.0274,-88.5732
+61270,Morrison,IL,Hardee's,41.8099,-89.9679
+61550,Morton,IL,Hardee's,40.6051,-89.4658
+62864,Mount Vernon,IL,Hardee's,38.3135,-88.9455
+62864,Mount Vernon,IL,Hardee's,38.3165,-88.9099
+62966,Murphysboro,IL,Hardee's,37.7647,-89.3269
+62263,Nashville,IL,Hardee's,38.343,-89.3805
+62448,Newton,IL,Hardee's,38.9908,-88.1668
+61761,Normal,IL,Hardee's,40.5103,-88.9585
+62269,O'Fallon,IL,Hardee's,38.585,-89.9108
+62269,O'Fallon,IL,Hardee's,38.5918,-89.9476
+61350,Ottawa,IL,Hardee's,41.3677,-88.8359
+61944,Paris,IL,Hardee's,39.6088,-87.6947
+60957,Paxton,IL,Hardee's,40.4554,-88.1061
+61554,Pekin,IL,Hardee's,40.5696,-89.6451
+61603,Peoria,IL,Hardee's,40.7207,-89.5571
+61615,Peoria,IL,Hardee's,40.7957,-89.607
+61615,Peoria,IL,Hardee's,40.7757,-89.6556
+61616,Peoria Heights,IL,Hardee's,40.7406,-89.5743
+62675,Petersburg,IL,Hardee's,40.0131,-89.8458
+62274,Pinckneyville,IL,Hardee's,38.0783,-89.3822
+62363,Pittsfield,IL,Hardee's,39.6068,-90.8215
+62301,Quincy,IL,Hardee's,39.9218,-91.3966
+62301,Quincy,IL,Hardee's,39.9498,-91.3964
+62301,Quincy,IL,Hardee's,39.9351,-91.3692
+61866,Rantoul,IL,Hardee's,40.3064,-88.156
+62454,Robinson,IL,Hardee's,39.006,-87.7351
+61071,Rock Falls,IL,Hardee's,41.7797,-89.6894
+61201,Rock Island,IL,Hardee's,41.497,-90.5474
+61073,Roscoe,IL,Hardee's,42.4574,-88.9642
+62681,Rushville,IL,Hardee's,40.1175,-90.5755
+62881,Salem,IL,Hardee's,38.6269,-88.9497
+62286,Sparta,IL,Hardee's,38.1367,-89.7037
+61362,Spring Valley,IL,Hardee's,41.3276,-89.2085
+62702,Springfield,IL,Hardee's,39.8312,-89.6309
+62702,Springfield,IL,Hardee's,39.803,-89.6624
+62703,Springfield,IL,Hardee's,39.7872,-89.6481
+62703,Springfield,IL,Hardee's,39.7581,-89.6196
+62704,Springfield,IL,Hardee's,39.7641,-89.6833
+62088,Staunton,IL,Hardee's,39.0124,-89.7916
+61951,Sullivan,IL,Hardee's,39.6007,-88.6096
+62690,Virden,IL,Hardee's,39.5099,-89.7675
+61571,Washington,IL,Hardee's,40.7028,-89.4218
+62298,Waterloo,IL,Hardee's,38.3569,-90.1541
+62896,West Frankfort,IL,Hardee's,37.8981,-88.9155
+62095,Wood River,IL,Hardee's,38.8639,-90.0791
+47421,Bedford,IN,Hardee's,38.8609,-86.4918
+47404,Bloomington,IN,Hardee's,39.1645,-86.5762
+46714,Bluffton,IN,Hardee's,40.7411,-85.1713
+47601,Boonville,IN,Hardee's,38.0481,-87.2869
+47834,Brazil,IN,Hardee's,39.5239,-87.1247
+46112,Brownsburg,IN,Hardee's,39.8626,-86.3928
+46032,Carmel,IN,Hardee's,39.9567,-86.1159
+47842,Clinton,IN,Hardee's,39.6578,-87.4321
+46725,Columbia City,IN,Hardee's,41.1663,-85.4913
+47933,Crawfordsville,IN,Hardee's,40.0395,-86.8717
+46122,Danville,IN,Hardee's,39.7603,-86.516
+46124,Edinburgh,IN,Hardee's,39.3111,-85.9666
+46036,Elwood,IN,Hardee's,40.2772,-85.8243
+47710,Evansville,IN,Hardee's,38.0074,-87.5763
+47711,Evansville,IN,Hardee's,37.9908,-87.5198
+47711,Evansville,IN,Hardee's,37.9868,-87.5636
+47712,Evansville,IN,Hardee's,37.9797,-87.5993
+47714,Evansville,IN,Hardee's,37.9551,-87.4973
+47714,Evansville,IN,Hardee's,37.9622,-87.5299
+46038,Fishers,IN,Hardee's,39.9576,-86.0399
+46815,Fort Wayne,IN,Hardee's,41.1006,-85.0607
+46816,Fort Wayne,IN,Hardee's,41.0144,-85.1123
+46041,Frankfort,IN,Hardee's,40.2789,-86.494
+46131,Franklin,IN,Hardee's,39.4946,-86.0653
+46140,Greenfield,IN,Hardee's,39.7843,-85.7869
+46140,Greenfield,IN,Hardee's,39.8119,-85.7696
+46746,Howe,IN,Hardee's,41.7512,-85.286
+46746,Howe,IN,Hardee's,41.745,-85.3353
+46750,Huntington,IN,Hardee's,40.8894,-85.4902
+46201,Indianapolis,IN,Hardee's,39.7813,-86.094
+46202,Indianapolis,IN,Hardee's,39.7885,-86.1606
+46202,Indianapolis,IN,Hardee's,39.7668,-86.1416
+46202,Indianapolis,IN,Hardee's,39.781,-86.171
+46203,Indianapolis,IN,Hardee's,39.6955,-86.0822
+46204,Indianapolis,IN,Hardee's,39.7647,-86.1561
+46214,Indianapolis,IN,Hardee's,39.7794,-86.2871
+46217,Indianapolis,IN,Hardee's,39.6503,-86.1582
+46217,Indianapolis,IN,Hardee's,39.6922,-86.186
+46219,Indianapolis,IN,Hardee's,39.7583,-86.0651
+46220,Indianapolis,IN,Hardee's,39.855,-86.0883
+46222,Indianapolis,IN,Hardee's,39.7648,-86.2108
+46224,Indianapolis,IN,Hardee's,39.8026,-86.2697
+46226,Indianapolis,IN,Hardee's,39.8364,-86.0268
+46229,Indianapolis,IN,Hardee's,39.7969,-86.0091
+46229,Indianapolis,IN,Hardee's,39.7765,-85.9801
+46237,Indianapolis,IN,Hardee's,39.666,-86.0812
+46240,Indianapolis,IN,Hardee's,39.9127,-86.1358
+46241,Indianapolis,IN,Hardee's,39.7463,-86.2708
+46250,Indianapolis,IN,Hardee's,39.9126,-86.0747
+46260,Indianapolis,IN,Hardee's,39.9124,-86.182
+46268,Indianapolis,IN,Hardee's,39.9117,-86.2117
+46278,Indianapolis,IN,Hardee's,39.8837,-86.2658
+47546,Jasper,IN,Hardee's,38.3885,-86.9413
+47130,Jeffersonville,IN,Hardee's,38.2729,-85.7448
+46901,Kokomo,IN,Hardee's,40.5057,-86.1125
+46052,Lebanon,IN,Hardee's,40.0444,-86.4691
+46947,Logansport,IN,Hardee's,40.7544,-86.3557
+46151,Martinsville,IN,Hardee's,39.4217,-86.4354
+46184,New Whiteland,IN,Hardee's,39.5561,-86.0866
+47630,Newburgh,IN,Hardee's,37.9762,-87.405
+46060,Noblesville,IN,Hardee's,40.0457,-85.9965
+46962,North Manchester,IN,Hardee's,40.991,-85.7751
+47454,Paoli,IN,Hardee's,38.565,-86.4656
+46064,Pendleton,IN,Hardee's,40.001,-85.734
+46970,Peru,IN,Hardee's,40.7596,-86.0729
+46168,Plainfield,IN,Hardee's,39.7098,-86.3799
+46368,Portage,IN,Hardee's,41.5892,-87.2153
+46368,Portage,IN,Hardee's,41.5854,-87.2167
+47374,Richmond,IN,Hardee's,39.8352,-84.8908
+46173,Rushville,IN,Hardee's,39.6063,-85.4446
+47274,Seymour,IN,Hardee's,38.958,-85.8839
+47882,Sullivan,IN,Hardee's,39.1031,-87.4349
+47802,Terre Haute,IN,Hardee's,39.4271,-87.4159
+47804,Terre Haute,IN,Hardee's,39.5066,-87.3868
+47807,Terre Haute,IN,Hardee's,39.4686,-87.4143
+47591,Vincennes,IN,Hardee's,38.6669,-87.5132
+46992,Wabash,IN,Hardee's,40.8108,-85.834
+46580,Warsaw,IN,Hardee's,41.2269,-85.7959
+47501,Washington,IN,Hardee's,38.6544,-87.1438
+46074,Westfield,IN,Hardee's,40.0407,-86.1344
+66801,Emporia,KS,Hardee's,38.4123,-96.1651
+66112,Kansas City,KS,Hardee's,39.1162,-94.7661
+66048,Leavenworth,KS,Hardee's,39.2693,-94.8996
+66508,Marysville,KS,Hardee's,39.8421,-96.6329
+66061,Olathe,KS,Hardee's,38.8715,-94.8347
+66212,Overland Park,KS,Hardee's,38.9383,-94.6679
+66223,Overland Park,KS,Hardee's,38.8548,-94.675
+66542,Tecumseh,KS,Hardee's,39.021,-95.5654
+66606,Topeka,KS,Hardee's,39.0588,-95.7053
+66608,Topeka,KS,Hardee's,39.0931,-95.6645
+66611,Topeka,KS,Hardee's,39.0153,-95.6869
+66614,Topeka,KS,Hardee's,39.029,-95.7621
+41102,Ashland,KY,Hardee's,38.3882,-82.7153
+40004,Bardstown,KY,Hardee's,37.8202,-85.463
+42320,Beaver Dam,KY,Hardee's,37.4165,-86.8786
+42025,Benton,KY,Hardee's,36.9261,-88.3439
+42101,Bowling Green,KY,Hardee's,37.0228,-86.4628
+42101,Bowling Green,KY,Hardee's,37.0082,-86.3738
+42101,Bowling Green,KY,Hardee's,36.9693,-86.4796
+42103,Bowling Green,KY,Hardee's,36.9329,-86.4155
+42718,Campbellsville,KY,Hardee's,37.3514,-85.3321
+41129,Catlettsburg,KY,Hardee's,38.3996,-82.6021
+40701,Corbin,KY,Hardee's,36.945,-84.0956
+40701,Corbin,KY,Hardee's,36.9771,-84.1154
+40823,Cumberland,KY,Hardee's,36.9752,-82.982
+41031,Cynthiana,KY,Hardee's,38.3842,-84.3034
+42038,Eddyville,KY,Hardee's,37.0818,-88.0987
+42701,Elizabethtown,KY,Hardee's,37.7337,-85.8865
+40601,Frankfort,KY,Hardee's,38.2162,-84.8413
+40601,Frankfort,KY,Hardee's,38.1705,-84.8999
+42134,Franklin,KY,Hardee's,36.7079,-86.576
+42141,Glasgow,KY,Hardee's,36.9892,-85.9006
+42141,Glasgow,KY,Hardee's,36.9981,-85.9287
+41143,Grayson,KY,Hardee's,38.3345,-82.9451
+42345,Greenville,KY,Hardee's,37.2274,-87.1676
+40143,Hardinsburg,KY,Hardee's,37.7789,-86.45
+40831,Harlan,KY,Hardee's,36.8337,-83.3248
+41701,Hazard,KY,Hardee's,37.2344,-83.1777
+42420,Henderson,KY,Hardee's,37.8384,-87.5891
+42748,Hodgenville,KY,Hardee's,37.55,-85.734
+42240,Hopkinsville,KY,Hardee's,36.8389,-87.4797
+41749,Hyden,KY,Hardee's,37.1666,-83.4066
+40336,Irvine,KY,Hardee's,37.6964,-83.9781
+41339,Jackson,KY,Hardee's,37.4847,-83.3424
+40299,Jeffersontown,KY,Hardee's,38.2062,-85.5816
+41537,Jenkins,KY,Hardee's,37.1872,-82.6472
+40440,Junction City,KY,Hardee's,37.5821,-84.7846
+42754,Leitchfield,KY,Hardee's,37.4743,-86.2945
+40505,Lexington,KY,Hardee's,38.0424,-84.4637
+40505,Lexington,KY,Hardee's,38.0678,-84.4732
+40509,Lexington,KY,Hardee's,38.0051,-84.4517
+40509,Lexington,KY,Hardee's,37.9644,-84.3914
+40741,London,KY,Hardee's,37.1235,-84.0789
+40741,London,KY,Hardee's,37.1115,-84.0977
+41230,Louisa,KY,Hardee's,38.1299,-82.6355
+40213,Louisville,KY,Hardee's,38.1581,-85.723
+40215,Louisville,KY,Hardee's,38.1968,-85.7827
+42431,Madisonville,KY,Hardee's,37.3275,-87.4843
+42066,Mayfield,KY,Hardee's,36.7271,-88.6301
+41056,Maysville,KY,Hardee's,38.6394,-83.7603
+40965,Middlesboro,KY,Hardee's,36.6134,-83.7011
+42633,Monticello,KY,Hardee's,36.8396,-84.8409
+40351,Morehead,KY,Hardee's,38.1787,-83.4399
+42261,Morgantown,KY,Hardee's,37.2255,-86.6988
+40353,Mount Sterling,KY,Hardee's,38.0739,-83.9485
+40456,Mount Vernon,KY,Hardee's,37.3613,-84.3048
+42071,Murray,KY,Hardee's,36.6172,-88.3153
+40356,Nicholasville,KY,Hardee's,37.8679,-84.5781
+42301,Owensboro,KY,Hardee's,37.7433,-87.1161
+42301,Owensboro,KY,Hardee's,37.7577,-87.1458
+42001,Paducah,KY,Hardee's,37.0771,-88.6848
+42001,Paducah,KY,Hardee's,37.065,-88.6382
+42001,Paducah,KY,Hardee's,37.0786,-88.6177
+42003,Paducah,KY,Hardee's,37.0362,-88.6646
+42003,Paducah,KY,Hardee's,37.0478,-88.5607
+41240,Paintsville,KY,Hardee's,37.8175,-82.8155
+40361,Paris,KY,Hardee's,38.2008,-84.2647
+41501,Pikeville,KY,Hardee's,37.4847,-82.5232
+41653,Prestonsburg,KY,Hardee's,37.6738,-82.7773
+42445,Princeton,KY,Hardee's,37.1149,-87.8687
+40160,Radcliff,KY,Hardee's,37.8603,-85.9473
+40475,Richmond,KY,Hardee's,37.7323,-84.2941
+40475,Richmond,KY,Hardee's,37.7632,-84.3206
+42553,Science Hill,KY,Hardee's,37.151,-84.6303
+40065,Shelbyville,KY,Hardee's,38.2137,-85.253
+42501,Somerset,KY,Hardee's,37.114,-84.6251
+42501,Somerset,KY,Hardee's,37.0582,-84.6233
+41503,South Williamson,KY,Hardee's,37.6548,-82.2731
+40069,Springfield,KY,Hardee's,37.6932,-85.2425
+40380,Stanton,KY,Hardee's,37.8404,-83.8578
+40769,Williamsburg,KY,Hardee's,36.7313,-84.166
+40391,Winchester,KY,Hardee's,38.0057,-84.2083
+70427,Bogalusa,LA,Hardee's,30.7897,-89.8639
+70647,Iowa,LA,Hardee's,30.2585,-93.0643
+70560,New Iberia,LA,Hardee's,29.993,-91.8357
+21613,Cambridge,MD,Hardee's,38.5579,-76.06
+21617,Centreville,MD,Hardee's,39.0483,-76.0623
+21875,Delmar,MD,Hardee's,38.4535,-75.5582
+21601,Easton,MD,Hardee's,38.7784,-76.0794
+21061,Glen Burnie,MD,Hardee's,39.142,-76.6319
+21750,Hancock,MD,Hardee's,39.6985,-78.1755
+21076,Hanover,MD,Hardee's,39.1316,-76.7405
+21090,Linthicum,MD,Hardee's,39.2245,-76.6589
+21122,Pasadena,MD,Hardee's,39.1227,-76.517
+21851,Pocomoke City,MD,Hardee's,38.0766,-75.5366
+21853,Princess Anne,MD,Hardee's,38.2139,-75.6988
+21801,Salisbury,MD,Hardee's,38.3442,-75.6036
+21801,Salisbury,MD,Hardee's,38.4025,-75.5691
+21666,Stevensville,MD,Hardee's,38.9751,-76.2993
+49022,Benton Harbor,MI,Hardee's,42.0808,-86.4172
+49829,Escanaba,MI,Hardee's,45.7523,-87.0775
+48532,Flint,MI,Hardee's,43.0022,-83.7461
+48030,Hazel Park,MI,Hardee's,42.4631,-83.1039
+49931,Houghton,MI,Hardee's,47.1208,-88.5787
+49801,Iron Mountain,MI,Hardee's,45.8259,-88.0629
+49854,Manistique,MI,Hardee's,46.0755,-86.3532
+49855,Marquette,MI,Hardee's,46.546,-87.4194
+49855,Marquette,MI,Hardee's,46.557,-87.3961
+49068,Marshall,MI,Hardee's,42.2772,-84.9322
+49862,Munising,MI,Hardee's,46.4072,-86.6561
+49120,Niles,MI,Hardee's,41.8207,-86.2473
+48867,Owosso,MI,Hardee's,42.9973,-84.164
+48310,Sterling Heights,MI,Hardee's,42.5519,-83.0489
+56007,Albert Lea,MN,Hardee's,43.6386,-93.3685
+56308,Alexandria,MN,Hardee's,45.8458,-95.3812
+55303,Anoka,MN,Hardee's,45.1978,-93.3782
+55912,Austin,MN,Hardee's,43.6777,-92.9932
+56601,Bemidji,MN,Hardee's,47.491,-94.8813
+56401,Brainerd,MN,Hardee's,46.3599,-94.1865
+55318,Chaska,MN,Hardee's,44.7918,-93.5988
+55720,Cloquet,MN,Hardee's,46.7062,-92.4567
+56320,Cold Spring,MN,Hardee's,45.4525,-94.426
+55807,Duluth,MN,Hardee's,46.7487,-92.1556
+55811,Duluth,MN,Hardee's,46.822,-92.0998
+55330,Elk River,MN,Hardee's,45.3044,-93.5692
+56031,Fairmont,MN,Hardee's,43.6491,-94.4472
+55021,Faribault,MN,Hardee's,44.2927,-93.2898
+56241,Granite Falls,MN,Hardee's,44.8051,-95.5429
+55746,Hibbing,MN,Hardee's,47.4203,-92.9251
+55037,Hinckley,MN,Hardee's,46.0112,-92.9306
+55350,Hutchinson,MN,Hardee's,44.897,-94.3722
+56649,International Falls,MN,Hardee's,48.5955,-93.4281
+55045,Lindstrom,MN,Hardee's,45.3902,-92.852
+56258,Marshall,MN,Hardee's,44.4503,-95.764
+56353,Milaca,MN,Hardee's,45.7566,-93.6392
+55051,Mora,MN,Hardee's,45.875,-93.2891
+55060,Owatonna,MN,Hardee's,44.0699,-93.2273
+55104,St. Paul,MN,Hardee's,44.9525,-93.157
+56082,St. Peter,MN,Hardee's,44.3162,-93.9637
+56378,Sauk Centre,MN,Hardee's,45.7241,-94.9519
+56085,Sleepy Eye,MN,Hardee's,44.2974,-94.7261
+55792,Virginia,MN,Hardee's,47.5424,-92.5317
+56484,Walker,MN,Hardee's,47.1017,-94.5852
+56101,Windom,MN,Hardee's,43.8904,-95.1705
+55987,Winona,MN,Hardee's,44.0511,-91.6394
+56187,Worthington,MN,Hardee's,43.6313,-95.604
+63010,Arnold,MO,Hardee's,38.4442,-90.3736
+65605,Aurora,MO,Hardee's,36.9531,-93.7182
+63628,Bonne Terre,MO,Hardee's,37.9321,-90.5479
+63334,Bowling Green,MO,Hardee's,39.3222,-91.1603
+65622,Buffalo,MO,Hardee's,37.6406,-93.1031
+63701,Cape Girardeau,MO,Hardee's,37.3061,-89.5188
+63703,Cape Girardeau,MO,Hardee's,37.3028,-89.5469
+64836,Carthage,MO,Hardee's,37.1456,-94.3102
+63005,Chesterfield,MO,Hardee's,38.6682,-90.605
+64735,Clinton,MO,Hardee's,38.3661,-93.7503
+65202,Columbia,MO,Hardee's,38.9675,-92.3077
+65203,Columbia,MO,Hardee's,38.9495,-92.334
+65203,Columbia,MO,Hardee's,38.961,-92.3704
+64020,Concordia,MO,Hardee's,38.9905,-93.5681
+65453,Cuba,MO,Hardee's,38.0673,-91.4049
+63020,De Soto,MO,Hardee's,38.1431,-90.5795
+63011,Ellisville,MO,Hardee's,38.5879,-90.6076
+63026,Fenton,MO,Hardee's,38.5138,-90.438
+63028,Festus,MO,Hardee's,38.2133,-90.408
+63645,Fredericktown,MO,Hardee's,37.5682,-90.2839
+64118,Gladstone,MO,Hardee's,39.2077,-94.5765
+63401,Hannibal,MO,Hardee's,39.7257,-91.3922
+63401,Hannibal,MO,Hardee's,39.7059,-91.3893
+64701,Harrisonville,MO,Hardee's,38.663,-94.3663
+65041,Hermann,MO,Hardee's,38.6516,-91.4766
+63050,Hillsboro,MO,Hardee's,38.2318,-90.5626
+63051,House Springs,MO,Hardee's,38.4126,-90.5817
+65483,Houston,MO,Hardee's,37.3194,-91.9587
+64055,Independence,MO,Hardee's,39.0486,-94.4149
+64055,Independence,MO,Hardee's,39.0723,-94.3799
+64056,Independence,MO,Hardee's,39.1211,-94.3691
+63755,Jackson,MO,Hardee's,37.4119,-89.6499
+65109,Jefferson City,MO,Hardee's,38.584,-92.2495
+64801,Joplin,MO,Hardee's,37.0816,-94.4776
+64801,Joplin,MO,Hardee's,37.0848,-94.5323
+64804,Joplin,MO,Hardee's,37.0717,-94.5142
+64804,Joplin,MO,Hardee's,37.0048,-94.5515
+64125,Kansas City,MO,Hardee's,39.1047,-94.508
+64151,Kansas City,MO,Hardee's,39.2422,-94.659
+63857,Kennett,MO,Hardee's,36.2367,-90.045
+63122,Kirkwood,MO,Hardee's,38.5992,-90.4138
+63367,Lake St. Louis,MO,Hardee's,38.8027,-90.7709
+63601,Leadington,MO,Hardee's,37.8389,-90.4879
+65536,Lebanon,MO,Hardee's,37.6678,-92.6493
+64063,Lee's Summit,MO,Hardee's,38.9177,-94.3615
+64081,Lee's Summit,MO,Hardee's,38.9114,-94.3961
+63125,Lemay,MO,Hardee's,38.5194,-90.3059
+63353,Louisiana,MO,Hardee's,39.4348,-91.0694
+63552,Macon,MO,Hardee's,39.7512,-92.4681
+63863,Malden,MO,Hardee's,36.569,-89.9705
+63043,Maryland Heights,MO,Hardee's,38.7144,-90.4364
+64468,Maryville,MO,Hardee's,40.3344,-94.8736
+65265,Mexico,MO,Hardee's,39.1723,-91.8903
+65270,Moberly,MO,Hardee's,39.4432,-92.4278
+63456,Monroe City,MO,Hardee's,39.6442,-91.7145
+64850,Neosho,MO,Hardee's,36.8656,-94.3812
+64772,Nevada,MO,Hardee's,37.8379,-94.3785
+63363,New Florence,MO,Hardee's,38.9026,-91.4653
+63368,O'Fallon,MO,Hardee's,38.7562,-90.7004
+64075,Oak Grove,MO,Hardee's,39.0126,-94.1286
+63132,Olivette,MO,Hardee's,38.674,-90.3839
+65065,Osage Beach,MO,Hardee's,38.0905,-92.6894
+63069,Pacific,MO,Hardee's,38.4843,-90.756
+63461,Palmyra,MO,Hardee's,39.7934,-91.5473
+63775,Perryville,MO,Hardee's,37.7324,-89.8632
+63901,Poplar Bluff,MO,Hardee's,36.7828,-90.4274
+63901,Poplar Bluff,MO,Hardee's,36.7662,-90.4268
+63664,Potosi,MO,Hardee's,37.9259,-90.7732
+65742,Rogersville,MO,Hardee's,37.1111,-93.0569
+65401,Rolla,MO,Hardee's,37.9535,-91.7773
+63074,St. Ann,MO,Hardee's,38.7342,-90.3926
+63301,St. Charles,MO,Hardee's,38.8076,-90.4749
+63303,St. Charles,MO,Hardee's,38.782,-90.5325
+63077,St. Claire,MO,Hardee's,38.3606,-90.9779
+64501,St. Joseph,MO,Hardee's,39.7676,-94.8492
+64506,St. Joseph,MO,Hardee's,39.8042,-94.8148
+63102,St. Louis,MO,Hardee's,38.6301,-90.1885
+63102,St. Louis,MO,Hardee's,38.6301,-90.1885
+63110,St. Louis,MO,Hardee's,38.6306,-90.2853
+63111,St. Louis,MO,Hardee's,38.5789,-90.2299
+63122,St. Louis,MO,Hardee's,38.5677,-90.3964
+63128,St. Louis,MO,Hardee's,38.4858,-90.3582
+63137,St. Louis,MO,Hardee's,38.7651,-90.2031
+63139,St. Louis,MO,Hardee's,38.6173,-90.2872
+63146,St. Louis,MO,Hardee's,38.6975,-90.4413
+63147,St. Louis,MO,Hardee's,38.714,-90.2299
+63376,St. Peters,MO,Hardee's,38.7883,-90.6262
+63376,St. Peters,MO,Hardee's,38.7997,-90.653
+65301,Sedalia,MO,Hardee's,38.704,-93.2191
+65301,Sedalia,MO,Hardee's,38.7006,-93.2508
+63801,Sikeston,MO,Hardee's,36.8634,-89.5831
+65802,Springfield,MO,Hardee's,37.2123,-93.3463
+65802,Springfield,MO,Hardee's,37.2095,-93.2275
+65803,Springfield,MO,Hardee's,37.2373,-93.2609
+65804,Springfield,MO,Hardee's,37.1594,-93.2703
+65806,Springfield,MO,Hardee's,37.2053,-93.2769
+65807,Springfield,MO,Hardee's,37.1602,-93.3121
+63080,Sullivan,MO,Hardee's,38.2215,-91.1591
+64683,Trenton,MO,Hardee's,40.0744,-93.5978
+63379,Troy,MO,Hardee's,38.9865,-90.9823
+63084,Union,MO,Hardee's,38.4423,-91.0064
+63088,Valley Park,MO,Hardee's,38.5663,-90.4961
+64093,Warrensburg,MO,Hardee's,38.7697,-93.7356
+63383,Warrenton,MO,Hardee's,38.8188,-91.1419
+63090,Washington,MO,Hardee's,38.5554,-91.011
+63385,Wentzville,MO,Hardee's,38.8142,-90.8755
+65775,West Plains,MO,Hardee's,36.736,-91.8661
+38821,Amory,MS,Hardee's,33.9805,-88.4765
+38606,Batesville,MS,Hardee's,34.3101,-89.9305
+39422,Bay Springs,MS,Hardee's,31.9612,-89.2392
+38829,Booneville,MS,Hardee's,34.6806,-88.56
+39046,Canton,MS,Hardee's,32.6125,-90.0328
+39428,Collins,MS,Hardee's,31.6601,-89.5585
+39429,Columbia,MS,Hardee's,31.2396,-89.8179
+39702,Columbus,MS,Hardee's,33.4937,-88.3717
+39705,Columbus,MS,Hardee's,33.5173,-88.4331
+39540,D'Iberville,MS,Hardee's,30.4372,-88.8932
+38843,Fulton,MS,Hardee's,34.2369,-88.4009
+39553,Gautier,MS,Hardee's,30.3908,-88.6465
+38701,Greenville,MS,Hardee's,33.3881,-91.0061
+39503,Gulfport,MS,Hardee's,30.4626,-89.1017
+39402,Hattiesburg,MS,Hardee's,31.3226,-89.367
+38851,Houston,MS,Hardee's,33.9002,-89.0001
+38852,Iuka,MS,Hardee's,34.7972,-88.208
+39440,Laurel,MS,Hardee's,31.6971,-89.147
+39440,Laurel,MS,Hardee's,31.6632,-89.1611
+39440,Laurel,MS,Hardee's,31.6969,-89.1391
+39339,Louisville,MS,Hardee's,33.1261,-89.0556
+39452,Lucedale,MS,Hardee's,30.9104,-88.5975
+39301,Meridian,MS,Hardee's,32.3557,-88.6917
+39305,Meridian,MS,Hardee's,32.4136,-88.6774
+39563,Moss Point,MS,Hardee's,30.4389,-88.5272
+39345,Newton,MS,Hardee's,32.3274,-89.147
+39465,Petal,MS,Hardee's,31.3468,-89.2636
+39350,Philadelphia,MS,Hardee's,32.77,-89.1289
+39466,Picayune,MS,Hardee's,30.5175,-89.6671
+38863,Pontotoc,MS,Hardee's,34.2542,-89.0178
+39470,Poplarville,MS,Hardee's,30.8379,-89.5327
+39355,Quitman,MS,Hardee's,32.0371,-88.7283
+38866,Saltillo,MS,Hardee's,34.3145,-88.6858
+39759,Starkville,MS,Hardee's,33.4557,-88.8018
+38801,Tupelo,MS,Hardee's,34.2556,-88.744
+38801,Tupelo,MS,Hardee's,34.1936,-88.7197
+38804,Tupelo,MS,Hardee's,34.2576,-88.6971
+39367,Waynesboro,MS,Hardee's,31.6713,-88.6536
+39773,West Point,MS,Hardee's,33.6052,-88.6593
+59101,Billings,MT,Hardee's,45.7871,-108.509
+59102,Billings,MT,Hardee's,45.7697,-108.577
+59715,Bozeman,MT,Hardee's,45.6794,-111.048
+59401,Great Falls,MT,Hardee's,47.5065,-111.306
+59405,Great Falls,MT,Hardee's,47.4943,-111.262
+59601,Helena,MT,Hardee's,46.5984,-112.042
+59044,Laurel,MT,Hardee's,45.6677,-108.771
+59047,Livingston,MT,Hardee's,45.6432,-110.574
+28315,Aberdeen,NC,Hardee's,35.1374,-79.4339
+28315,Aberdeen,NC,Hardee's,35.1496,-79.4185
+28509,Alliance,NC,Hardee's,35.1447,-76.8025
+28901,Andrews,NC,Hardee's,35.2118,-83.8186
+27263,Archdale,NC,Hardee's,35.9031,-79.9525
+27203,Asheboro,NC,Hardee's,35.6891,-79.809
+27203,Asheboro,NC,Hardee's,35.7517,-79.8056
+28803,Asheville,NC,Hardee's,35.5662,-82.5436
+28512,Atlantic Beach,NC,Hardee's,34.6993,-76.7223
+28513,Ayden,NC,Hardee's,35.4749,-77.4336
+27807,Bailey,NC,Hardee's,35.7803,-78.117
+27809,Battleboro,NC,Hardee's,36.0558,-77.8187
+28516,Beaufort,NC,Hardee's,34.7925,-76.6125
+27810,Belhaven,NC,Hardee's,35.5068,-76.618
+28012,Belmont,NC,Hardee's,35.2551,-81.0432
+28518,Beulaville,NC,Hardee's,34.924,-77.7745
+27209,Biscoe,NC,Hardee's,35.3605,-79.772
+28320,Bladenboro,NC,Hardee's,34.5514,-78.7841
+28017,Boiling Springs,NC,Hardee's,35.2499,-81.6637
+28607,Boone,NC,Hardee's,36.2095,-81.674
+28607,Boone,NC,Hardee's,36.2168,-81.6785
+27215,Burlington,NC,Hardee's,36.0668,-79.429
+27215,Burlington,NC,Hardee's,36.0632,-79.4697
+27217,Burlington,NC,Hardee's,36.1104,-79.467
+28714,Burnsville,NC,Hardee's,30.0436,-95.8684
+28716,Canton,NC,Hardee's,35.5319,-82.8658
+28428,Carolina Beach,NC,Hardee's,34.0355,-77.8935
+28327,Carthage,NC,Hardee's,35.3408,-79.402
+27511,Cary,NC,Hardee's,35.7636,-78.7479
+28429,Castle Hayne,NC,Hardee's,34.3527,-77.9004
+28431,Chadbourn,NC,Hardee's,34.331,-78.8266
+27514,Chapel Hill,NC,Hardee's,35.9446,-79.0119
+27517,Chapel Hill,NC,Hardee's,35.9098,-78.9839
+28213,Charlotte,NC,Hardee's,35.2869,-80.7356
+28214,Charlotte,NC,Hardee's,35.2442,-80.9377
+28215,Charlotte,NC,Hardee's,35.2581,-80.736
+28269,Charlotte,NC,Hardee's,35.3078,-80.8442
+28719,Cherokee,NC,Hardee's,35.5092,-83.2967
+28023,China Grove,NC,Hardee's,35.5683,-80.574
+27817,Chocowinity,NC,Hardee's,35.5133,-77.0996
+28610,Claremont,NC,Hardee's,35.7634,-81.1443
+27520,Clayton,NC,Hardee's,35.6661,-78.4983
+28328,Clinton,NC,Hardee's,35.0081,-78.3366
+27521,Coats,NC,Hardee's,35.415,-78.6736
+28025,Concord,NC,Hardee's,35.425,-80.5945
+28027,Concord,NC,Hardee's,35.3961,-80.6094
+28613,Conover,NC,Hardee's,35.6972,-81.2227
+27522,Creedmoor,NC,Hardee's,36.161,-78.7253
+28034,Dallas,NC,Hardee's,35.3156,-81.1922
+28037,Denver,NC,Hardee's,35.5005,-80.9965
+28334,Dunn,NC,Hardee's,35.2702,-78.6171
+27703,Durham,NC,Hardee's,35.966,-78.8324
+27704,Durham,NC,Hardee's,36.0533,-78.9043
+27707,Durham,NC,Hardee's,35.9764,-78.9362
+27710,Durham,NC,Hardee's,35.9938,-78.8988
+27710,Durham,NC,Hardee's,35.9938,-78.8988
+27713,Durham,NC,Hardee's,35.9004,-78.8887
+27288,Eden,NC,Hardee's,36.492,-79.747
+27909,Elizabeth City,NC,Hardee's,36.296,-76.2272
+27909,Elizabeth City,NC,Hardee's,36.2894,-76.2538
+27823,Enfield,NC,Hardee's,36.1795,-77.6644
+28301,Fayetteville,NC,Hardee's,35.0523,-78.8643
+28303,Fayetteville,NC,Hardee's,35.0835,-79.0101
+28303,Fayetteville,NC,Hardee's,35.0892,-78.9819
+28303,Fayetteville,NC,Hardee's,35.045,-78.9308
+28304,Fayetteville,NC,Hardee's,35.0052,-78.9669
+28304,Fayetteville,NC,Hardee's,35.0444,-78.9753
+28306,Fayetteville,NC,Hardee's,35.0191,-78.8954
+28311,Fayetteville,NC,Hardee's,35.0978,-78.9164
+28311,Fayetteville,NC,Hardee's,35.1573,-78.8694
+28311,Fayetteville,NC,Hardee's,35.1069,-78.8789
+28314,Fayetteville,NC,Hardee's,35.0671,-78.9507
+28043,Forest City,NC,Hardee's,35.3182,-81.8577
+28307,Fort Bragg,NC,Hardee's,35.1789,-79.1321
+28734,Franklin,NC,Hardee's,35.1875,-83.371
+27529,Garner,NC,Hardee's,35.7128,-78.6201
+27832,Gaston,NC,Hardee's,36.5001,-77.6453
+28052,Gastonia,NC,Hardee's,35.2386,-81.1947
+27530,Goldsboro,NC,Hardee's,35.4015,-78.017
+27530,Goldsboro,NC,Hardee's,35.385,-77.9939
+27534,Goldsboro,NC,Hardee's,35.3742,-77.9458
+27534,Goldsboro,NC,Hardee's,35.3983,-77.9676
+27939,Grandy,NC,Hardee's,36.2393,-75.8755
+28630,Granite Falls,NC,Hardee's,35.8113,-81.4364
+27401,Greensboro,NC,Hardee's,36.0729,-79.7963
+27406,Greensboro,NC,Hardee's,36.0161,-79.8042
+27408,Greensboro,NC,Hardee's,36.0924,-79.8156
+27410,Greensboro,NC,Hardee's,36.0881,-79.8885
+27834,Greenville,NC,Hardee's,35.6361,-77.3755
+27834,Greenville,NC,Hardee's,35.6098,-77.4013
+27858,Greenville,NC,Hardee's,35.5667,-77.3504
+28345,Hamlet,NC,Hardee's,34.8932,-79.7018
+28443,Hampstead,NC,Hardee's,34.3457,-77.735
+28075,Harrisburg,NC,Hardee's,35.3131,-80.648
+28532,Havelock,NC,Hardee's,34.8584,-76.8964
+28904,Hayesville,NC,Hardee's,35.0425,-83.7777
+27536,Henderson,NC,Hardee's,36.318,-78.4143
+28791,Hendersonville,NC,Hardee's,35.3325,-82.4695
+28791,Hendersonville,NC,Hardee's,35.3744,-82.4947
+28792,Hendersonville,NC,Hardee's,35.3333,-82.4486
+28602,Hickory,NC,Hardee's,35.6864,-81.3685
+28603,Hickory,NC,Hardee's,35.733,-81.3413
+28637,Hildebran,NC,Hardee's,35.7073,-81.4231
+27278,Hillsborough,NC,Hardee's,36.0583,-79.104
+28078,Huntersville,NC,Hardee's,35.4083,-80.8546
+28079,Indian Trail,NC,Hardee's,35.0859,-80.6627
+28540,Jacksonville,NC,Hardee's,34.7555,-77.4725
+28546,Jacksonville,NC,Hardee's,34.7795,-77.3944
+28640,Jefferson,NC,Hardee's,36.4218,-81.4627
+28081,Kannapolis,NC,Hardee's,35.4889,-80.6278
+28083,Kannapolis,NC,Hardee's,35.4755,-80.6109
+28083,Kannapolis,NC,Hardee's,35.5033,-80.6112
+28349,Kenansville,NC,Hardee's,34.9739,-77.9423
+27284,Kernersville,NC,Hardee's,36.1117,-80.0871
+28086,Kings Mountain,NC,Hardee's,35.241,-81.3341
+28501,Kinston,NC,Hardee's,35.2686,-77.5828
+28504,Kinston,NC,Hardee's,35.2436,-77.5859
+28504,Kinston,NC,Hardee's,35.2619,-77.6478
+27545,Knightdale,NC,Hardee's,35.7955,-78.4871
+28351,Laurel Hill,NC,Hardee's,34.8058,-79.5428
+28451,Leland,NC,Hardee's,34.2329,-77.9954
+28645,Lenoir,NC,Hardee's,35.9068,-81.5322
+27292,Lexington,NC,Hardee's,35.8328,-80.2532
+27292,Lexington,NC,Hardee's,35.7869,-80.2603
+27546,Lillington,NC,Hardee's,35.4267,-78.7291
+28092,Lincolnton,NC,Hardee's,35.4755,-81.2435
+27850,Littleton,NC,Hardee's,36.4329,-77.9173
+28097,Locust,NC,Hardee's,35.2581,-80.4314
+28098,Lowell,NC,Hardee's,35.2645,-81.0924
+28358,Lumberton,NC,Hardee's,34.6408,-79.0071
+28358,Lumberton,NC,Hardee's,34.6221,-79.0492
+28358,Lumberton,NC,Hardee's,34.6678,-79.004
+27025,Madison,NC,Hardee's,36.4017,-79.9709
+28752,Marion,NC,Hardee's,35.6962,-82.024
+28752,Marion,NC,Hardee's,35.6401,-82.066
+28754,Mars Hill,NC,Hardee's,35.8185,-82.538
+28364,Maxton,NC,Hardee's,34.7447,-79.345
+28555,Maysville,NC,Hardee's,34.8772,-77.2338
+27028,Mocksville,NC,Hardee's,35.8672,-80.5511
+28110,Monroe,NC,Hardee's,34.9874,-80.5307
+28117,Mooresville,NC,Hardee's,35.5948,-80.8655
+28557,Morehead City,NC,Hardee's,34.724,-76.7441
+28655,Morganton,NC,Hardee's,35.7495,-81.7053
+28655,Morganton,NC,Hardee's,35.7256,-81.6924
+27030,Mount Airy,NC,Hardee's,36.4751,-80.6199
+27030,Mount Airy,NC,Hardee's,36.501,-80.6374
+28124,Mount Pleasant,NC,Hardee's,35.4106,-80.4363
+27958,Moyock,NC,Hardee's,36.5307,-76.1842
+27856,Nashville,NC,Hardee's,35.9772,-77.9714
+28657,Newland,NC,Hardee's,36.0312,-81.9022
+28658,Newton,NC,Hardee's,35.6605,-81.2238
+28366,Newton Grove,NC,Hardee's,35.2444,-78.3513
+28469,Ocean Isle Beach,NC,Hardee's,33.8988,-78.4876
+28762,Old Fort,NC,Hardee's,35.6249,-82.1809
+28372,Pembroke,NC,Hardee's,34.6818,-79.1968
+27863,Pikeville,NC,Hardee's,35.4844,-77.9847
+27041,Pilot Mountain,NC,Hardee's,36.3861,-80.4693
+27864,Pinetops,NC,Hardee's,35.7896,-77.6342
+27312,Pittsboro,NC,Hardee's,35.7096,-79.1764
+27569,Princeton,NC,Hardee's,35.4706,-78.1565
+28376,Raeford,NC,Hardee's,34.9951,-79.2276
+27603,Raleigh,NC,Hardee's,35.6654,-78.6997
+27604,Raleigh,NC,Hardee's,35.8494,-78.5802
+27606,Raleigh,NC,Hardee's,35.7682,-78.6944
+27606,Raleigh,NC,Hardee's,35.7862,-78.7226
+27607,Raleigh,NC,Hardee's,35.8044,-78.7261
+27609,Raleigh,NC,Hardee's,35.866,-78.6204
+27610,Raleigh,NC,Hardee's,35.7974,-78.5782
+27612,Raleigh,NC,Hardee's,35.8579,-78.6809
+27615,Raleigh,NC,Hardee's,35.8997,-78.6517
+27616,Raleigh,NC,Hardee's,35.8943,-78.5593
+27316,Ramseur,NC,Hardee's,35.738,-79.6547
+27317,Randleman,NC,Hardee's,35.8229,-79.8201
+28377,Red Springs,NC,Hardee's,34.8112,-79.175
+27320,Reidsville,NC,Hardee's,36.3523,-79.6926
+28574,Richlands,NC,Hardee's,34.867,-77.5777
+27870,Roanoke Rapids,NC,Hardee's,36.4329,-77.635
+27870,Roanoke Rapids,NC,Hardee's,36.4557,-77.6556
+28379,Rockingham,NC,Hardee's,34.9389,-79.7835
+28138,Rockwell,NC,Hardee's,35.5548,-80.4123
+27801,Rocky Mount,NC,Hardee's,35.9446,-77.776
+27803,Rocky Mount,NC,Hardee's,35.9322,-77.8118
+27804,Rocky Mount,NC,Hardee's,35.9612,-77.8213
+27804,Rocky Mount,NC,Hardee's,35.9635,-77.8489
+27804,Rocky Mount,NC,Hardee's,35.9836,-77.7849
+28457,Rocky Point,NC,Hardee's,34.4418,-77.8804
+27571,Rolesville,NC,Hardee's,35.9179,-78.4657
+28382,Roseboro,NC,Hardee's,34.9694,-78.5141
+27573,Roxboro,NC,Hardee's,36.3975,-78.9834
+27045,Rural Hall,NC,Hardee's,36.2305,-80.2975
+28139,Rutherfordton,NC,Hardee's,35.3845,-81.9677
+28384,St. Pauls,NC,Hardee's,34.8071,-78.9765
+28144,Salisbury,NC,Hardee's,35.6617,-80.4633
+27330,Sanford,NC,Hardee's,35.4713,-79.1727
+27330,Sanford,NC,Hardee's,35.438,-79.2178
+27332,Sanford,NC,Hardee's,35.4521,-79.1362
+27874,Scotland Neck,NC,Hardee's,36.1239,-77.4239
+27341,Seagrove,NC,Hardee's,35.5372,-79.7884
+28470,Shallotte,NC,Hardee's,33.9747,-78.3835
+27878,Sharpsburg,NC,Hardee's,35.8669,-77.8294
+28150,Shelby,NC,Hardee's,35.3018,-81.535
+27577,Smithfield,NC,Hardee's,35.5193,-78.3128
+28460,Sneads Ferry,NC,Hardee's,34.5513,-77.4377
+28461,Southport,NC,Hardee's,33.966,-78.0451
+28675,Sparta,NC,Hardee's,36.5005,-81.1117
+28160,Spindale,NC,Hardee's,35.3623,-81.9406
+28390,Spring Lake,NC,Hardee's,35.1631,-78.9732
+28777,Spruce Pine,NC,Hardee's,35.9032,-82.1211
+28164,Stanley,NC,Hardee's,35.3551,-81.0912
+28677,Statesville,NC,Hardee's,35.787,-80.8897
+28391,Stedman,NC,Hardee's,35.0352,-78.7519
+28462,Supply,NC,Hardee's,34.0175,-78.273
+28445,Surf City,NC,Hardee's,34.4276,-77.5465
+28584,Swansboro,NC,Hardee's,34.6923,-77.1285
+28584,Swansboro,NC,Hardee's,34.6889,-77.0697
+28681,Taylorsville,NC,Hardee's,35.9226,-81.1724
+27360,Thomasville,NC,Hardee's,35.8843,-80.0793
+27360,Thomasville,NC,Hardee's,35.8668,-80.0721
+27587,Wake Forest,NC,Hardee's,35.9791,-78.509
+27051,Walkertown,NC,Hardee's,36.1688,-80.1517
+28466,Wallace,NC,Hardee's,34.7441,-77.9961
+27052,Walnut Cove,NC,Hardee's,36.3086,-80.1413
+27589,Warrenton,NC,Hardee's,36.4032,-78.1593
+27889,Washington,NC,Hardee's,35.5464,-77.0314
+28786,Waynesville,NC,Hardee's,35.5007,-82.9881
+28786,Waynesville,NC,Hardee's,35.4674,-83.006
+28472,Whiteville,NC,Hardee's,34.339,-78.7069
+28697,Wilkesboro,NC,Hardee's,36.1491,-81.1962
+28401,Wilmington,NC,Hardee's,34.1932,-77.9355
+28401,Wilmington,NC,Hardee's,34.2105,-77.9252
+28401,Wilmington,NC,Hardee's,34.2734,-77.9262
+28403,Wilmington,NC,Hardee's,34.2314,-77.8761
+28403,Wilmington,NC,Hardee's,34.2158,-77.901
+28403,Wilmington,NC,Hardee's,34.2426,-77.8899
+28405,Wilmington,NC,Hardee's,34.2639,-77.8262
+28412,Wilmington,NC,Hardee's,34.1428,-77.8926
+27893,Wilson,NC,Hardee's,35.731,-77.9523
+27104,Winston Salem,NC,Hardee's,36.093,-80.2675
+27127,Winston Salem,NC,Hardee's,36.0476,-80.239
+27055,Yadkinville,NC,Hardee's,36.1153,-80.6599
+27379,Yanceyville,NC,Hardee's,36.4382,-79.362
+27597,Zebulon,NC,Hardee's,35.8202,-78.3277
+58501,Bismarck,ND,Hardee's,46.8171,-100.763
+58601,Dickinson,ND,Hardee's,46.8788,-102.789
+58102,Fargo,ND,Hardee's,46.882,-96.7887
+58103,Fargo,ND,Hardee's,46.8766,-96.8442
+58237,Grafton,ND,Hardee's,48.4089,-97.4093
+58201,Grand Forks,ND,Hardee's,47.9035,-97.0667
+58401,Jamestown,ND,Hardee's,46.8999,-98.7078
+58554,Mandan,ND,Hardee's,46.8275,-100.884
+58701,Minot,ND,Hardee's,48.2106,-101.296
+58703,Minot,ND,Hardee's,48.2593,-101.296
+58801,Williston,ND,Hardee's,48.1545,-103.625
+68847,Kearney,NE,Hardee's,40.6996,-99.0847
+68107,Omaha,NE,Hardee's,41.2121,-95.9617
+68138,Omaha,NE,Hardee's,41.1698,-96.1401
+68776,South Sioux City,NE,Hardee's,42.4668,-96.4142
+44305,Akron,OH,Hardee's,41.0642,-81.4295
+43311,Bellefontaine,OH,Hardee's,40.3627,-83.7594
+45714,Belpre,OH,Hardee's,39.2762,-81.5974
+44820,Bucyrus,OH,Hardee's,40.8036,-82.9754
+43113,Circleville,OH,Hardee's,39.6032,-82.949
+43812,Coshocton,OH,Hardee's,40.2705,-81.8692
+45414,Dayton,OH,Hardee's,39.8197,-84.1868
+45431,Dayton,OH,Hardee's,39.7747,-84.0803
+43430,Genoa,OH,Hardee's,41.4863,-83.3712
+43430,Genoa,OH,Hardee's,41.4864,-83.3632
+44047,Jefferson,OH,Hardee's,41.737,-80.7696
+45342,Miamisburg,OH,Hardee's,39.6313,-84.2259
+44657,Minerva,OH,Hardee's,40.734,-81.0951
+43050,Mount Vernon,OH,Hardee's,40.4004,-82.454
+44663,New Philadelphia,OH,Hardee's,40.4623,-81.4076
+44273,Seville,OH,Hardee's,41.0353,-81.8645
+45505,Springfield,OH,Hardee's,39.8957,-83.8112
+44680,Strasburg,OH,Hardee's,40.5899,-81.5254
+44094,Willoughby,OH,Hardee's,41.6425,-81.4231
+74955,Sallisaw,OK,Hardee's,35.4599,-94.7721
+15533,Breezewood,PA,Hardee's,39.9998,-78.2295
+17201,Chambersburg,PA,Hardee's,39.9339,-77.649
+17313,Dallastown,PA,Hardee's,39.897,-76.6244
+17018,Dauphin,PA,Hardee's,40.381,-76.937
+17225,Greencastle,PA,Hardee's,39.7906,-77.7313
+17111,Harrisburg,PA,Hardee's,40.2548,-76.8488
+17344,McSherrystown,PA,Hardee's,39.8069,-77.0123
+17057,Middletown,PA,Hardee's,40.2046,-76.736
+15209,Millvale,PA,Hardee's,40.4929,-79.9754
+17067,Myerstown,PA,Hardee's,40.378,-76.3092
+17362,Spring Grove,PA,Hardee's,39.8842,-76.8626
+15401,Uniontown,PA,Hardee's,39.9074,-79.7411
+17268,Waynesboro,PA,Hardee's,39.7445,-77.5538
+15370,Waynesburg,PA,Hardee's,39.9593,-80.0515
+17404,York,PA,Hardee's,39.9523,-76.7713
+17404,York,PA,Hardee's,39.9841,-76.7348
+29620,Abbeville,SC,Hardee's,34.1733,-82.3738
+29803,Aiken,SC,Hardee's,33.5294,-81.7233
+29805,Aiken,SC,Hardee's,33.6628,-81.6742
+29810,Allendale,SC,Hardee's,33.0101,-81.3112
+29621,Anderson,SC,Hardee's,34.5699,-82.7095
+29624,Anderson,SC,Hardee's,34.5018,-82.6839
+29511,Aynor,SC,Hardee's,33.9927,-79.2019
+29003,Bamberg,SC,Hardee's,33.3066,-81.0338
+29812,Barnwell,SC,Hardee's,33.2403,-81.3897
+29006,Batesburg-Leesville,SC,Hardee's,33.9029,-81.5487
+29627,Belton,SC,Hardee's,34.5166,-82.4871
+29010,Bishopville,SC,Hardee's,34.2161,-80.2518
+29702,Blacksburg,SC,Hardee's,35.142,-81.5081
+29016,Blythewood,SC,Hardee's,34.2125,-80.9806
+29316,Boiling Springs,SC,Hardee's,35.0209,-81.9628
+29546,Brittons Neck,SC,Hardee's,33.9108,-79.4055
+29630,Central,SC,Hardee's,34.7015,-82.7974
+29036,Chapin,SC,Hardee's,34.1671,-81.3567
+29403,Charleston,SC,Hardee's,32.7873,-79.9532
+29414,Charleston,SC,Hardee's,32.8333,-80.0453
+29414,Charleston,SC,Hardee's,32.7907,-80.0365
+29520,Cheraw,SC,Hardee's,34.6911,-79.8952
+29323,Chesnee,SC,Hardee's,35.1382,-81.8617
+29706,Chester,SC,Hardee's,34.7057,-81.191
+29709,Chesterfield,SC,Hardee's,34.7368,-80.1086
+29822,Clearwater,SC,Hardee's,33.4983,-81.9101
+29325,Clinton,SC,Hardee's,34.5028,-81.861
+29710,Clover,SC,Hardee's,35.1093,-81.2286
+29203,Columbia,SC,Hardee's,34.0637,-81.0231
+29205,Columbia,SC,Hardee's,34.0017,-81.0174
+29205,Columbia,SC,Hardee's,33.9876,-80.9875
+29206,Columbia,SC,Hardee's,34.0236,-80.9532
+29209,Columbia,SC,Hardee's,33.9661,-80.9446
+29209,Columbia,SC,Hardee's,33.9542,-80.9236
+29210,Columbia,SC,Hardee's,34.0323,-81.0966
+29210,Columbia,SC,Hardee's,34.0682,-81.1391
+29223,Columbia,SC,Hardee's,34.0657,-80.957
+29526,Conway,SC,Hardee's,33.8538,-79.0094
+29330,Cowpens,SC,Hardee's,35.0197,-81.8024
+29042,Denmark,SC,Hardee's,33.326,-81.139
+29536,Dillon,SC,Hardee's,34.4186,-79.3699
+29334,Duncan,SC,Hardee's,34.9163,-82.11
+29640,Easley,SC,Hardee's,34.8257,-82.5638
+29640,Easley,SC,Hardee's,34.8289,-82.6096
+29335,Enoree,SC,Hardee's,34.6993,-81.9443
+29501,Florence,SC,Hardee's,34.1888,-79.8061
+29501,Florence,SC,Hardee's,34.2308,-79.8011
+29505,Florence,SC,Hardee's,34.1682,-79.7644
+29715,Fort Mill,SC,Hardee's,35.002,-80.8756
+29644,Fountain Inn,SC,Hardee's,34.6911,-82.2183
+29340,Gaffney,SC,Hardee's,35.0803,-81.6328
+29341,Gaffney,SC,Hardee's,35.073,-81.6509
+29440,Georgetown,SC,Hardee's,33.3753,-79.2858
+29445,Goose Creek,SC,Hardee's,33.0038,-80.038
+29445,Goose Creek,SC,Hardee's,32.9693,-80.0065
+29605,Greenville,SC,Hardee's,34.7714,-82.3856
+29605,Greenville,SC,Hardee's,34.8265,-82.4103
+29607,Greenville,SC,Hardee's,34.8231,-82.2894
+29609,Greenville,SC,Hardee's,34.861,-82.4047
+29611,Greenville,SC,Hardee's,34.8116,-82.4393
+29615,Greenville,SC,Hardee's,34.8599,-82.2667
+29617,Greenville,SC,Hardee's,34.8806,-82.4542
+29649,Greenwood,SC,Hardee's,34.2059,-82.1909
+29650,Greer,SC,Hardee's,34.943,-82.2567
+29651,Greer,SC,Hardee's,34.948,-82.2183
+29924,Hampton,SC,Hardee's,32.8761,-81.1191
+29550,Hartsville,SC,Hardee's,34.3601,-80.0677
+29554,Hemingway,SC,Hardee's,33.7503,-79.4476
+29059,Holly Hill,SC,Hardee's,33.314,-80.4004
+29654,Honea Path,SC,Hardee's,34.446,-82.3891
+29349,Inman,SC,Hardee's,35.0415,-82.0884
+29063,Irmo,SC,Hardee's,34.1247,-81.2347
+29556,Kingstree,SC,Hardee's,33.663,-79.833
+29560,Lake City,SC,Hardee's,33.8753,-79.7605
+29720,Lancaster,SC,Hardee's,34.7337,-80.7689
+29072,Lexington,SC,Hardee's,33.9884,-81.2401
+29072,Lexington,SC,Hardee's,33.9615,-81.2312
+29072,Lexington,SC,Hardee's,34.0133,-81.1514
+29073,Lexington,SC,Hardee's,33.9074,-81.2235
+29657,Liberty,SC,Hardee's,34.771,-82.6608
+29566,Little River,SC,Hardee's,33.8776,-78.6113
+29569,Loris,SC,Hardee's,34.0555,-78.8886
+29078,Lugoff,SC,Hardee's,34.2073,-80.7072
+29365,Lyman,SC,Hardee's,34.9698,-82.1514
+29102,Manning,SC,Hardee's,33.6895,-80.216
+29571,Marion,SC,Hardee's,34.1877,-79.3361
+29662,Mauldin,SC,Hardee's,34.7776,-82.3088
+29835,McCormick,SC,Hardee's,33.9113,-82.2953
+29461,Moncks Corner,SC,Hardee's,33.2038,-79.9879
+29464,Mount Pleasant,SC,Hardee's,32.7995,-79.8905
+29574,Mullins,SC,Hardee's,34.2003,-79.2534
+29577,Myrtle Beach,SC,Hardee's,33.6834,-78.8937
+29577,Myrtle Beach,SC,Hardee's,33.735,-78.8329
+29582,North Myrtle Beach,SC,Hardee's,33.8264,-78.6722
+29108,Newberry,SC,Hardee's,34.2839,-81.5969
+29666,Ninety Six,SC,Hardee's,34.1754,-82.0213
+29406,North Charleston,SC,Hardee's,32.9355,-80.0437
+29406,North Charleston,SC,Hardee's,32.9009,-79.9858
+29418,North Charleston,SC,Hardee's,32.9144,-80.1069
+29115,Orangeburg,SC,Hardee's,33.4862,-80.8632
+29115,Orangeburg,SC,Hardee's,33.4857,-80.8321
+29118,Orangeburg,SC,Hardee's,33.5555,-80.8255
+29372,Pacolet,SC,Hardee's,34.8981,-81.7645
+29728,Pageland,SC,Hardee's,34.7737,-80.3834
+29585,Pawleys Island,SC,Hardee's,33.4457,-79.1225
+29671,Pickens,SC,Hardee's,34.882,-82.7027
+29673,Piedmont,SC,Hardee's,34.7011,-82.4762
+29673,Piedmont,SC,Hardee's,34.776,-82.4642
+29935,Port Royal,SC,Hardee's,32.395,-80.686
+29470,Ravenel,SC,Hardee's,32.7762,-80.2492
+29730,Rock Hill,SC,Hardee's,34.9392,-80.9691
+29732,Rock Hill,SC,Hardee's,34.9562,-81.0479
+29376,Roebuck,SC,Hardee's,34.8718,-81.9594
+29477,St. George,SC,Hardee's,33.1951,-80.6001
+29135,St. Matthews,SC,Hardee's,33.6587,-80.7801
+29138,Saluda,SC,Hardee's,34.0088,-81.7719
+29678,Seneca,SC,Hardee's,34.6929,-82.9788
+29681,Simpsonville,SC,Hardee's,34.7579,-82.2702
+29301,Spartanburg,SC,Hardee's,34.9465,-81.9404
+29301,Spartanburg,SC,Hardee's,34.9197,-81.9959
+29303,Spartanburg,SC,Hardee's,34.9681,-81.9294
+29303,Spartanburg,SC,Hardee's,34.983,-81.9727
+29303,Spartanburg,SC,Hardee's,35.0,-81.9099
+29306,Spartanburg,SC,Hardee's,34.9213,-81.8873
+29307,Spartanburg,SC,Hardee's,34.9666,-81.895
+29483,Summerville,SC,Hardee's,33.0393,-80.1442
+29483,Summerville,SC,Hardee's,33.047,-80.1077
+29485,Summerville,SC,Hardee's,32.9522,-80.1631
+29150,Sumter,SC,Hardee's,33.9323,-80.3691
+29575,Surfside Beach,SC,Hardee's,33.6122,-78.9818
+29687,Taylors,SC,Hardee's,34.9153,-82.3194
+29161,Timmonsville,SC,Hardee's,34.1332,-79.9373
+29690,Travelers Rest,SC,Hardee's,34.964,-82.4323
+29379,Union,SC,Hardee's,34.7326,-81.6395
+29691,Walhalla,SC,Hardee's,34.7629,-83.0563
+29488,Walterboro,SC,Hardee's,32.9074,-80.667
+29169,West Columbia,SC,Hardee's,33.9757,-81.0757
+29169,West Columbia,SC,Hardee's,33.9824,-81.1001
+29172,West Columbia,SC,Hardee's,33.9287,-81.0772
+29693,Westminster,SC,Hardee's,34.6592,-83.0889
+29697,Williamston,SC,Hardee's,34.6147,-82.5009
+29853,Williston,SC,Hardee's,33.4001,-81.4183
+57401,Aberdeen,SD,Hardee's,45.4592,-98.49
+57717,Belle Fourche,SD,Hardee's,44.6553,-103.858
+57747,Hot Springs,SD,Hardee's,43.4257,-103.468
+57252,Milbank,SD,Hardee's,45.2228,-96.6579
+57501,Pierre,SD,Hardee's,44.3683,-100.357
+57701,Rapid City,SD,Hardee's,44.0875,-103.194
+57701,Rapid City,SD,Hardee's,44.1072,-103.222
+57701,Rapid City,SD,Hardee's,44.0795,-103.225
+57702,Rapid City,SD,Hardee's,44.0819,-103.256
+37701,Alcoa,TN,Hardee's,35.7616,-83.9773
+37013,Antioch,TN,Hardee's,36.0701,-86.6858
+38449,Ardmore,TN,Hardee's,35.052,-86.8892
+37015,Ashland City,TN,Hardee's,36.268,-87.0592
+37303,Athens,TN,Hardee's,35.4523,-84.6217
+37303,Athens,TN,Hardee's,35.4316,-84.6851
+37303,Athens,TN,Hardee's,35.4405,-84.5927
+37660,Bloomingdale,TN,Hardee's,36.5733,-82.5068
+37620,Bristol,TN,Hardee's,36.5627,-82.2083
+37309,Calhoun,TN,Hardee's,35.3113,-84.7529
+37030,Carthage,TN,Hardee's,36.2638,-85.9556
+37033,Centerville,TN,Hardee's,35.8002,-87.4378
+37407,Chattanooga,TN,Hardee's,35.0168,-85.2769
+37412,Chattanooga,TN,Hardee's,34.9898,-85.2118
+37415,Chattanooga,TN,Hardee's,35.1215,-85.2933
+37416,Chattanooga,TN,Hardee's,35.0915,-85.1842
+37419,Chattanooga,TN,Hardee's,35.0268,-85.3637
+37421,Chattanooga,TN,Hardee's,35.0066,-85.1537
+37421,Chattanooga,TN,Hardee's,35.054,-85.1877
+37042,Clarksville,TN,Hardee's,36.5754,-87.4079
+37043,Clarksville,TN,Hardee's,36.5147,-87.3002
+37311,Cleveland,TN,Hardee's,35.1364,-84.8878
+37311,Cleveland,TN,Hardee's,35.1909,-84.8842
+37312,Cleveland,TN,Hardee's,35.2131,-84.8696
+37312,Cleveland,TN,Hardee's,35.1853,-84.8713
+37323,Cleveland,TN,Hardee's,35.1307,-84.8571
+37716,Clinton,TN,Hardee's,36.0915,-84.1294
+37716,Clinton,TN,Hardee's,36.1647,-84.0845
+37663,Colonial Heights,TN,Hardee's,36.4829,-82.5004
+38401,Columbia,TN,Hardee's,35.6355,-87.0159
+38401,Columbia,TN,Hardee's,35.6173,-87.0651
+38501,Cookeville,TN,Hardee's,36.1578,-85.5003
+38501,Cookeville,TN,Hardee's,36.1391,-85.528
+37317,Copperhill,TN,Hardee's,35.0243,-84.3884
+38555,Crossville,TN,Hardee's,35.9582,-85.0422
+38571,Crossville,TN,Hardee's,35.9644,-84.9815
+37321,Dayton,TN,Hardee's,35.5089,-84.9991
+37322,Decatur,TN,Hardee's,35.5109,-84.7943
+37327,Dunlap,TN,Hardee's,35.3913,-85.3953
+37643,Elizabethton,TN,Hardee's,36.3501,-82.2251
+37650,Erwin,TN,Hardee's,36.1288,-82.426
+37331,Etowah,TN,Hardee's,35.3245,-84.5328
+37334,Fayetteville,TN,Hardee's,35.1422,-86.569
+37064,Franklin,TN,Hardee's,35.9153,-86.8283
+37064,Franklin,TN,Hardee's,35.905,-86.8751
+37066,Gallatin,TN,Hardee's,36.3906,-86.4379
+37072,Goodlettsville,TN,Hardee's,36.3216,-86.7048
+37743,Greeneville,TN,Hardee's,36.1441,-82.848
+37745,Greeneville,TN,Hardee's,36.1789,-82.7769
+37748,Harriman,TN,Hardee's,35.9135,-84.582
+37752,Harrogate,TN,Hardee's,36.5771,-83.6548
+37076,Hermitage,TN,Hardee's,36.172,-86.6019
+37343,Hixson,TN,Hardee's,35.145,-85.2248
+38462,Hohenwald,TN,Hardee's,35.5506,-87.5414
+38305,Jackson,TN,Hardee's,35.6734,-88.7495
+38556,Jamestown,TN,Hardee's,36.4406,-84.9355
+37347,Jasper,TN,Hardee's,35.0914,-85.5985
+37760,Jefferson City,TN,Hardee's,36.039,-83.4441
+37760,Jefferson City,TN,Hardee's,36.1253,-83.4706
+37762,Jellico,TN,Hardee's,36.5825,-84.116
+37601,Johnson City,TN,Hardee's,36.3548,-82.3823
+37604,Johnson City,TN,Hardee's,36.3116,-82.3888
+37659,Jonesborough,TN,Hardee's,36.3005,-82.4649
+37660,Kingsport,TN,Hardee's,36.5495,-82.5235
+37660,Kingsport,TN,Hardee's,36.5036,-82.559
+37763,Kingston,TN,Hardee's,35.879,-84.5103
+37912,Knoxville,TN,Hardee's,36.0072,-84.0252
+37914,Knoxville,TN,Hardee's,36.0006,-83.8753
+37918,Knoxville,TN,Hardee's,36.0246,-83.9238
+37919,Knoxville,TN,Hardee's,35.908,-84.0133
+37919,Knoxville,TN,Hardee's,35.9307,-84.0283
+37920,Knoxville,TN,Hardee's,35.9439,-83.9112
+37920,Knoxville,TN,Hardee's,35.913,-83.9554
+37921,Knoxville,TN,Hardee's,35.966,-83.9348
+37931,Knoxville,TN,Hardee's,35.9794,-84.1133
+37934,Knoxville,TN,Hardee's,35.8939,-84.1736
+37938,Knoxville,TN,Hardee's,36.0881,-83.9237
+37766,La Follette,TN,Hardee's,36.3417,-84.168
+37086,La Vergne,TN,Hardee's,36.0,-86.5965
+37083,Lafayette,TN,Hardee's,36.5129,-86.0113
+38464,Lawrenceburg,TN,Hardee's,35.2571,-87.3253
+37087,Lebanon,TN,Hardee's,36.2118,-86.3158
+37087,Lebanon,TN,Hardee's,36.1888,-86.2958
+37771,Lenoir City,TN,Hardee's,35.8223,-84.2987
+38570,Livingston,TN,Hardee's,36.3788,-85.3325
+38469,Loretto,TN,Hardee's,35.0784,-87.4362
+37774,Loudon,TN,Hardee's,35.7203,-84.3651
+37354,Madisonville,TN,Hardee's,35.5114,-84.3733
+37355,Manchester,TN,Hardee's,35.4748,-86.079
+37801,Maryville,TN,Hardee's,35.7433,-83.9945
+37801,Maryville,TN,Hardee's,35.7161,-84.0165
+37804,Maryville,TN,Hardee's,35.7787,-83.9518
+37804,Maryville,TN,Hardee's,35.755,-83.9518
+37807,Maynardville,TN,Hardee's,36.2272,-83.8427
+37110,McMinnville,TN,Hardee's,35.6827,-85.7792
+37356,Monteagle,TN,Hardee's,35.2363,-85.8414
+38574,Monterey,TN,Hardee's,36.1533,-85.2603
+37813,Morristown,TN,Hardee's,36.2214,-83.2654
+37813,Morristown,TN,Hardee's,36.1397,-83.2796
+37814,Morristown,TN,Hardee's,36.1993,-83.341
+37814,Morristown,TN,Hardee's,36.2339,-83.2865
+37645,Mount Carmel,TN,Hardee's,36.5389,-82.6675
+37122,Mount Juliet,TN,Hardee's,36.2312,-86.5104
+37683,Mountain City,TN,Hardee's,36.4651,-81.802
+37128,Murfreesboro,TN,Hardee's,35.8462,-86.4412
+37129,Murfreesboro,TN,Hardee's,35.8562,-86.4035
+37129,Murfreesboro,TN,Hardee's,35.8747,-86.3855
+37130,Murfreesboro,TN,Hardee's,35.8493,-86.3639
+37210,Nashville,TN,Hardee's,36.151,-86.7001
+37211,Nashville,TN,Hardee's,36.0804,-86.7267
+37821,Newport,TN,Hardee's,35.9513,-83.2002
+37830,Oak Ridge,TN,Hardee's,36.0073,-84.261
+37361,Ocoee,TN,Hardee's,35.1233,-84.7199
+37138,Old Hickory,TN,Hardee's,36.2563,-86.6549
+37840,Oliver Springs,TN,Hardee's,36.0355,-84.3296
+37363,Ooltewah,TN,Hardee's,35.0847,-85.0633
+38363,Parsons,TN,Hardee's,35.6558,-88.127
+37863,Pigeon Forge,TN,Hardee's,35.7946,-83.5629
+37686,Piney Flats,TN,Hardee's,36.433,-82.3091
+37148,Portland,TN,Hardee's,36.5759,-86.5143
+37849,Powell,TN,Hardee's,36.047,-84.0036
+38478,Pulaski,TN,Hardee's,35.1936,-87.0148
+37854,Rockwood,TN,Hardee's,35.8706,-84.6803
+37857,Rogersville,TN,Hardee's,36.4157,-82.9917
+37861,Rutledge,TN,Hardee's,36.2808,-83.5152
+38372,Savannah,TN,Hardee's,35.2259,-88.2554
+38375,Selmer,TN,Hardee's,35.1566,-88.579
+37862,Sevierville,TN,Hardee's,35.8703,-83.5709
+37862,Sevierville,TN,Hardee's,35.8442,-83.5708
+37865,Seymour,TN,Hardee's,35.8725,-83.7596
+37160,Shelbyville,TN,Hardee's,35.4886,-86.457
+37166,Smithville,TN,Hardee's,35.9573,-85.8123
+37167,Smyrna,TN,Hardee's,35.9679,-86.5218
+37869,Sneedville,TN,Hardee's,36.5255,-83.2583
+37379,Soddy Daisy,TN,Hardee's,35.2332,-85.2076
+38583,Sparta,TN,Hardee's,35.9287,-85.4702
+37381,Spring City,TN,Hardee's,35.6955,-84.8587
+37172,Springfield,TN,Hardee's,36.4945,-86.8782
+37874,Sweetwater,TN,Hardee's,35.5939,-84.4828
+37879,Tazewell,TN,Hardee's,36.4699,-83.5508
+37385,Tellico Plains,TN,Hardee's,35.3784,-84.3074
+38382,Trenton,TN,Hardee's,35.9735,-88.9664
+37388,Tullahoma,TN,Hardee's,35.3596,-86.2144
+37388,Tullahoma,TN,Hardee's,35.3845,-86.2321
+38261,Union City,TN,Hardee's,36.4141,-89.0756
+37885,Vonore,TN,Hardee's,35.5916,-84.234
+37887,Wartburg,TN,Hardee's,36.103,-84.5785
+37186,Westmoreland,TN,Hardee's,36.5592,-86.2404
+37188,White House,TN,Hardee's,36.4633,-86.6845
+37397,Whitwell,TN,Hardee's,35.1896,-85.5253
+37398,Winchester,TN,Hardee's,35.1998,-86.0951
+37190,Woodbury,TN,Hardee's,35.8283,-86.0786
+24210,Abingdon,VA,Hardee's,36.7009,-81.9743
+24517,Altavista,VA,Hardee's,37.1147,-79.2818
+24521,Amherst,VA,Hardee's,37.6159,-79.0719
+23005,Ashland,VA,Hardee's,37.7593,-77.4717
+24523,Bedford,VA,Hardee's,37.3334,-79.5191
+24219,Big Stone Gap,VA,Hardee's,36.8696,-82.7716
+24060,Blacksburg,VA,Hardee's,37.2317,-80.4331
+24060,Blacksburg,VA,Hardee's,37.2178,-80.4015
+23824,Blackstone,VA,Hardee's,37.0806,-77.9976
+24605,Bluefield,VA,Hardee's,37.2421,-81.261
+22812,Bridgewater,VA,Hardee's,38.3843,-78.9738
+24201,Bristol,VA,Hardee's,36.6233,-82.1621
+24201,Bristol,VA,Hardee's,36.5989,-82.2019
+24416,Buena Vista,VA,Hardee's,37.7421,-79.3551
+23310,Cape Charles,VA,Hardee's,37.2905,-75.9779
+22901,Charlottesville,VA,Hardee's,38.0817,-78.4744
+22902,Charlottesville,VA,Hardee's,38.0122,-78.5023
+22911,Charlottesville,VA,Hardee's,38.0338,-78.4573
+23924,Chase City,VA,Hardee's,36.7993,-78.4592
+24531,Chatham,VA,Hardee's,36.7897,-79.3942
+23320,Chesapeake,VA,Hardee's,36.7531,-76.2711
+23320,Chesapeake,VA,Hardee's,36.7576,-76.2489
+23322,Chesapeake,VA,Hardee's,36.6326,-76.208
+23322,Chesapeake,VA,Hardee's,36.7146,-76.1846
+23322,Chesapeake,VA,Hardee's,36.7174,-76.2842
+23323,Chesapeake,VA,Hardee's,36.7716,-76.3442
+23323,Chesapeake,VA,Hardee's,36.7922,-76.3292
+23323,Chesapeake,VA,Hardee's,36.7403,-76.3441
+23324,Chesapeake,VA,Hardee's,36.7862,-76.282
+23831,Chester,VA,Hardee's,37.3563,-77.4136
+23836,Chester,VA,Hardee's,37.3535,-77.3968
+24073,Christiansburg,VA,Hardee's,37.1361,-80.3622
+24073,Christiansburg,VA,Hardee's,37.1307,-80.4067
+24073,Christiansburg,VA,Hardee's,37.1687,-80.4206
+23927,Clarksville,VA,Hardee's,36.6213,-78.5631
+24422,Clifton Forge,VA,Hardee's,37.8117,-79.8378
+24228,Clintwood,VA,Hardee's,37.1624,-82.4472
+24230,Coeburn,VA,Hardee's,36.9548,-82.4627
+24078,Collinsville,VA,Hardee's,36.7201,-79.9131
+23834,Colonial Heights,VA,Hardee's,37.2567,-77.4114
+23834,Colonial Heights,VA,Hardee's,37.2588,-77.3987
+24426,Covington,VA,Hardee's,37.7782,-79.9867
+23930,Crewe,VA,Hardee's,37.174,-78.1244
+24540,Danville,VA,Hardee's,36.6266,-79.4013
+24540,Danville,VA,Hardee's,36.5808,-79.3428
+24541,Danville,VA,Hardee's,36.5866,-79.4227
+24541,Danville,VA,Hardee's,36.5675,-79.4322
+24084,Dublin,VA,Hardee's,37.1086,-80.6939
+24244,Duffield,VA,Hardee's,36.6982,-82.7985
+23847,Emporia,VA,Hardee's,36.678,-77.5643
+23350,Exmore,VA,Hardee's,37.5163,-75.8324
+22406,Falmouth,VA,Hardee's,38.3448,-77.4986
+24091,Floyd,VA,Hardee's,36.9121,-80.3161
+23851,Franklin,VA,Hardee's,36.6781,-76.9211
+22401,Fredericksburg,VA,Hardee's,38.31,-77.465
+22408,Fredericksburg,VA,Hardee's,38.2562,-77.4977
+24333,Galax,VA,Hardee's,36.665,-80.926
+24251,Gate City,VA,Hardee's,36.6387,-82.5751
+23061,Gloucester,VA,Hardee's,37.3932,-76.5281
+22942,Gordonsville,VA,Hardee's,38.1423,-78.1899
+23692,Grafton,VA,Hardee's,37.1591,-76.4628
+24614,Grundy,VA,Hardee's,37.2829,-82.1133
+24558,Halifax,VA,Hardee's,36.7606,-78.9279
+23605,Hampton,VA,Hardee's,37.0206,-76.4383
+23661,Hampton,VA,Hardee's,37.0072,-76.4022
+23663,Hampton,VA,Hardee's,37.0166,-76.3252
+23666,Hampton,VA,Hardee's,37.0427,-76.4281
+23666,Hampton,VA,Hardee's,37.0795,-76.3859
+23669,Hampton,VA,Hardee's,37.0436,-76.3423
+22801,Harrisonburg,VA,Hardee's,38.4406,-78.8575
+22801,Harrisonburg,VA,Hardee's,38.433,-78.9006
+23072,Hayes,VA,Hardee's,37.275,-76.4994
+23075,Highland Springs,VA,Hardee's,37.5383,-77.32
+24343,Hillsville,VA,Hardee's,36.7632,-80.7348
+23860,Hopewell,VA,Hardee's,37.3063,-77.2902
+23860,Hopewell,VA,Hardee's,37.2826,-77.3041
+23868,Lawrenceville,VA,Hardee's,36.7542,-77.8511
+24266,Lebanon,VA,Hardee's,36.8938,-82.0707
+24450,Lexington,VA,Hardee's,37.7737,-79.4318
+23093,Louisa,VA,Hardee's,38.0207,-77.996
+22835,Luray,VA,Hardee's,38.6655,-78.4499
+24501,Lynchburg,VA,Hardee's,37.4124,-79.1729
+24502,Lynchburg,VA,Hardee's,37.3442,-79.235
+24502,Lynchburg,VA,Hardee's,37.3605,-79.1715
+24572,Madison Heights,VA,Hardee's,37.4593,-79.114
+20111,Manassas Park,VA,Hardee's,38.7716,-77.4528
+24354,Marion,VA,Hardee's,36.8205,-81.5487
+24112,Martinsville,VA,Hardee's,36.688,-79.8629
+24112,Martinsville,VA,Hardee's,36.6831,-79.8765
+23109,Mathews,VA,Hardee's,37.4282,-76.3373
+23112,Midlothian,VA,Hardee's,37.4082,-77.656
+23112,Midlothian,VA,Hardee's,37.443,-77.584
+23601,Newport News,VA,Hardee's,37.0561,-76.464
+23601,Newport News,VA,Hardee's,37.0449,-76.4734
+23608,Newport News,VA,Hardee's,37.1302,-76.5346
+23502,Norfolk,VA,Hardee's,36.8666,-76.2365
+23505,Norfolk,VA,Hardee's,36.9117,-76.2553
+23505,Norfolk,VA,Hardee's,36.9293,-76.3181
+23517,Norfolk,VA,Hardee's,36.869,-76.2922
+23518,Norfolk,VA,Hardee's,36.915,-76.2204
+23523,Norfolk,VA,Hardee's,36.8364,-76.2639
+24273,Norton,VA,Hardee's,36.9409,-82.627
+23418,Onley,VA,Hardee's,37.683,-75.7049
+22960,Orange,VA,Hardee's,38.249,-78.113
+24134,Pearisburg,VA,Hardee's,37.3315,-80.742
+24277,Pennington Gap,VA,Hardee's,36.7613,-83.0205
+23803,Petersburg,VA,Hardee's,37.203,-77.4611
+23803,Petersburg,VA,Hardee's,37.2158,-77.3662
+23805,Petersburg,VA,Hardee's,37.2063,-77.3834
+23701,Portsmouth,VA,Hardee's,36.8196,-76.3811
+23703,Portsmouth,VA,Hardee's,36.861,-76.3958
+23704,Portsmouth,VA,Hardee's,36.837,-76.3078
+24301,Pulaski,VA,Hardee's,37.0484,-80.7596
+24141,Radford,VA,Hardee's,37.146,-80.5845
+24641,Richlands,VA,Hardee's,37.0983,-81.8043
+23223,Richmond,VA,Hardee's,37.5776,-77.3953
+23225,Richmond,VA,Hardee's,37.5383,-77.5208
+23227,Richmond,VA,Hardee's,37.6355,-77.459
+23228,Richmond,VA,Hardee's,37.6138,-77.4702
+23228,Richmond,VA,Hardee's,37.6329,-77.5067
+23229,Richmond,VA,Hardee's,37.6031,-77.5639
+23230,Richmond,VA,Hardee's,37.5848,-77.497
+23230,Richmond,VA,Hardee's,37.5635,-77.4692
+23231,Richmond,VA,Hardee's,37.5198,-77.3508
+23234,Richmond,VA,Hardee's,37.4603,-77.4421
+23235,Richmond,VA,Hardee's,37.4979,-77.5425
+23235,Richmond,VA,Hardee's,37.5059,-77.6025
+24148,Ridgeway,VA,Hardee's,36.6308,-79.8595
+24012,Roanoke,VA,Hardee's,37.3063,-79.9316
+24012,Roanoke,VA,Hardee's,37.2905,-79.9095
+24012,Roanoke,VA,Hardee's,37.3109,-79.95
+24013,Roanoke,VA,Hardee's,37.269,-79.929
+24017,Roanoke,VA,Hardee's,37.3047,-79.9799
+24017,Roanoke,VA,Hardee's,37.313,-80.0064
+24018,Roanoke,VA,Hardee's,37.2353,-80.0052
+24018,Roanoke,VA,Hardee's,37.2247,-79.9827
+24019,Roanoke,VA,Hardee's,37.3477,-79.9526
+24151,Rocky Mount,VA,Hardee's,37.0027,-79.8817
+24588,Rustburg,VA,Hardee's,37.2774,-79.0996
+24283,St. Paul,VA,Hardee's,36.9299,-82.3376
+24153,Salem,VA,Hardee's,37.2878,-80.093
+24153,Salem,VA,Hardee's,37.298,-80.0291
+24153,Salem,VA,Hardee's,37.2757,-80.0368
+23149,Saluda,VA,Hardee's,37.5907,-76.5949
+23430,Smithfield,VA,Hardee's,36.9566,-76.6037
+24592,South Boston,VA,Hardee's,36.7026,-78.906
+24592,South Boston,VA,Hardee's,36.6873,-78.8997
+23970,South Hill,VA,Hardee's,36.7178,-78.1168
+22553,Spotsylvania,VA,Hardee's,38.2342,-77.558
+22556,Stafford,VA,Hardee's,38.4711,-77.413
+24168,Stanleytown,VA,Hardee's,36.7391,-79.9425
+24401,Staunton,VA,Hardee's,38.1525,-79.0739
+24171,Stuart,VA,Hardee's,36.637,-80.2702
+24477,Stuarts Draft,VA,Hardee's,38.033,-79.0399
+23434,Suffolk,VA,Hardee's,36.7322,-76.5984
+23434,Suffolk,VA,Hardee's,36.7597,-76.5873
+23434,Suffolk,VA,Hardee's,36.7383,-76.592
+24651,Tazewell,VA,Hardee's,37.132,-81.492
+22853,Timberville,VA,Hardee's,38.6279,-78.7788
+24175,Troutville,VA,Hardee's,37.3862,-79.9028
+24482,Verona,VA,Hardee's,38.1846,-78.9233
+23452,Virginia Beach,VA,Hardee's,36.8197,-76.121
+23452,Virginia Beach,VA,Hardee's,36.842,-76.0889
+23453,Virginia Beach,VA,Hardee's,36.795,-76.1177
+23454,Virginia Beach,VA,Hardee's,36.7892,-75.9973
+23454,Virginia Beach,VA,Hardee's,36.876,-76.0395
+23454,Virginia Beach,VA,Hardee's,36.8421,-76.0471
+23455,Virginia Beach,VA,Hardee's,36.8625,-76.1325
+23455,Virginia Beach,VA,Hardee's,36.8838,-76.1834
+23462,Virginia Beach,VA,Hardee's,36.8445,-76.1522
+23464,Virginia Beach,VA,Hardee's,36.8118,-76.2047
+23464,Virginia Beach,VA,Hardee's,36.8153,-76.1642
+22572,Warsaw,VA,Hardee's,37.9613,-76.7764
+23890,Waverly,VA,Hardee's,37.0315,-77.0862
+22980,Waynesboro,VA,Hardee's,38.0722,-78.9003
+23181,West Point,VA,Hardee's,37.5369,-76.8
+23185,Williamsburg,VA,Hardee's,37.2726,-76.6806
+23188,Williamsburg,VA,Hardee's,37.3404,-76.7543
+24293,Wise,VA,Hardee's,36.9796,-82.584
+22664,Woodstock,VA,Hardee's,38.8698,-78.5228
+24382,Wytheville,VA,Hardee's,36.9523,-81.0729
+23693,Yorktown,VA,Hardee's,37.1164,-76.4639
+54001,Amery,WI,Hardee's,45.3065,-92.3623
+54409,Antigo,WI,Hardee's,45.1422,-89.1524
+54911,Appleton,WI,Hardee's,44.2947,-88.3756
+54806,Ashland,WI,Hardee's,46.5883,-90.893
+54002,Baldwin,WI,Hardee's,44.9419,-92.3738
+54615,Black River Falls,WI,Hardee's,44.3038,-90.8441
+54724,Bloomer,WI,Hardee's,45.0992,-91.5007
+54421,Colby,WI,Hardee's,44.9287,-90.3152
+53018,Delafield,WI,Hardee's,43.0479,-88.3915
+53533,Dodgeville,WI,Hardee's,42.9746,-90.133
+54701,Eau Claire,WI,Hardee's,44.7933,-91.5092
+54701,Eau Claire,WI,Hardee's,44.8072,-91.471
+54703,Eau Claire,WI,Hardee's,44.8494,-91.4746
+53809,Fennimore,WI,Hardee's,42.986,-90.6554
+54935,Fond Du Lac,WI,Hardee's,43.7531,-88.4504
+54935,Fond Du Lac,WI,Hardee's,43.7844,-88.4734
+54303,Green Bay,WI,Hardee's,44.5235,-88.1002
+54304,Green Bay,WI,Hardee's,44.4748,-88.0751
+54304,Green Bay,WI,Hardee's,44.5053,-88.0694
+54311,Green Bay,WI,Hardee's,44.4655,-87.9481
+54843,Hayward,WI,Hardee's,46.0144,-91.4865
+53545,Janesville,WI,Hardee's,42.7189,-88.9949
+53545,Janesville,WI,Hardee's,42.679,-89.0026
+54130,Kaukauna,WI,Hardee's,44.2599,-88.2737
+54601,La Crosse,WI,Hardee's,43.7725,-91.2174
+54603,La Crosse,WI,Hardee's,43.8417,-91.2485
+53704,Madison,WI,Hardee's,43.1315,-89.3
+54449,Marshfield,WI,Hardee's,44.6534,-90.1827
+54451,Medford,WI,Hardee's,45.1388,-90.3331
+54452,Merrill,WI,Hardee's,45.1829,-89.6829
+53562,Middleton,WI,Hardee's,43.1103,-89.5095
+54548,Minocqua,WI,Hardee's,45.8754,-89.7868
+54956,Neenah,WI,Hardee's,44.1751,-88.4848
+54456,Neillsville,WI,Hardee's,44.5526,-90.5956
+54153,Oconto,WI,Hardee's,44.8923,-87.8843
+54963,Omro,WI,Hardee's,44.0393,-88.7405
+54901,Oshkosh,WI,Hardee's,44.0205,-88.543
+54902,Oshkosh,WI,Hardee's,43.9943,-88.5789
+54758,Osseo,WI,Hardee's,44.5791,-91.2021
+54552,Park Falls,WI,Hardee's,45.9262,-90.4513
+53821,Prairie Du Chien,WI,Hardee's,43.0397,-91.1394
+54162,Pulaski,WI,Hardee's,44.6641,-88.2308
+53406,Racine,WI,Hardee's,42.7177,-87.8463
+54501,Rhinelander,WI,Hardee's,45.6335,-89.3811
+54868,Rice Lake,WI,Hardee's,45.4822,-91.7335
+54474,Rothschild,WI,Hardee's,44.8979,-89.6123
+53235,St. Francis,WI,Hardee's,42.9593,-87.879
+54166,Shawano,WI,Hardee's,44.7819,-88.5857
+53081,Sheboygan,WI,Hardee's,43.7507,-87.7481
+53083,Sheboygan,WI,Hardee's,43.7943,-87.7652
+54481,Stevens Point,WI,Hardee's,44.5294,-89.5747
+54481,Stevens Point,WI,Hardee's,44.5051,-89.5674
+54235,Sturgeon Bay,WI,Hardee's,44.842,-87.371
+53177,Sturtevant,WI,Hardee's,42.6978,-87.8933
+54880,Superior,WI,Hardee's,46.7205,-92.0997
+53089,Sussex,WI,Hardee's,43.133,-88.2094
+53094,Watertown,WI,Hardee's,43.1934,-88.7177
+53188,Waukesha,WI,Hardee's,43.014,-88.2306
+54981,Waupaca,WI,Hardee's,44.3581,-89.0963
+54401,Wausau,WI,Hardee's,44.9574,-89.6681
+54494,Wisconsin Rapids,WI,Hardee's,44.3781,-89.817
+25504,Barboursville,WV,Hardee's,38.4127,-82.3135
+25813,Beaver,WV,Hardee's,37.7694,-81.0669
+25801,Beckley,WV,Hardee's,37.7929,-81.2159
+25801,Beckley,WV,Hardee's,37.8046,-81.1835
+25302,Big Chimney,WV,Hardee's,38.4061,-81.5393
+24701,Bluefield,WV,Hardee's,37.265,-81.2349
+25506,Branchland,WV,Hardee's,38.2661,-82.2063
+26330,Bridgeport,WV,Hardee's,39.285,-80.2519
+26201,Buckhannon,WV,Hardee's,38.9791,-80.2246
+25508,Chapmanville,WV,Hardee's,37.9463,-82.0371
+25302,Charleston,WV,Hardee's,38.3612,-81.6228
+26301,Clarksburg,WV,Hardee's,39.2728,-80.3223
+26241,Elkins,WV,Hardee's,38.9228,-79.8435
+26554,Fairmont,WV,Hardee's,39.4504,-80.175
+25621,Gilbert,WV,Hardee's,37.6141,-81.8668
+25704,Huntington,WV,Hardee's,38.4115,-82.485
+25526,Hurricane,WV,Hardee's,38.4485,-81.94
+26537,Kingwood,WV,Hardee's,39.4699,-79.6738
+24901,Lewisburg,WV,Hardee's,37.8136,-80.431
+25635,Man,WV,Hardee's,37.73,-81.8616
+25315,Marmet,WV,Hardee's,38.239,-81.5572
+26836,Moorefield,WV,Hardee's,39.0519,-78.9745
+26505,Morgantown,WV,Hardee's,39.6249,-79.9248
+26505,Morgantown,WV,Hardee's,39.6579,-79.9623
+24870,Oceana,WV,Hardee's,37.7112,-81.6032
+26101,Parkersburg,WV,Hardee's,39.233,-81.5415
+26101,Parkersburg,WV,Hardee's,39.2648,-81.5372
+26104,Parkersburg,WV,Hardee's,39.2923,-81.5261
+26416,Philippi,WV,Hardee's,39.1495,-80.0366
+24740,Princeton,WV,Hardee's,37.3609,-81.0552
+24740,Princeton,WV,Hardee's,37.3612,-81.099
+25962,Rainelle,WV,Hardee's,37.969,-80.7657
+25921,Sophia,WV,Hardee's,37.7075,-81.2508
+25303,South Charleston,WV,Hardee's,38.3675,-81.6864
+26651,Summersville,WV,Hardee's,38.2839,-80.8446
+26105,Vienna,WV,Hardee's,39.3242,-81.5503
+26452,Weston,WV,Hardee's,39.0469,-80.4977
+26003,Wheeling,WV,Hardee's,40.0769,-80.6952
+24986,White Sulphur Springs,WV,Hardee's,37.8002,-80.291
+82834,Buffalo,WY,Hardee's,44.3543,-106.694
+82601,Casper,WY,Hardee's,42.8493,-106.336
+82609,Casper,WY,Hardee's,42.8501,-106.271
+82001,Cheyenne,WY,Hardee's,41.1338,-104.813
+82716,Gillette,WY,Hardee's,44.293,-105.495
+82072,Laramie,WY,Hardee's,41.3153,-105.593
